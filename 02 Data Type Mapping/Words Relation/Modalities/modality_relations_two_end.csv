@@ -1,0 +1,22 @@
+word,word_label,relation,related_word,related_word_label
+Q514,anatomy,P279,Q420,biology
+Q514,anatomy,P361,Q420,biology
+Q864574,biomarker,P361,Q420,biology
+Q420,biology,P527,Q514,anatomy
+Q20514253,blockchain,P279,Q8513,database
+Q8513,database,P527,Q42848,data
+Q1172540,data stream,P527,Q42848,data
+Q1643805,container,P279,Q42848,data
+Q2285707,categorical variable,P279,Q42848,data
+Q37732,demography,P279,Q1071,geography
+Q26939,epigenetics,P279,Q7162,genetics
+Q26939,epigenetics,P361,Q7162,genetics
+Q222046,genomics,P279,Q7162,genetics
+Q124815680,movement data,P1269,Q79782,motion
+Q384188,magnetoencephalography,P279,Q551875,neuroimaging
+Q33002955,knowledge graph,P279,Q593744,knowledge base
+Q45045,simulation,P361,Q413,physics
+Q2178623,spatial relation,P1552,Q121769,reference
+Q8054,protein,P1552,Q735188,protein structure
+Q55950686,virtual environment,P1889,Q170519,virtual reality
+Q170519,virtual reality,P1889,Q55950686,virtual environment
