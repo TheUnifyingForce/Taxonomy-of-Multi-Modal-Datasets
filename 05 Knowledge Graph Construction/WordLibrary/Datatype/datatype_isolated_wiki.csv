@@ -1,0 +1,200 @@
+datatype,wiki_word,qid
+answer,answer,Q11446
+tweet,tweet,Q56119332
+documentation,documentation,Q788790
+passage,excerpt,Q1385610
+instruction,instruction,Q1151067
+abstract,abstract,Q333291
+comment,comment,Q1749541
+music,music,Q638
+paragraph,paragraph,Q194431
+translation,translation,Q7553
+code snippet,snippet,Q1120538
+claim,claim,Q95972591
+prompt,command prompt,Q1307456
+token,access token,Q2292980
+relation,relation,Q930933
+survey response,survey answer,Q97656500
+explanation,explanation,Q7958
+evaluation metric,metric,Q17004438
+keyword,keyword,Q1072684
+story,story,Q1318295
+title,title,Q783521
+citation,citation,Q1713
+response,response,Q1920566
+headline,headline,Q1313396
+chest x-ray,chest radiograph,Q1283318
+paraphrase,paraphrase,Q255189
+task instruction,user guide,Q1057179
+article title,title,P1476
+category,type,Q21146257
+sketch,sketch,Q5078274
+math word problem,word problem,Q255912
+edge,edge,Q3297804
+table,table,Q496946
+background noise,background noise,Q1371624
+author name,author name,Q60557745
+url,URL,Q42253
+optical flow,optical flow,Q736111
+evidence,evidence,Q176763
+topic,topic,Q26256810
+molecular structure,molecular structure,Q100682626
+multiple choice option,multiple choice question,Q28060611
+paper abstract,abstract,Q333291
+review,review,Q265158
+chemical property,chemical property,Q764285
+premise,premise,Q321703
+argument,argument,Q186619
+recipe instruction,recipe,Q219239
+context,context,Q813912
+node,node,Q1304193
+rating,rating,Q851176
+sentiment analysis,sentiment analysis,Q2271421
+machine translation,machine translation,Q79798
+target,target,P533
+sign language gesture,hand gesture,Q16639010
+hashtag,hashtag,Q278485
+movie review,film review,Q69699844
+environmental noise,environmental noise,Q2478325
+book,book,Q571
+weather condition,weather,Q11663
+code comment,program comment,Q1141067
+event,event,Q1190554
+hyperspectral imagery,hyperspectral image,Q132367229
+song lyric,lyrics,Q602446
+blog post,blog post,Q17928402
+material property,material property,Q112225193
+reply,response,Q1920566
+rdf triple,semantic triple,Q3539534
+academic reference,reference,Q1713
+demographic,demographics,Q2725376
+date,date,Q205892
+vital sign,vital signs,Q1067560
+multiple choice answer,multiple choice questionnaire,Q867668
+phrase,phrase,Q187931
+answer candidate,answer,Q1920566
+geometric shape,geometric shape,Q815741
+brain mri,magnetic resonance imaging of the brain,Q13400786
+email content,email,Q9158
+narrative,narrative,Q1318295
+knowledge graph entity,knowledge graph,Q33002955
+logical form,logical form,Q6667497
+student essay,essay,Q35760
+movie script,screenplay,Q103076
+meme,internet meme,Q2927074
+definition,definition,Q101072
+essay,essay,Q35760
+bug report,issue,Q97167596
+perturbation,perturbation,Q803623
+questionnaire response,survey answer,Q97656500
+stock price,share price,Q1020013
+trading volume,volume,Q913748
+problem statement,problem statement,Q4374193
+episodic buffer detail,Baddeley's model of working memory,Q220986
+web content,web content,Q3948731
+protein structure,protein structure,Q735188
+cartoon,cartoon,Q11425
+concept,concept,Q151885
+eeg,electroencephalography,Q179965
+book review,book review,Q637866
+pedestrian detection,pedestrian detection,Q2355550
+chinese character,Chinese characters,Q8201
+network packet,packet,Q214111
+chest radiograph,chest radiograph,Q1283318
+web page,web page,Q36774
+technical documentation,technical documentation,Q1413406
+singing voice,singing voice,Q17172850
+economic indicator,economic indicator,Q1167393
+heart rate,heart rate,Q1073121
+proof,proof,Q11538
+ambient noise,background noise,Q1371624
+hand gesture,hand gesture,Q16639010
+diagram,diagram,Q959962
+aerial imagery,aerial photograph,Q113670888
+academic abstract,abstract,Q333291
+eye movement,eye movement,Q760256
+ct scan slice,computed tomography,Q32566
+command,command,Q1079196
+interaction log,logical interaction,Q3153081
+mention,mention,Q6817566
+occlusion,occlusion,Q968808
+sms message,text message,Q13159882
+orthographic transcription,orthographic transcription,Q1055909
+resting state fmri,resting-state fMRI,Q7316120
+electrocardiogram,electrocardiogram,Q13038557
+event log,log entry,Q13769783
+academic paper title,title,Q783521
+website content,web content,Q3948731
+presentation slide,presentation slide,Q7240995
+alpha matte,alpha compositing,Q693457
+jupyter notebook,Jupyter Notebook,Q105099901
+short story,short story,Q49084
+brain activity,electroencephalography,Q179965
+scenario,screenplay,Q103076
+plot,plot,Q1758354
+activity,activity,Q1914636
+commonsense inference,commonsense reasoning,Q5153664
+sports action,sport action,Q18175633
+artistic style,art style,Q1792644
+sign language interpretation,sign language interpretation,Q11497140
+joke,joke,Q131138
+respiration,respiration,Q9530
+supporting evidence,supporting evidence,Q110632057
+lemma,lemma,Q207505
+error message,error message,Q1332193
+time interval,time interval,Q186081
+guideline,guideline,Q1630279
+speaker utterance,utterance,Q258403
+name,name,Q82799
+lyric,lyrics,Q602446
+anatomical landmark,anatomical landmark,Q66505026
+term,term,Q1969448
+syntax,syntax,Q1152399
+bilingual dictionary,bilingual dictionary,Q2640207
+pronoun,pronoun,Q36224
+court decision,court decision,Q327000
+query rewrite,query rewrite,Q17492388
+movie trailer,trailer,Q622550
+acronym,acronym,Q101244
+biomedical literature,medical literature,Q5977147
+statement,statement,Q2684591
+machine reading comprehension,machine reading comprehension,Q124149560
+fiction,fiction,Q8253
+hierarchical structure,hierarchy,Q188619
+questions and answer,FAQ,Q189293
+profile picture,avatar,Q152402
+poetry,poetry,Q482
+article abstract,abstract,Q333291
+web table,table,Q94100381
+message,message,Q133492
+virtual environment,virtual environment,Q1002697
+dance performance,dance performance,Q3153560
+lifestyle vlog,vlog,Q674926
+artwork,work of art,Q838948
+structural mri,magnetic resonance imaging,Q161238
+pull request,pull request,Q68712963
+academic paper abstract,abstract,Q333291
+technical report,technical report,Q3099732
+conclusion,conclusion,Q20665666
+movie title,title,Q783521
+energy,energy,Q11379
+neuroimaging,neuroimaging,Q551875
+opinion,opinion,Q3962655
+spike train,spike train,Q22307231
+manuscript,manuscript,Q87167
+acceptability judgment,acceptability judgment task,Q65079176
+price,price,Q160151
+motor imagery,motor imagery,Q6918191
+tutorial,tutorial,Q535741
+chart,chart,Q28923
+causal relation,causal relationship,Q130278256
+location name,locational surname,Q1714800
+variable value,variable,Q50701
+financial news,business journalism,Q2142888
+feedback,feedback,Q183635
+instruction prompt,prompt format,Q131939460
+case study,case study,Q155207
+publication reference,reference,Q1713
+ontology,ontology,Q324254
+math problem,mathematical problem,Q1166625
+analytical solution,closed-form expression,Q777407

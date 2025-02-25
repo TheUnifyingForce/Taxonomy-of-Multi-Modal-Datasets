@@ -1,0 +1,260 @@
+modality,wiki_word,qid
+2d image,image,Q478798
+2d structure,structure,Q6671777
+3d annotation,annotation,Q857525
+3d body skeleton,skeleton,Q7881
+3d coordinate,coordinate system,Q11210
+3d environment,virtual environment,Q55950686
+3d landmark,landmark,Q4895393
+3d layout,layout,Q671986
+3d lidar,lidar,Q504027
+3d mesh,polygon mesh,Q1154597
+3d model parameter,3d model,Q3859833
+3d motion,motion,Q79782
+3d motion capture,motion capture,Q676252
+3d object,three-dimensional object,Q35459920
+3d point,point,Q44946
+3d point cloud,point cloud,Q1899648
+3d pose,pose,Q1671968
+3d pose annotation,annotation,Q857525
+3d scalar field,scalar field,Q193460
+3d scan,3d scanning,Q94701573
+3d simulation,simulation,Q45045
+3d skeletal,skeletal animation,Q1813564
+3d skeleton,skeleton,Q7881
+3d structure,3d model,Q3859833
+3d trajectory,trajectory,Q193139
+alpha matte,alpha compositing,Q693457
+anatomical,anatomy,Q514
+behavioral,behavior,Q9332
+bioassay data,bioassay,Q864212
+biological,biology,Q420
+biometric,biometrics,Q177765
+body motion,motion,Q79782
+bounding box,bounding volume,Q1434060
+brain signal,electroencephalography ,Q179965
+camera parameter,camera matrix,Q5026015
+camera pose,camera resectioning,Q2933935
+categorical,categorical variable,Q2285707
+chemical,chemistry,Q2329
+control stream,control flow,Q868299
+cwl,common workflow language,Q56291707
+data array,array data structure ,Q186152
+demographic,demography,Q37732
+dynamical,dynamics,Q128030
+ecg,electrocardiography,Q79785
+edge map,edge detection,Q1513153
+electrophysiological,electroencephalography,Q179965
+eog,electrooculography,Q420647
+epigenetic,epigenetics ,Q26939
+evaluation metric,evaluation measures,Q25211005
+external tool,physical tool ,Q39546
+eye gaze,eye tracking,Q970687
+genetic,genetics,Q7162
+genomic,genomics,Q222046
+genomic sequence,whole-genome sequence,Q104595271
+geo information,geographic information ,Q5915793
+geographical,geography,Q1071
+gnss,global navigation satellite system,Q179435
+gnss/ins,global navigation satellite system,Q179435
+inertial,inertial navigation system,Q570607
+interaction log,log file,Q949532
+interactive environment,interactive computing,Q956238
+kinesthetic,kinaesthetics,Q1742319
+laser scan,laser scanning,Q1361664
+meta information,metadata,Q180160
+meteorological,meteorology,Q25261
+model prediction,predictive modelling,Q7239673
+molecular,molecule,Q11369
+motion tracking,motion capture,Q676252
+multimodal,multimodality,Q1952416
+network capture,pcap,Q285459
+network flow,flow network,Q1412924
+network traffic,traffic volume,Q2516350
+neurophysiological,neurophysiology,Q660910
+numerical,numeral,Q63116
+physical interaction,fundamental interaction,Q104934
+physiological,physiology,Q521
+physiological signal,biosignal ,Q644240
+pose information,pose,Q1671968
+positional data,location data,Q60474237
+procedurally generated data,procedural generation,Q655427
+robot joint angle,robot kinematics,Q16000312
+saliency map,salience,Q1469792
+segmentation map,image segmentation,Q56933
+segmentation mask,image segmentation,Q56933
+semantic representation,semantics ,Q39645
+sequential data,time series,Q186588
+social context,social environment,Q1571836
+spatial,spatial data,Q11692743
+spatial coordinate,coordinate system ,Q11210
+spatiotemporal,spacetime,Q133327
+spiking neural data,spiking neural network,Q9067355
+state tracking,state,Q599031
+structural,structure,Q6671777
+surface normals,normal,Q273176
+syntactic analysis,parsing,Q194152
+system log,log file,Q949532
+temporal graph,time-varying network,Q25303718
+temporal sequence,time series,Q186588
+text-image interaction,multimodal interaction,Q738567
+user data,personal data,Q3702971
+user metadata,metadata,Q180160
+virtual api,application programming interface,Q165194
+visual,visual perception,Q162668
+vr,virtual reality,Q170519
+web structure,webgraph,Q7978783
+2d,2d,Q5651824
+3d,3d,Q108276326
+3d model,3d model,Q3859833
+4d,4d,Q20685814
+action,action,Q2634111
+activity,activity,Q1914636
+algorithm,algorithm,Q8366
+analytic,analytic,Q65311416
+animation,animation,Q11425
+annotation,annotation,Q857525
+application,application,Q166142
+audio,audio,Q3500685
+audiovisual,audiovisual,Q758901
+binary,binary,Q4913864
+biochemical,biochemical,Q124892534
+biomarker,biomarker,Q864574
+biosample,biosample,Q96797376
+biosignal,biosignal,Q644240
+blockchain,blockchain,Q20514253
+box,box,Q16860308
+calibration,calibration,Q736777
+camera,camera,Q15328
+chemical structure,chemical structure,Q500256
+code,code,Q37141227
+configuration,configuration,Q1866689
+container,container,Q1643805
+control,control,Q338754
+data,data,Q42848
+data file,data file,Q5227290
+data stream,data stream,Q1172540
+database,database,Q8513
+depth,depth,Q930412
+depth map,depth map,Q2940499
+document,document,Q49848
+drive,drive,Q125338722
+eeg,eeg,Q30643862
+electromyography,electromyography,Q27710763
+embedding,embedding,Q980509
+emotion,emotion,Q5373749
+environment,environment,Q2249676
+environmental condition,environmental condition,Q110792565
+event,event,Q1656682
+event stream,event stream,Q104622942
+eye tracking,eye tracking,Q970687
+feature,feature,Q814254
+feature vector,feature vector,Q1921842
+file,file,Q193142
+fmri,fmri,Q18615495
+game,game,Q11410
+gameplay,gameplay,Q1331296
+gaze,gaze,Q16870142
+geolocation,geolocation,Q123349905
+geometry,geometry,Q8087
+geospatial,geospatial,Q122074678
+gesture,gesture,Q371174
+gps,gps,Q368785
+graph,graph,Q98669280
+ground truth,ground truth,Q370766
+grounding,grounding,Q14920473
+haptic,haptic,Q119732988
+identifier,identifier,Q853614
+image,image,Q478798
+imu,imu,Q26203674
+index,index,Q873506
+interaction,interaction,Q4641997
+interactive,interactive,Q1636759
+json,json,Q2063
+key point,key point,Q34961254
+kinematic,kinematic,Q25215452
+knowledge base,knowledge base,Q593744
+knowledge graph,knowledge graph,Q33002955
+label,label,Q722218
+lidar,lidar,Q504027
+link,link,Q63617815
+list,list,Q1828075
+location,location,Q115095765
+log,log,Q39304236
+magnetoencephalography,magnetoencephalography,Q384188
+map,map,Q4006
+mask,mask,Q161524
+matrix,matrix,Q44337
+metadata,metadata,Q180160
+metrics,metrics,Q12796440
+midi,midi,Q98777027
+model,model,Q4610556
+motion,motion,Q452237
+motion capture,motion capture,Q676252
+movement data,movement data,Q124815680
+multilingual,multilingual,Q96716753
+network,network,Q7000691
+neural,neural,Q57032909
+neuroimaging,neuroimaging,Q551875
+nirs,nirs,Q131462388
+notebook,notebook,Q43013
+numeric,numeric,Q3249849
+odometry,odometry,Q2014717
+optical flow,optical flow,Q736111
+other,other,Q86630688
+parameter,parameter,Q1413083
+physics,physics,Q413
+point cloud,point cloud,Q1899648
+polarisation,polarisation,Q121463492
+pose,pose,Q30603704
+protein,protein,Q8054
+protein structure,protein structure,Q735188
+radar,radar,Q47528
+radio,radio,Q37169573
+radio frequency,radio frequency,Q3396184
+raster,raster,Q66043426
+real world data,real world data,Q55631277
+reconstruction,reconstruction,Q2478058
+reference,reference,Q121769
+respiration,respiration,Q15753091
+result,result,Q2995644
+robotics,robotics,Q170978
+scalar field,scalar field,Q193460
+script,script,Q3691017
+segmentation,segmentation,Q1423946
+sensor,sensor,Q37453697
+sequence,sequence,Q20937557
+sign language,sign language,Q34228
+signal,signal,Q19718090
+simulation,simulation,Q45045
+skeleton,skeleton,Q186190
+sketch,sketch,Q5078274
+social,social,Q345367
+social network,social network,Q2715623
+software,software,Q7397
+spatial relation,spatial relation,Q2178623
+spectra,spectra,Q130556645
+structure,structure,Q15709970
+structured data,structured data,Q26813700
+structured text,structured text,Q1753738
+symbol,symbol,Q80071
+symbolic,symbolic,Q919092
+synthetic data,synthetic data,Q7662746
+table,table,Q14748
+tabular,tabular,Q13402984
+tactile,tactile,Q28136816
+temporal,temporal,Q98889848
+text,text,Q234460
+time,time,Q43297
+time series,time series,Q186588
+timestamp,timestamp,Q186885
+touch,touch,Q307221
+trajectory,trajectory,Q193139
+url,url,Q42253
+vector,vector,Q107994
+video,video,Q625525
+virtual environment,virtual environment,Q55950686
+virtual reality,virtual reality,Q170519
+visualization,visualization,Q451553
+web,web,Q37564491
+wireless,wireless,Q8026812

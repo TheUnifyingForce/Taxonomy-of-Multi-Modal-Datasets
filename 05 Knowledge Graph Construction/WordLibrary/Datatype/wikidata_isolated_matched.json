@@ -1,0 +1,1397 @@
+{
+  "isolated_type": [
+    {
+      "datatype": "answer",
+      "frequency": 225,
+      "wikidata_id": "Q11446",
+      "wikidata_label": "answer",
+      "wikidata_description": "response to a question"
+    },
+    {
+      "datatype": "tweet",
+      "frequency": 133,
+      "wikidata_id": "Q56119332",
+      "wikidata_label": "tweet",
+      "wikidata_description": "individual post on the X (formerly Twitter) microblogging service"
+    },
+    {
+      "datatype": "documentation",
+      "frequency": 75,
+      "wikidata_id": "Q788790",
+      "wikidata_label": "documentation",
+      "wikidata_description": "any communicable material that is used to describe, explain or instruct regarding some attributes of an object, system or procedure"
+    },
+    {
+      "datatype": "passage",
+      "frequency": 57,
+      "wikidata_id": "Q1385610",
+      "wikidata_label": "excerpt",
+      "wikidata_description": "an extract from a larger audiovisual or literary work"
+    },
+    {
+      "datatype": "instruction",
+      "frequency": 40,
+      "wikidata_id": "Q1151067",
+      "wikidata_label": "instruction",
+      "wikidata_description": "prescription, including laws, regulations, instructions, guidelines, and social conventions; determinate method for performing any operation"
+    },
+    {
+      "datatype": "abstract",
+      "frequency": 39,
+      "wikidata_id": "Q333291",
+      "wikidata_label": "abstract",
+      "wikidata_description": "summary of a research document"
+    },
+    {
+      "datatype": "comment",
+      "frequency": 34,
+      "wikidata_id": "Q1749541",
+      "wikidata_label": "comment",
+      "wikidata_description": "close explication of a text, focusing on language"
+    },
+    {
+      "datatype": "music",
+      "frequency": 29,
+      "wikidata_id": "Q638",
+      "wikidata_label": "music",
+      "wikidata_description": "art/activity of creating art using sound"
+    },
+    {
+      "datatype": "paragraph",
+      "frequency": 28,
+      "wikidata_id": "Q194431",
+      "wikidata_label": "paragraph",
+      "wikidata_description": "portion of text composed of one or more sentences"
+    },
+    {
+      "datatype": "translation",
+      "frequency": 28,
+      "wikidata_id": "Q7553",
+      "wikidata_label": "translation",
+      "wikidata_description": "transfer of the meaning of something in one language into another"
+    },
+    {
+      "datatype": "code snippet",
+      "frequency": 28,
+      "wikidata_id": "Q1120538",
+      "wikidata_label": "snippet",
+      "wikidata_description": "programming term for a small region of re-usable source code, machine code, or text"
+    },
+    {
+      "datatype": "claim",
+      "frequency": 23,
+      "wikidata_id": "Q95972591",
+      "wikidata_label": "claim",
+      "wikidata_description": "statement about some entity"
+    },
+    {
+      "datatype": "prompt",
+      "frequency": 23,
+      "wikidata_id": "Q1307456",
+      "wikidata_label": "command prompt",
+      "wikidata_description": "sequence of (one or more) characters used in a command-line interface to indicate readiness to accept commands"
+    },
+    {
+      "datatype": "token",
+      "frequency": 20,
+      "wikidata_id": "Q2292980",
+      "wikidata_label": "access token",
+      "wikidata_description": "data that contains the security credentials for a login session and identifies the user, the user’s groups, the user’s privileges, or a particular application"
+    },
+    {
+      "datatype": "relation",
+      "frequency": 19,
+      "wikidata_id": "Q930933",
+      "wikidata_label": "relation",
+      "wikidata_description": "general relation between different objects or individuals"
+    },
+    {
+      "datatype": "survey response",
+      "frequency": 19,
+      "wikidata_id": "Q97656500",
+      "wikidata_label": "survey answer",
+      "wikidata_description": "an answer in a survey"
+    },
+    {
+      "datatype": "explanation",
+      "frequency": 18,
+      "wikidata_id": "Q7958",
+      "wikidata_label": "explanation",
+      "wikidata_description": "set of statements constructed to describe a set of facts"
+    },
+    {
+      "datatype": "evaluation metric",
+      "frequency": 18,
+      "wikidata_id": "Q17004438",
+      "wikidata_label": "metric",
+      "wikidata_description": "measure for quantitatively assessing an attribute of a person, process, event, institution or system"
+    },
+    {
+      "datatype": "keyword",
+      "frequency": 17,
+      "wikidata_id": "Q1072684",
+      "wikidata_label": "keyword",
+      "wikidata_description": "word with a special meaning in a programming language"
+    },
+    {
+      "datatype": "story",
+      "frequency": 16,
+      "wikidata_id": "Q1318295",
+      "wikidata_label": "story",
+      "wikidata_description": "account of a series of related events or experiences in oral or written form"
+    },
+    {
+      "datatype": "title",
+      "frequency": 15,
+      "wikidata_id": "Q783521",
+      "wikidata_label": "title",
+      "wikidata_description": "title of a book, or any other published text or work of art"
+    },
+    {
+      "datatype": "citation",
+      "frequency": 14,
+      "wikidata_id": "Q1713",
+      "wikidata_label": "citation",
+      "wikidata_description": "reference to a source"
+    },
+    {
+      "datatype": "response",
+      "frequency": 14,
+      "wikidata_id": "Q1920566",
+      "wikidata_label": "response",
+      "wikidata_description": "response to a question"
+    },
+    {
+      "datatype": "headline",
+      "frequency": 13,
+      "wikidata_id": "Q1313396",
+      "wikidata_label": "headline",
+      "wikidata_description": "text indicating the nature of the article below it"
+    },
+    {
+      "datatype": "chest x-ray",
+      "frequency": 13,
+      "wikidata_id": "Q1283318",
+      "wikidata_label": "chest radiograph",
+      "wikidata_description": "projection X-ray of the chest"
+    },
+    {
+      "datatype": "paraphrase",
+      "frequency": 13,
+      "wikidata_id": "Q255189",
+      "wikidata_label": "paraphrase",
+      "wikidata_description": "restatement of the meaning of a text or passage using other words"
+    },
+    {
+      "datatype": "task instruction",
+      "frequency": 12,
+      "wikidata_id": "Q1057179",
+      "wikidata_label": "user guide",
+      "wikidata_description": "technical communication document"
+    },
+    {
+      "datatype": "article title",
+      "frequency": 12,
+      "wikidata_id": "P1476",
+      "wikidata_label": "title",
+      "wikidata_description": "published name of a work, such as a newspaper article, a literary work, piece of music, a website, or a performance work"
+    },
+    {
+      "datatype": "category",
+      "frequency": 11,
+      "wikidata_id": "Q21146257",
+      "wikidata_label": "type",
+      "wikidata_description": "kind or variety of something"
+    },
+    {
+      "datatype": "sketch",
+      "frequency": 11,
+      "wikidata_id": "Q5078274",
+      "wikidata_label": "sketch",
+      "wikidata_description": "quickly executed freehand drawing"
+    },
+    {
+      "datatype": "math word problem",
+      "frequency": 11,
+      "wikidata_id": "Q255912",
+      "wikidata_label": "word problem",
+      "wikidata_description": "mathematical exercise presented in ordinary language"
+    },
+    {
+      "datatype": "edge",
+      "frequency": 11,
+      "wikidata_id": "Q3297804",
+      "wikidata_label": "edge",
+      "wikidata_description": "connection between two vertices in a graph"
+    },
+    {
+      "datatype": "table",
+      "frequency": 11,
+      "wikidata_id": "Q496946",
+      "wikidata_label": "table",
+      "wikidata_description": "arrangement of data in rows and columns"
+    },
+    {
+      "datatype": "background noise",
+      "frequency": 11,
+      "wikidata_id": "Q1371624",
+      "wikidata_label": "background noise",
+      "wikidata_description": "sound other than the sound being monitored (primary sound)"
+    },
+    {
+      "datatype": "author name",
+      "frequency": 10,
+      "wikidata_id": "Q60557745",
+      "wikidata_label": "author name",
+      "wikidata_description": ""
+    },
+    {
+      "datatype": "url",
+      "frequency": 10,
+      "wikidata_id": "Q42253",
+      "wikidata_label": "URL",
+      "wikidata_description": "web address to a particular file or page"
+    },
+    {
+      "datatype": "optical flow",
+      "frequency": 10,
+      "wikidata_id": "Q736111",
+      "wikidata_label": "optical flow",
+      "wikidata_description": "pattern of apparent motion of objects, surfaces, and edges in a visual scene caused by the relative motion between an observer and a scene"
+    },
+    {
+      "datatype": "evidence",
+      "frequency": 10,
+      "wikidata_id": "Q176763",
+      "wikidata_label": "evidence",
+      "wikidata_description": "body of facts in a legal proceding"
+    },
+    {
+      "datatype": "topic",
+      "frequency": 10,
+      "wikidata_id": "Q26256810",
+      "wikidata_label": "topic",
+      "wikidata_description": "topic or area addressed by a work or set of works"
+    },
+    {
+      "datatype": "molecular structure",
+      "frequency": 10,
+      "wikidata_id": "Q100682626",
+      "wikidata_label": "molecular structure",
+      "wikidata_description": "location of the atoms, groups or ions relative to one another in a molecule, and the number, type and location of covalent bonds."
+    },
+    {
+      "datatype": "multiple choice option",
+      "frequency": 9,
+      "wikidata_id": "Q28060611",
+      "wikidata_label": "multiple choice question",
+      "wikidata_description": "question incorporating a list of answer containing the correct one"
+    },
+    {
+      "datatype": "paper abstract",
+      "frequency": 9,
+      "wikidata_id": "Q333291",
+      "wikidata_label": "abstract",
+      "wikidata_description": "summary of a research document"
+    },
+    {
+      "datatype": "review",
+      "frequency": 9,
+      "wikidata_id": "Q265158",
+      "wikidata_label": "review",
+      "wikidata_description": "evaluation of a publication, service, company, piece of hardware, event, exhibition, or performance"
+    },
+    {
+      "datatype": "chemical property",
+      "frequency": 8,
+      "wikidata_id": "Q764285",
+      "wikidata_label": "chemical property",
+      "wikidata_description": "any of a substance's properties that becomes evident during, or after, a chemical reaction"
+    },
+    {
+      "datatype": "premise",
+      "frequency": 8,
+      "wikidata_id": "Q321703",
+      "wikidata_label": "premise",
+      "wikidata_description": "statement that an argument claims will induce or justify a conclusion"
+    },
+    {
+      "datatype": "argument",
+      "frequency": 8,
+      "wikidata_id": "Q186619",
+      "wikidata_label": "argument",
+      "wikidata_description": "attempt to persuade or to determine the truth of a conclusion"
+    },
+    {
+      "datatype": "recipe instruction",
+      "frequency": 8,
+      "wikidata_id": "Q219239",
+      "wikidata_label": "recipe",
+      "wikidata_description": "a set of instructions for preparing a processed food item"
+    },
+    {
+      "datatype": "context",
+      "frequency": 8,
+      "wikidata_id": "Q813912",
+      "wikidata_label": "context",
+      "wikidata_description": "relative state or circumstances of some object or event"
+    },
+    {
+      "datatype": "node",
+      "frequency": 8,
+      "wikidata_id": "Q1304193",
+      "wikidata_label": "node",
+      "wikidata_description": "unit connected by edges with other units in a graph, in graph theory"
+    },
+    {
+      "datatype": "rating",
+      "frequency": 8,
+      "wikidata_id": "Q851176",
+      "wikidata_label": "rating",
+      "wikidata_description": "value judgement about a fact, an object or a person"
+    },
+    {
+      "datatype": "sentiment analysis",
+      "frequency": 8,
+      "wikidata_id": "Q2271421",
+      "wikidata_label": "sentiment analysis",
+      "wikidata_description": "use of natural language processing, text analysis and computational linguistics to identify and extract subjective information in source materials"
+    },
+    {
+      "datatype": "machine translation",
+      "frequency": 8,
+      "wikidata_id": "Q79798",
+      "wikidata_label": "machine translation",
+      "wikidata_description": "use of software for language translation"
+    },
+    {
+      "datatype": "target",
+      "frequency": 8,
+      "wikidata_id": "P533",
+      "wikidata_label": "target",
+      "wikidata_description": "target of an attack or military operation"
+    },
+    {
+      "datatype": "sign language gesture",
+      "frequency": 8,
+      "wikidata_id": "Q16639010",
+      "wikidata_label": "hand gesture",
+      "wikidata_description": "signal made with one or both hands"
+    },
+    {
+      "datatype": "hashtag",
+      "frequency": 8,
+      "wikidata_id": "Q278485",
+      "wikidata_label": "hashtag",
+      "wikidata_description": "word or an unspaced phrase prefixed with the number sign, used to categorise a topic"
+    },
+    {
+      "datatype": "movie review",
+      "frequency": 7,
+      "wikidata_id": "Q69699844",
+      "wikidata_label": "film review",
+      "wikidata_description": "form of literary criticism in which a film is analyzed based on content, style, and merit"
+    },
+    {
+      "datatype": "environmental noise",
+      "frequency": 7,
+      "wikidata_id": "Q2478325",
+      "wikidata_label": "environmental noise",
+      "wikidata_description": "noise pollution"
+    },
+    {
+      "datatype": "book",
+      "frequency": 7,
+      "wikidata_id": "Q571",
+      "wikidata_label": "book",
+      "wikidata_description": "medium for recording information (words or images) typically on bound pages or more abstractly in electronic or audio form"
+    },
+    {
+      "datatype": "weather condition",
+      "frequency": 7,
+      "wikidata_id": "Q11663",
+      "wikidata_label": "weather",
+      "wikidata_description": "state of the atmosphere"
+    },
+    {
+      "datatype": "code comment",
+      "frequency": 7,
+      "wikidata_id": "Q1141067",
+      "wikidata_label": "program comment",
+      "wikidata_description": "explanatory note in the source code of a computer program skipped during compilation or interpretation"
+    },
+    {
+      "datatype": "event",
+      "frequency": 6,
+      "wikidata_id": "Q1190554",
+      "wikidata_label": "event",
+      "wikidata_description": "occurrence of a fact or object in space-time; instantiation of a property in an object"
+    },
+    {
+      "datatype": "hyperspectral imagery",
+      "frequency": 6,
+      "wikidata_id": "Q132367229",
+      "wikidata_label": "hyperspectral image",
+      "wikidata_description": "type of spectral imagery in geospatial science"
+    },
+    {
+      "datatype": "song lyric",
+      "frequency": 6,
+      "wikidata_id": "Q602446",
+      "wikidata_label": "lyrics",
+      "wikidata_description": "sequence of words that make up a song"
+    },
+    {
+      "datatype": "blog post",
+      "frequency": 6,
+      "wikidata_id": "Q17928402",
+      "wikidata_label": "blog post",
+      "wikidata_description": "individual entry on a blog"
+    },
+    {
+      "datatype": "material property",
+      "frequency": 6,
+      "wikidata_id": "Q112225193",
+      "wikidata_label": "material property",
+      "wikidata_description": "intrinsic, intensive, quantitative property of a material, which can be measured and compared"
+    },
+    {
+      "datatype": "reply",
+      "frequency": 6,
+      "wikidata_id": "Q1920566",
+      "wikidata_label": "response",
+      "wikidata_description": "response to a question"
+    },
+    {
+      "datatype": "rdf triple",
+      "frequency": 6,
+      "wikidata_id": "Q3539534",
+      "wikidata_label": "semantic triple",
+      "wikidata_description": "atomic data entity in the Resource Description Framework (RDF) data model; set of three entities that codifies a statement about semantic data in the form of subject–predicate–object expressions"
+    },
+    {
+      "datatype": "academic reference",
+      "frequency": 6,
+      "wikidata_id": "Q1713",
+      "wikidata_label": "reference",
+      "wikidata_description": "reference to a source"
+    },
+    {
+      "datatype": "demographic",
+      "frequency": 6,
+      "wikidata_id": "Q2725376",
+      "wikidata_label": "demographics",
+      "wikidata_description": "statistical information about human populations"
+    },
+    {
+      "datatype": "date",
+      "frequency": 6,
+      "wikidata_id": "Q205892",
+      "wikidata_label": "date",
+      "wikidata_description": "particular day represented within a calendar system"
+    },
+    {
+      "datatype": "vital sign",
+      "frequency": 5,
+      "wikidata_id": "Q1067560",
+      "wikidata_label": "vital signs",
+      "wikidata_description": "group of the 4-6 important medical signs that indicate the status of the body’s vital functions"
+    },
+    {
+      "datatype": "multiple choice answer",
+      "frequency": 5,
+      "wikidata_id": "Q867668",
+      "wikidata_label": "multiple choice questionnaire",
+      "wikidata_description": "objective assessment where respondents are required to choose only correct answers from a list of choices"
+    },
+    {
+      "datatype": "phrase",
+      "frequency": 5,
+      "wikidata_id": "Q187931",
+      "wikidata_label": "phrase",
+      "wikidata_description": "sequence of at least two words"
+    },
+    {
+      "datatype": "answer candidate",
+      "frequency": 5,
+      "wikidata_id": "Q1920566",
+      "wikidata_label": "answer",
+      "wikidata_description": "response to a question"
+    },
+    {
+      "datatype": "geometric shape",
+      "frequency": 5,
+      "wikidata_id": "Q815741",
+      "wikidata_label": "geometric shape",
+      "wikidata_description": "geometric information which remains when location, scale, orientation and reflection are removed from the description of a geometric objec"
+    },
+    {
+      "datatype": "brain mri",
+      "frequency": 5,
+      "wikidata_id": "Q13400786",
+      "wikidata_label": "magnetic resonance imaging of the brain",
+      "wikidata_description": "medical diagnostic method"
+    },
+    {
+      "datatype": "email content",
+      "frequency": 5,
+      "wikidata_id": "Q9158",
+      "wikidata_label": "email",
+      "wikidata_description": "electronic changing digital messages between a network"
+    },
+    {
+      "datatype": "narrative",
+      "frequency": 5,
+      "wikidata_id": "Q1318295",
+      "wikidata_label": "narrative",
+      "wikidata_description": "account of a series of related events or experiences in oral or written form"
+    },
+    {
+      "datatype": "knowledge graph entity",
+      "frequency": 5,
+      "wikidata_id": "Q33002955",
+      "wikidata_label": "knowledge graph",
+      "wikidata_description": "information repository structured as a graph"
+    },
+    {
+      "datatype": "logical form",
+      "frequency": 5,
+      "wikidata_id": "Q6667497",
+      "wikidata_label": "logical form",
+      "wikidata_description": "form for logical arguments, obtained by abstracting from the subject matter of its content terms"
+    },
+    {
+      "datatype": "student essay",
+      "frequency": 5,
+      "wikidata_id": "Q35760",
+      "wikidata_label": "essay",
+      "wikidata_description": "piece of writing often written from an author's personal point of view"
+    },
+    {
+      "datatype": "movie script",
+      "frequency": 5,
+      "wikidata_id": "Q103076",
+      "wikidata_label": "screenplay",
+      "wikidata_description": "written work by screenwriters for a film or television program"
+    },
+    {
+      "datatype": "meme",
+      "frequency": 5,
+      "wikidata_id": "Q2927074",
+      "wikidata_label": "internet meme",
+      "wikidata_description": "concept that spreads from person to person via the Internet"
+    },
+    {
+      "datatype": "definition",
+      "frequency": 5,
+      "wikidata_id": "Q101072",
+      "wikidata_label": "definition",
+      "wikidata_description": "statement of the meaning of a word or phrase"
+    },
+    {
+      "datatype": "essay",
+      "frequency": 5,
+      "wikidata_id": "Q35760",
+      "wikidata_label": "essay",
+      "wikidata_description": "piece of writing often written from an author's personal point of view"
+    },
+    {
+      "datatype": "bug report",
+      "frequency": 5,
+      "wikidata_id": "Q97167596",
+      "wikidata_label": "issue",
+      "wikidata_description": "issue within an issue or bug tracking system"
+    },
+    {
+      "datatype": "perturbation",
+      "frequency": 5,
+      "wikidata_id": "Q803623",
+      "wikidata_label": "perturbation",
+      "wikidata_description": "complex motion of a massive astronomical body"
+    },
+    {
+      "datatype": "questionnaire response",
+      "frequency": 5,
+      "wikidata_id": "Q97656500",
+      "wikidata_label": "survey answer",
+      "wikidata_description": "an answer in a survey"
+    },
+    {
+      "datatype": "stock price",
+      "frequency": 5,
+      "wikidata_id": "Q1020013",
+      "wikidata_label": "share price",
+      "wikidata_description": "market price of a single share of a stock or fund"
+    },
+    {
+      "datatype": "trading volume",
+      "frequency": 5,
+      "wikidata_id": "Q913748",
+      "wikidata_label": "volume",
+      "wikidata_description": "amount of a security traded during a period of time"
+    },
+    {
+      "datatype": "problem statement",
+      "frequency": 5,
+      "wikidata_id": "Q4374193",
+      "wikidata_label": "problem statement",
+      "wikidata_description": "concise description of the issues that need to be addressed by a problem solving team"
+    },
+    {
+      "datatype": "episodic buffer detail",
+      "frequency": 5,
+      "wikidata_id": "Q220986",
+      "wikidata_label": "Baddeley's model of working memory",
+      "wikidata_description": "model of human memory"
+    },
+    {
+      "datatype": "web content",
+      "frequency": 4,
+      "wikidata_id": "Q3948731",
+      "wikidata_label": "web content",
+      "wikidata_description": "content encountered as part of the user experience on websites"
+    },
+    {
+      "datatype": "protein structure",
+      "frequency": 4,
+      "wikidata_id": "Q735188",
+      "wikidata_label": "protein structure",
+      "wikidata_description": "three-dimensional arrangement of atoms in an amino acid-chain molecule"
+    },
+    {
+      "datatype": "cartoon",
+      "frequency": 4,
+      "wikidata_id": "Q11425",
+      "wikidata_label": "cartoon",
+      "wikidata_description": "method of creating moving pictures"
+    },
+    {
+      "datatype": "concept",
+      "frequency": 4,
+      "wikidata_id": "Q151885",
+      "wikidata_label": "concept",
+      "wikidata_description": "semantic unit understood in different ways, e.g. as mental representation, ability or abstract object (philosophy)"
+    },
+    {
+      "datatype": "eeg",
+      "frequency": 4,
+      "wikidata_id": "Q179965",
+      "wikidata_label": "electroencephalography",
+      "wikidata_description": "electrophysiological monitoring method"
+    },
+    {
+      "datatype": "book review",
+      "frequency": 4,
+      "wikidata_id": "Q637866",
+      "wikidata_label": "book review",
+      "wikidata_description": "form of literary criticism in which a book is analyzed based on content, style, and merit"
+    },
+    {
+      "datatype": "pedestrian detection",
+      "frequency": 4,
+      "wikidata_id": "Q2355550",
+      "wikidata_label": "pedestrian detection",
+      "wikidata_description": "computer technology related to computer vision and image processing"
+    },
+    {
+      "datatype": "chinese character",
+      "frequency": 4,
+      "wikidata_id": "Q8201",
+      "wikidata_label": "Chinese characters",
+      "wikidata_description": "logographic writing system with Han origin used in the Sinosphere for Chinese, Japanese, Korean and traditional Vietnamese languages"
+    },
+    {
+      "datatype": "network packet",
+      "frequency": 4,
+      "wikidata_id": "Q214111",
+      "wikidata_label": "packet",
+      "wikidata_description": "formatted unit of data carried by all packet-switching networks"
+    },
+    {
+      "datatype": "chest radiograph",
+      "frequency": 4,
+      "wikidata_id": "Q1283318",
+      "wikidata_label": "chest radiograph",
+      "wikidata_description": "projection X-ray of the chest"
+    },
+    {
+      "datatype": "web page",
+      "frequency": 4,
+      "wikidata_id": "Q36774",
+      "wikidata_label": "web page",
+      "wikidata_description": "single document composed of HTML that is directly viewable via web browsers and accessible via the World Wide Web"
+    },
+    {
+      "datatype": "technical documentation",
+      "frequency": 4,
+      "wikidata_id": "Q1413406",
+      "wikidata_label": "technical documentation",
+      "wikidata_description": "description of a technical product and its handling, functionality and architecture"
+    },
+    {
+      "datatype": "singing voice",
+      "frequency": 4,
+      "wikidata_id": "Q17172850",
+      "wikidata_label": "singing voice",
+      "wikidata_description": "human voice as musical instrument"
+    },
+    {
+      "datatype": "economic indicator",
+      "frequency": 4,
+      "wikidata_id": "Q1167393",
+      "wikidata_label": "economic indicator",
+      "wikidata_description": "measure, which allows statements about the economic situation in general of national economies"
+    },
+    {
+      "datatype": "heart rate",
+      "frequency": 4,
+      "wikidata_id": "Q1073121",
+      "wikidata_label": "heart rate",
+      "wikidata_description": "number of contractions (beats) of the heart per minute (bpm)"
+    },
+    {
+      "datatype": "proof",
+      "frequency": 4,
+      "wikidata_id": "Q11538",
+      "wikidata_label": "proof",
+      "wikidata_description": "igorous demonstration that a mathematical statement follows from its premises"
+    },
+    {
+      "datatype": "ambient noise",
+      "frequency": 4,
+      "wikidata_id": "Q1371624",
+      "wikidata_label": "background noise",
+      "wikidata_description": "sound other than the sound being monitored (primary sound)"
+    },
+    {
+      "datatype": "hand gesture",
+      "frequency": 4,
+      "wikidata_id": "Q16639010",
+      "wikidata_label": "hand gesture",
+      "wikidata_description": "signal made with one or both hands"
+    },
+    {
+      "datatype": "diagram",
+      "frequency": 4,
+      "wikidata_id": "Q959962",
+      "wikidata_label": "diagram",
+      "wikidata_description": "plan, drawing, sketch or outline to show how something works or the relationships between the parts of a whole"
+    },
+    {
+      "datatype": "aerial imagery",
+      "frequency": 4,
+      "wikidata_id": "Q113670888",
+      "wikidata_label": "aerial photograph",
+      "wikidata_description": "still photograph taken from a high angle by an airplane, helicopter, drone or similar"
+    },
+    {
+      "datatype": "academic abstract",
+      "frequency": 4,
+      "wikidata_id": "Q333291",
+      "wikidata_label": "abstract",
+      "wikidata_description": "summary of a research document"
+    },
+    {
+      "datatype": "eye movement",
+      "frequency": 4,
+      "wikidata_id": "Q760256",
+      "wikidata_label": "eye movement",
+      "wikidata_description": "voluntary or involuntary movement of the eyes, helping in acquiring, fixating and tracking visual stimuli"
+    },
+    {
+      "datatype": "ct scan slice",
+      "frequency": 4,
+      "wikidata_id": "Q32566",
+      "wikidata_label": "computed tomography",
+      "wikidata_description": "medical imaging procedure using X-rays to produce cross-sectional images"
+    },
+    {
+      "datatype": "command",
+      "frequency": 4,
+      "wikidata_id": "Q1079196",
+      "wikidata_label": "command",
+      "wikidata_description": "directive to a computer program"
+    },
+    {
+      "datatype": "interaction log",
+      "frequency": 4,
+      "wikidata_id": "Q3153081",
+      "wikidata_label": "logical interaction",
+      "wikidata_description": ""
+    },
+    {
+      "datatype": "mention",
+      "frequency": 4,
+      "wikidata_id": "Q6817566",
+      "wikidata_label": "mention",
+      "wikidata_description": "means by which a blog or social media post references or links to a user's profile"
+    },
+    {
+      "datatype": "occlusion",
+      "frequency": 4,
+      "wikidata_id": "Q968808",
+      "wikidata_label": "occlusion",
+      "wikidata_description": "in dentistry, contact between teeth"
+    },
+    {
+      "datatype": "sms message",
+      "frequency": 4,
+      "wikidata_id": "Q13159882",
+      "wikidata_label": "text message",
+      "wikidata_description": "brief, electronic message"
+    },
+    {
+      "datatype": "orthographic transcription",
+      "frequency": 4,
+      "wikidata_id": "Q1055909",
+      "wikidata_label": "orthographic transcription",
+      "wikidata_description": "transcription method that employs the standard spelling system of each target language"
+    },
+    {
+      "datatype": "resting state fmri",
+      "frequency": 4,
+      "wikidata_id": "Q7316120",
+      "wikidata_label": "resting-state fMRI",
+      "wikidata_description": "medical procedure"
+    },
+    {
+      "datatype": "electrocardiogram",
+      "frequency": 4,
+      "wikidata_id": "Q13038557",
+      "wikidata_label": "electrocardiogram",
+      "wikidata_description": "recording of the magnitude of the heart's electrical potential measured from twelve different angles ('leads') over a period of time (usually ten seconds)"
+    },
+    {
+      "datatype": "event log",
+      "frequency": 4,
+      "wikidata_id": "Q13769783",
+      "wikidata_label": "log entry",
+      "wikidata_description": "record of a software process that allows the tracing of error events"
+    },
+    {
+      "datatype": "academic paper title",
+      "frequency": 4,
+      "wikidata_id": "Q783521",
+      "wikidata_label": "title",
+      "wikidata_description": "title of a book, or any other published text or work of art"
+    },
+    {
+      "datatype": "website content",
+      "frequency": 4,
+      "wikidata_id": "Q3948731",
+      "wikidata_label": "web content",
+      "wikidata_description": "content encountered as part of the user experience on websites"
+    },
+    {
+      "datatype": "presentation slide",
+      "frequency": 4,
+      "wikidata_id": "Q7240995",
+      "wikidata_label": "presentation slide",
+      "wikidata_description": "single page of a presentation"
+    },
+    {
+      "datatype": "alpha matte",
+      "frequency": 4,
+      "wikidata_id": "Q693457",
+      "wikidata_label": "alpha compositing",
+      "wikidata_description": "operation in computer graphics"
+    },
+    {
+      "datatype": "jupyter notebook",
+      "frequency": 4,
+      "wikidata_id": "Q105099901",
+      "wikidata_label": "Jupyter Notebook",
+      "wikidata_description": "web-based interactive computational environment for creating Jupyter notebook documents"
+    },
+    {
+      "datatype": "short story",
+      "frequency": 4,
+      "wikidata_id": "Q49084",
+      "wikidata_label": "short story",
+      "wikidata_description": "brief work of literature, usually written in narrative prose"
+    },
+    {
+      "datatype": "brain activity",
+      "frequency": 4,
+      "wikidata_id": "Q179965",
+      "wikidata_label": "electroencephalography",
+      "wikidata_description": "electrophysiological monitoring method"
+    },
+    {
+      "datatype": "scenario",
+      "frequency": 4,
+      "wikidata_id": "Q103076",
+      "wikidata_label": "screenplay",
+      "wikidata_description": "written work by screenwriters for a film or television program"
+    },
+    {
+      "datatype": "plot",
+      "frequency": 3,
+      "wikidata_id": "Q1758354",
+      "wikidata_label": "plot",
+      "wikidata_description": "concept in narratology: presentation of a sequence of events in a narrative work"
+    },
+    {
+      "datatype": "activity",
+      "frequency": 3,
+      "wikidata_id": "Q1914636",
+      "wikidata_label": "activity",
+      "wikidata_description": "series of actions done by an agent which results in an external change of state"
+    },
+    {
+      "datatype": "commonsense inference",
+      "frequency": 3,
+      "wikidata_id": "Q5153664",
+      "wikidata_label": "commonsense reasoning",
+      "wikidata_description": "branch of artificial intelligence aiming to create AI systems with 'common sense'"
+    },
+    {
+      "datatype": "sports action",
+      "frequency": 3,
+      "wikidata_id": "Q18175633",
+      "wikidata_label": "sport action",
+      "wikidata_description": "individual physical action by an athlete"
+    },
+    {
+      "datatype": "artistic style",
+      "frequency": 3,
+      "wikidata_id": "Q1792644",
+      "wikidata_label": "art style",
+      "wikidata_description": "classification of artwork, based on how it is perceived by the audience, specific to an artist, or shared with other works of the same movement or school"
+    },
+    {
+      "datatype": "sign language interpretation",
+      "frequency": 3,
+      "wikidata_id": "Q11497140",
+      "wikidata_label": "sign language interpretation",
+      "wikidata_description": "offering translation into sign language"
+    },
+    {
+      "datatype": "joke",
+      "frequency": 3,
+      "wikidata_id": "Q131138",
+      "wikidata_label": "joke",
+      "wikidata_description": "short fictional story with the intent to make people laugh"
+    },
+    {
+      "datatype": "respiration",
+      "frequency": 3,
+      "wikidata_id": "Q9530",
+      "wikidata_label": "respiration",
+      "wikidata_description": "process that moves air in and out of the lungs"
+    },
+    {
+      "datatype": "supporting evidence",
+      "frequency": 3,
+      "wikidata_id": "Q110632057",
+      "wikidata_label": "supporting evidence",
+      "wikidata_description": "concept in epistemology"
+    },
+    {
+      "datatype": "lemma",
+      "frequency": 3,
+      "wikidata_id": "Q207505",
+      "wikidata_label": "lemma",
+      "wikidata_description": "theorem for proving more complex theorems"
+    },
+    {
+      "datatype": "error message",
+      "frequency": 3,
+      "wikidata_id": "Q1332193",
+      "wikidata_label": "error message",
+      "wikidata_description": "message displayed on a monitor screen or printout indicating that an incorrect instruction has been given or that there is an error resulting from faulty software or hardware"
+    },
+    {
+      "datatype": "time interval",
+      "frequency": 3,
+      "wikidata_id": "Q186081",
+      "wikidata_label": "time interval",
+      "wikidata_description": "temporal extent having a beginning, an end and a duration"
+    },
+    {
+      "datatype": "guideline",
+      "frequency": 3,
+      "wikidata_id": "Q1630279",
+      "wikidata_label": "guideline",
+      "wikidata_description": "instruction as to the preferred, recommended, or approved way of performing a task, publication type"
+    },
+    {
+      "datatype": "speaker utterance",
+      "frequency": 3,
+      "wikidata_id": "Q258403",
+      "wikidata_label": "utterance",
+      "wikidata_description": "smallest unit of speech"
+    },
+    {
+      "datatype": "name",
+      "frequency": 3,
+      "wikidata_id": "Q82799",
+      "wikidata_label": "name",
+      "wikidata_description": "word or phrase used for identification"
+    },
+    {
+      "datatype": "lyric",
+      "frequency": 3,
+      "wikidata_id": "Q602446",
+      "wikidata_label": "lyrics",
+      "wikidata_description": "sequence of words that make up a song"
+    },
+    {
+      "datatype": "anatomical landmark",
+      "frequency": 3,
+      "wikidata_id": "Q66505026",
+      "wikidata_label": "anatomical landmark",
+      "wikidata_description": ""
+    },
+    {
+      "datatype": "term",
+      "frequency": 3,
+      "wikidata_id": "Q1969448",
+      "wikidata_label": "term",
+      "wikidata_description": "word or phrase from a specialized area of knowledge"
+    },
+    {
+      "datatype": "syntax",
+      "frequency": 3,
+      "wikidata_id": "Q1152399",
+      "wikidata_label": "syntax",
+      "wikidata_description": "set of rules defining the structure of a programming language"
+    },
+    {
+      "datatype": "bilingual dictionary",
+      "frequency": 3,
+      "wikidata_id": "Q2640207",
+      "wikidata_label": "bilingual dictionary",
+      "wikidata_description": "specialized dictionary used to translate words or phrases from multiple languages to others"
+    },
+    {
+      "datatype": "pronoun",
+      "frequency": 3,
+      "wikidata_id": "Q36224",
+      "wikidata_label": "pronoun",
+      "wikidata_description": "word or form that substitutes for a noun or noun phrase"
+    },
+    {
+      "datatype": "court decision",
+      "frequency": 3,
+      "wikidata_id": "Q327000",
+      "wikidata_label": "court decision",
+      "wikidata_description": "formal decision made by a court"
+    },
+    {
+      "datatype": "query rewrite",
+      "frequency": 3,
+      "wikidata_id": "Q17492388",
+      "wikidata_label": "query rewrite",
+      "wikidata_description": "transformation that takes a set of database tables, views, and/or queries, usually indices, often gathered data and query statistics, and other metadata, and yields a set of different queries"
+    },
+    {
+      "datatype": "movie trailer",
+      "frequency": 3,
+      "wikidata_id": "Q622550",
+      "wikidata_label": "trailer",
+      "wikidata_description": "advertisement for a feature film"
+    },
+    {
+      "datatype": "acronym",
+      "frequency": 3,
+      "wikidata_id": "Q101244",
+      "wikidata_label": "acronym",
+      "wikidata_description": "abbreviation made out of the first letters of the words of a sequence"
+    },
+    {
+      "datatype": "biomedical literature",
+      "frequency": 3,
+      "wikidata_id": "Q5977147",
+      "wikidata_label": "medical literature",
+      "wikidata_description": "scientific literature of medicine"
+    },
+    {
+      "datatype": "statement",
+      "frequency": 3,
+      "wikidata_id": "Q2684591",
+      "wikidata_label": "statement",
+      "wikidata_description": "either a declarative sentence that is true or false, or that which a true or false declarative sentence asserts"
+    },
+    {
+      "datatype": "machine reading comprehension",
+      "frequency": 3,
+      "wikidata_id": "Q124149560",
+      "wikidata_label": "machine reading comprehension",
+      "wikidata_description": ""
+    },
+    {
+      "datatype": "fiction",
+      "frequency": 3,
+      "wikidata_id": "Q8253",
+      "wikidata_label": "fiction",
+      "wikidata_description": "genre and narrative form, in any medium, consisting of people, events, or places that are imaginary—in other words, not based strictly on history or fact"
+    },
+    {
+      "datatype": "hierarchical structure",
+      "frequency": 3,
+      "wikidata_id": "Q188619",
+      "wikidata_label": "hierarchy",
+      "wikidata_description": "system of elements with multiple levels or tiers that are subordinated to each other"
+    },
+    {
+      "datatype": "questions and answer",
+      "frequency": 3,
+      "wikidata_id": "Q189293",
+      "wikidata_label": "FAQ",
+      "wikidata_description": "listed questions and answers, all supposed to be commonly asked in some context, and pertaining to a particular topic"
+    },
+    {
+      "datatype": "profile picture",
+      "frequency": 3,
+      "wikidata_id": "Q152402",
+      "wikidata_label": "avatar",
+      "wikidata_description": "graphical representation of the user or the user's alter ego or character"
+    },
+    {
+      "datatype": "poetry",
+      "frequency": 3,
+      "wikidata_id": "Q482",
+      "wikidata_label": "poetry",
+      "wikidata_description": "literary style characterized by a strong expressiveness of words"
+    },
+    {
+      "datatype": "article abstract",
+      "frequency": 3,
+      "wikidata_id": "Q333291",
+      "wikidata_label": "abstract",
+      "wikidata_description": "summary of a research document"
+    },
+    {
+      "datatype": "web table",
+      "frequency": 3,
+      "wikidata_id": "Q94100381",
+      "wikidata_label": "table",
+      "wikidata_description": "HTML element"
+    },
+    {
+      "datatype": "message",
+      "frequency": 3,
+      "wikidata_id": "Q133492",
+      "wikidata_label": "message",
+      "wikidata_description": "written message from one to another"
+    },
+    {
+      "datatype": "virtual environment",
+      "frequency": 3,
+      "wikidata_id": "Q1002697",
+      "wikidata_label": "virtual environment",
+      "wikidata_description": "computer-based simulated environment populated by many users who can create a personal avatar, and simultaneously and independently explore the virtual world, participate in its activities and communicate with others"
+    },
+    {
+      "datatype": "dance performance",
+      "frequency": 3,
+      "wikidata_id": "Q3153560",
+      "wikidata_label": "dance performance",
+      "wikidata_description": "a performance of a dance production"
+    },
+    {
+      "datatype": "lifestyle vlog",
+      "frequency": 3,
+      "wikidata_id": "Q674926",
+      "wikidata_label": "vlog",
+      "wikidata_description": "form of blog for which the medium is video"
+    },
+    {
+      "datatype": "artwork",
+      "frequency": 3,
+      "wikidata_id": "Q838948",
+      "wikidata_label": "work of art",
+      "wikidata_description": "aesthetic item or artistic creation"
+    },
+    {
+      "datatype": "structural mri",
+      "frequency": 3,
+      "wikidata_id": "Q161238",
+      "wikidata_label": "magnetic resonance imaging",
+      "wikidata_description": "non-destructive technique for imaging internal structures of objects or organisms"
+    },
+    {
+      "datatype": "pull request",
+      "frequency": 3,
+      "wikidata_id": "Q68712963",
+      "wikidata_label": "pull request",
+      "wikidata_description": "request to merge a code branch into another; feature available at source code repository hosts such as GitHub or Gitlab"
+    },
+    {
+      "datatype": "academic paper abstract",
+      "frequency": 3,
+      "wikidata_id": "Q333291",
+      "wikidata_label": "abstract",
+      "wikidata_description": "summary of a research document"
+    },
+    {
+      "datatype": "technical report",
+      "frequency": 3,
+      "wikidata_id": "Q3099732",
+      "wikidata_label": "technical report",
+      "wikidata_description": "document that describes the process, progress, or results of technical or scientific research or the state of a technical or scientific research problem"
+    },
+    {
+      "datatype": "conclusion",
+      "frequency": 3,
+      "wikidata_id": "Q20665666",
+      "wikidata_label": "conclusion",
+      "wikidata_description": "the proposition arrived at by logical reasoning"
+    },
+    {
+      "datatype": "movie title",
+      "frequency": 3,
+      "wikidata_id": "Q783521",
+      "wikidata_label": "title",
+      "wikidata_description": "title of a book, or any other published text or work of art"
+    },
+    {
+      "datatype": "energy",
+      "frequency": 3,
+      "wikidata_id": "Q11379",
+      "wikidata_label": "energy",
+      "wikidata_description": "quantitative property of a physical system, recognizable in the performance of work and in the form of heat and light"
+    },
+    {
+      "datatype": "neuroimaging",
+      "frequency": 3,
+      "wikidata_id": "Q551875",
+      "wikidata_label": "neuroimaging",
+      "wikidata_description": "set of techniques to measure and visualize aspects of the nervous system"
+    },
+    {
+      "datatype": "opinion",
+      "frequency": 3,
+      "wikidata_id": "Q3962655",
+      "wikidata_label": "opinion",
+      "wikidata_description": "judgment, viewpoint, or statement that is not conclusive; may deal with subjective matters in which there is no conclusive finding"
+    },
+    {
+      "datatype": "spike train",
+      "frequency": 3,
+      "wikidata_id": "Q22307231",
+      "wikidata_label": "spike train",
+      "wikidata_description": "series of sequential, propagated action potentials occurring in a single cell"
+    },
+    {
+      "datatype": "manuscript",
+      "frequency": 3,
+      "wikidata_id": "Q87167",
+      "wikidata_label": "manuscript",
+      "wikidata_description": "document written by hand"
+    },
+    {
+      "datatype": "acceptability judgment",
+      "frequency": 3,
+      "wikidata_id": "Q65079176",
+      "wikidata_label": "acceptability judgment task",
+      "wikidata_description": "linguistics research method"
+    },
+    {
+      "datatype": "price",
+      "frequency": 3,
+      "wikidata_id": "Q160151",
+      "wikidata_label": "price",
+      "wikidata_description": "quantity of payment or compensation given by one party to another in return for goods or services"
+    },
+    {
+      "datatype": "motor imagery",
+      "frequency": 3,
+      "wikidata_id": "Q6918191",
+      "wikidata_label": "motor imagery",
+      "wikidata_description": "Mental process in which one rehearses a given action"
+    },
+    {
+      "datatype": "tutorial",
+      "frequency": 3,
+      "wikidata_id": "Q535741",
+      "wikidata_label": "tutorial",
+      "wikidata_description": "learning method"
+    },
+    {
+      "datatype": "chart",
+      "frequency": 3,
+      "wikidata_id": "Q28923",
+      "wikidata_label": "chart",
+      "wikidata_description": "graphical representation of data"
+    },
+    {
+      "datatype": "causal relation",
+      "frequency": 3,
+      "wikidata_id": "Q130278256",
+      "wikidata_label": "causal relationship",
+      "wikidata_description": "relationship between cause and effect"
+    },
+    {
+      "datatype": "location name",
+      "frequency": 3,
+      "wikidata_id": "Q1714800",
+      "wikidata_label": "locational surname",
+      "wikidata_description": "surname form"
+    },
+    {
+      "datatype": "variable value",
+      "frequency": 3,
+      "wikidata_id": "Q50701",
+      "wikidata_label": "variable",
+      "wikidata_description": "value that can change, usually with a context of an equation or operation"
+    },
+    {
+      "datatype": "financial news",
+      "frequency": 3,
+      "wikidata_id": "Q2142888",
+      "wikidata_label": "business journalism",
+      "wikidata_description": "branch of journalism"
+    },
+    {
+      "datatype": "feedback",
+      "frequency": 3,
+      "wikidata_id": "Q183635",
+      "wikidata_label": "feedback",
+      "wikidata_description": "process in which information about the past or the present influences the same phenomenon in the present or future; it occurs when outputs of a system are routed back as inputs as part of a chain of cause-and-effect that forms a circuit or loop"
+    },
+    {
+      "datatype": "instruction prompt",
+      "frequency": 3,
+      "wikidata_id": "Q131939460",
+      "wikidata_label": "prompt format",
+      "wikidata_description": "chat format passed to large language models"
+    },
+    {
+      "datatype": "case study",
+      "frequency": 3,
+      "wikidata_id": "Q155207",
+      "wikidata_label": "case study",
+      "wikidata_description": "intensive analysis of an individual unit stressing developmental factors in relation to context"
+    },
+    {
+      "datatype": "publication reference",
+      "frequency": 3,
+      "wikidata_id": "Q1713",
+      "wikidata_label": "reference",
+      "wikidata_description": "reference to a source"
+    },
+    {
+      "datatype": "ontology",
+      "frequency": 3,
+      "wikidata_id": "Q324254",
+      "wikidata_label": "ontology",
+      "wikidata_description": "specification of a conceptualization in computer science and information science"
+    },
+    {
+      "datatype": "math problem",
+      "frequency": 3,
+      "wikidata_id": "Q1166625",
+      "wikidata_label": "mathematical problem",
+      "wikidata_description": "problem that can be possibly solved via mathematics"
+    },
+    {
+      "datatype": "analytical solution",
+      "frequency": 3,
+      "wikidata_id": "Q777407",
+      "wikidata_label": "closed-form expression",
+      "wikidata_description": "mathematical formula built with arithmetic operations and other previously defined functions"
+    }
+  ]
+}

@@ -1,0 +1,3696 @@
+datatype,wiki_word,qid
+rgb image,Silicon Graphics Image,Q7514956
+rgbd image,Silicon Graphics Image,Q7514956
+srgb image,Silicon Graphics Image,Q7514956
+rgb color image,Silicon Graphics Image,Q7514956
+depth image,depth,Q930412
+depth map image,depth,Q930412
+raw depth image,depth,Q930412
+thermal image,thermography,Q624587
+infrared image,thermography,Q624587
+thermal face image,thermography,Q624587
+ir image,thermography,Q624587
+stereo thermal image,thermography,Q624587
+thermal infrared image,thermography,Q624587
+thermal spectrum image,thermography,Q624587
+infrared spectrum image,thermography,Q624587
+short wave infrared image,thermography,Q624587
+near infrared image,thermography,Q624587
+thermal infrared face image,thermography,Q624587
+near infrared face image,thermography,Q624587
+short wave infrared face image,thermography,Q624587
+near infrared (nir) image,thermography,Q624587
+infrared host image,thermography,Q624587
+vehicle image,vehicle,Q42889
+car image,vehicle,Q42889
+full car image,vehicle,Q42889
+surveillance car image,vehicle,Q42889
+vehicle camera image,vehicle,Q42889
+overhead car image,vehicle,Q42889
+vehicle model image,vehicle,Q42889
+ni vehicle image,vehicle,Q42889
+ti vehicle image,vehicle,Q42889
+urban vehicle image,vehicle,Q42889
+aerial image,aerial image,Q4688011
+aerial view image,aerial image,Q4688011
+aerial scene image,aerial image,Q4688011
+real aerial image,aerial image,Q4688011
+synthetic aerial image,aerial image,Q4688011
+satellite image,satellite view,P11832
+satellite view image,satellite view,P11832
+animal image,animal,Q729
+pet image,animal,Q729
+wildlife image,animal,Q729
+dog image,animal,Q729
+animal pose image,animal,Q729
+mammal image,animal,Q729
+dog breed image,animal,Q729
+dog face image,animal,Q729
+abstract animal image,animal,Q729
+domestic animal image,animal,Q729
+animal face image,animal,Q729
+chest xray image,X-ray,Q34777
+xray image,X-ray,Q34777
+xray angiography image,X-ray,Q34777
+medical xray image,X-ray,Q34777
+biological xray image,X-ray,Q34777
+industrial xray image,X-ray,Q34777
+product image,product,Q2424752
+retail product image,product,Q2424752
+retail item image,product,Q2424752
+ecommerce product image,product,Q2424752
+retail object image,product,Q2424752
+stereo image,stereo image,Q123906126
+stereo camera image,stereo image,Q123906126
+stereo pair image,stereo image,Q123906126
+object category,object genre,Q111360549
+object label,object genre,Q111360549
+object category label,object genre,Q111360549
+object class label,object genre,Q111360549
+object detection label,object genre,Q111360549
+object name,object genre,Q111360549
+object classification label,object genre,Q111360549
+annotated image,image annotation,Q105226562
+attribute image,image annotation,Q105226562
+annotated face image,image annotation,Q105226562
+annotated bird image,image annotation,Q105226562
+pose annotated image,image annotation,Q105226562
+annotated vehicle image,image annotation,Q105226562
+attribute annotated image,image annotation,Q105226562
+annotated object image,image annotation,Q105226562
+annotated people image,image annotation,Q105226562
+annotated gun image,image annotation,Q105226562
+pixel level annotated image,image annotation,Q105226562
+synthetic image,synthetic media,Q96407327
+synthetic environment image,synthetic media,Q96407327
+synthetic scene image,synthetic media,Q96407327
+synthetic color image,synthetic media,Q96407327
+retinal image,Fundus camera,Q1144413
+retinal fundus image,Fundus camera,Q1144413
+retina image,Fundus camera,Q1144413
+annotated retinal image,Fundus camera,Q1144413
+digit image,Handwriting,Q2393642
+handwritten digit image,Handwriting,Q2393642
+stacked digit image,Handwriting,Q2393642
+ambiguous digit image,Handwriting,Q2393642
+3d object image,3D image,Q93700041
+3d shape image,3D image,Q93700041
+3d environment image,3D image,Q93700041
+shape image,3D image,Q93700041
+scene geometry image,3D image,Q93700041
+3d geometry image,3D image,Q93700041
+3d scene image,3D image,Q93700041
+irregular shape image,3D image,Q93700041
+3d image,3D image,Q93700041
+hyperspectral image,Hyperspectral imaging,Q959005
+hyperspectral radiance image,Hyperspectral imaging,Q959005
+hyperspectral reflectance image,Hyperspectral imaging,Q959005
+labeled hyperspectral image,Hyperspectral imaging,Q959005
+ground truth image,ground truth,Q370766
+ground truth depth image,ground truth,Q370766
+ground image,ground truth,Q370766
+ground camera image,ground truth,Q370766
+groundtruth image,ground truth,Q370766
+ground truth real image,ground truth,Q370766
+medical image,medical imaging,Q931309
+clinical image,medical imaging,Q931309
+object detection image,pedestrian detection,Q2355550
+pedestrian detection image,pedestrian detection,Q2355550
+human detection image,pedestrian detection,Q2355550
+ct image,CT scan,Q32566
+ct scan image,CT scan,Q32566
+computed tomography image,CT scan,Q32566
+micro ct image,CT scan,Q32566
+pet/ct image,CT scan,Q32566
+segmented image,image segmentation,Q56933
+segmentation image,image segmentation,Q56933
+instance segmentation image,image segmentation,Q56933
+polyp segmentation image,image segmentation,Q56933
+class segmentation image,image segmentation,Q56933
+grayscale segmentation image,image segmentation,Q56933
+histopathology image,histopathology,Q1070952
+histology image,histopathology,Q1070952
+histopathological image,histopathology,Q1070952
+histological image,histopathology,Q1070952
+histopathologic image,histopathology,Q1070952
+background image,Foreground detection,Q3813641
+foreground image,Foreground detection,Q3813641
+foreground and background image,Foreground detection,Q3813641
+foreground object image,Foreground detection,Q3813641
+environment image,environmental data,Q5381206
+environmental image,environmental data,Q5381206
+control environment image,environmental data,Q5381206
+cell image,live cell imaging,Q6657126
+segmented cell image,live cell imaging,Q6657126
+synthetic cell image,live cell imaging,Q6657126
+cellular image,live cell imaging,Q6657126
+underwater image,seabed imagery ,Q57084789
+fish image,seabed imagery ,Q57084789
+underwater fish image,seabed imagery ,Q57084789
+fish species image,seabed imagery ,Q57084789
+underwater concepts image,seabed imagery ,Q57084789
+underwater seabed image,seabed imagery ,Q57084789
+handwritten text image,Handwriting,Q2393642
+handwritten document image,Handwriting,Q2393642
+handwritten character image,Handwriting,Q2393642
+handwritten image,Handwriting,Q2393642
+hand drawn image,Handwriting,Q2393642
+fundus image,Fundus camera,Q1144413
+2d fundus image,Fundus camera,Q1144413
+color fundus image,Fundus camera,Q1144413
+generated image,computer-generated imagery,Q6002306
+random image,computer-generated imagery,Q6002306
+randomly generated image,computer-generated imagery,Q6002306
+synthesized object image,computer-generated imagery,Q6002306
+urban environment image,cityscape,Q42304051
+urban landscape image,cityscape,Q42304051
+urban scene image,cityscape,Q42304051
+full urban image,cityscape,Q42304051
+urban area image,cityscape,Q42304051
+urban and rural landscape image,cityscape,Q42304051
+urban image,cityscape,Q42304051
+texture image,Image texture,Q17147001
+textured surface image,Image texture,Q17147001
+traffic sign image,traffic sign,Q170285
+german traffic signs image,traffic sign,Q170285
+augmented traffic sign image,traffic sign,Q170285
+clean traffic sign image,traffic sign,Q170285
+indoor scene image,interior view,Q18811686
+indoor environment image,interior view,Q18811686
+indoor rgb image,interior view,Q18811686
+indoor object image,interior view,Q18811686
+interior scene image,interior view,Q18811686
+interior design image,interior view,Q18811686
+indoor image,interior view,Q18811686
+ultrasound image,ultrasound,Q162564
+micro ultrasound image,ultrasound,Q162564
+web image,web page,Q36774
+web page image,web page,Q36774
+license plate image,vehicle registration plate,Q22706
+house number plate image,vehicle registration plate,Q22706
+car license image,vehicle registration plate,Q22706
+number plate image,vehicle registration plate,Q22706
+landmark image,architectural landmark,Q2319498
+landmark building image,architectural landmark,Q2319498
+city building image,architectural landmark,Q2319498
+church building image,architectural landmark,Q2319498
+table image,table,Q496946
+table structure image,table,Q496946
+rotated table image,table,Q496946
+nutrition table image,table,Q496946
+object detection,object recognition,Q1971661
+object recognition,object recognition,Q1971661
+object classification,object recognition,Q1971661
+object mask,mask,Q591605
+object segmentation mask,mask,Q591605
+mask image,mask,Q591605
+object centric mask,mask,Q591605
+object level mask,mask,Q591605
+adverse weather image,adverse weather events,Q113093943
+weather condition image,adverse weather events,Q113093943
+weather and seasonal variation image,adverse weather events,Q113093943
+weather phenomena image,adverse weather events,Q113093943
+weather image,adverse weather events,Q113093943
+multi spectral image,Spectral imaging,Q7575196
+spectral image,Spectral imaging,Q7575196
+multi spectral satellite image,Spectral imaging,Q7575196
+multi spectral vegetation image,Spectral imaging,Q7575196
+spectral band image,Spectral imaging,Q7575196
+hyper spectral image,Spectral imaging,Q7575196
+panoramic image,spherical panorama,Q658252
+360° image,spherical panorama,Q658252
+spherical image,spherical panorama,Q658252
+panorama image,spherical panorama,Q658252
+360° spherical image,spherical panorama,Q658252
+spherical panoramic image,spherical panorama,Q658252
+360° rgb image,spherical panorama,Q658252
+fluorescence microscopy image,Fluorescence microscope,Q840211
+synthetic fluorescence microscopy image,Fluorescence microscope,Q840211
+fluorescent microscopy image,Fluorescence microscope,Q840211
+fluorescent image,Fluorescence microscope,Q840211
+aircraft image,aircraft,Q11436
+airplane image,aircraft,Q11436
+manned aircraft image,aircraft,Q11436
+aerial vehicle image,aircraft,Q11436
+portrait image,portrait,Q134307
+landscape image,portrait,Q134307
+real portrait image,portrait,Q134307
+flower image,flower,Q506
+vgg flowers image,flower,Q506
+overhead flower image,flower,Q506
+real flower image,flower,Q506
+artificial flower image,flower,Q506
+augmented flower image,flower,Q506
+orchid image,flower,Q506
+labeled image,labeled data,Q30673951
+label image,labeled data,Q30673951
+labelled object image,labeled data,Q30673951
+multi label image,labeled data,Q30673951
+double labelled image,labeled data,Q30673951
+labeled camera image,labeled data,Q30673951
+change labeled image,labeled data,Q30673951
+mri image,magnetic resonance imaging of the brain,Q13400786
+brain image,magnetic resonance imaging of the brain,Q13400786
+mri flair image,magnetic resonance imaging of the brain,Q13400786
+knee mri image,magnetic resonance imaging of the brain,Q13400786
+mri brain image,magnetic resonance imaging of the brain,Q13400786
+cine mri image,magnetic resonance imaging of the brain,Q13400786
+brain mr image,magnetic resonance imaging of the brain,Q13400786
+brain ct image,magnetic resonance imaging of the brain,Q13400786
+human pose image,pose,Q1671968
+3d human body pose image,pose,Q1671968
+3d body pose image,pose,Q1671968
+3d human motion image,pose,Q1671968
+dermoscopy image,dermatoscopy,Q902923
+dermoscopic image,dermatoscopy,Q902923
+dermatoscopic image,dermatoscopy,Q902923
+egocentric image,Egocentric vision,Q48813876
+ego centric view image,Egocentric vision,Q48813876
+egocentric camera image,Egocentric vision,Q48813876
+ego perspective image,Egocentric vision,Q48813876
+drone image,unmanned aerial vehicle,Q484000
+drone simulation image,unmanned aerial vehicle,Q484000
+drone static image,unmanned aerial vehicle,Q484000
+processed drone image,unmanned aerial vehicle,Q484000
+simulated drone view image,unmanned aerial vehicle,Q484000
+visible spectrum image,visible spectrum,Q76299
+visible light image,visible spectrum,Q76299
+beyond visible spectrum image,visible spectrum,Q76299
+galaxy image,Astrophotography,Q280855
+astronomical image,Astrophotography,Q280855
+milky way image,Astrophotography,Q280855
+radio image,Astrophotography,Q280855
+radio galaxy image,Astrophotography,Q280855
+rendered image,rendering,Q176953
+rendered scene image,rendering,Q176953
+rendered colour image,rendering,Q176953
+rendering image,rendering,Q176953
+rendered 3d model image,rendering,Q176953
+multispectral image,multispectral image,Q1761440
+multispectral satellite image,multispectral image,Q1761440
+skin lesion image,skin lesion,Q102187434
+skin disease image,skin lesion,Q102187434
+traffic scene image,traffic,Q4323994
+traffic image,traffic,Q4323994
+traffic environment image,traffic,Q4323994
+traffic camera image,traffic,Q4323994
+sky image,satellite imagery,Q725252
+sky/cloud image,satellite imagery,Q725252
+cloud image,satellite imagery,Q725252
+cloudless image,satellite imagery,Q725252
+cloud mask image,satellite imagery,Q725252
+cloud free satellite image,satellite imagery,Q725252
+nighttime sky/cloud image,satellite imagery,Q725252
+logo image,logo,Q1886349
+brand logo image,logo,Q1886349
+object model,object model,Q1116105
+object 3d model,object model,Q1116105
+object level 3d model,object model,Q1116105
+microscopic image,microscopy,Q1074953
+microscopic neuronal image,microscopy,Q1074953
+cellular microscopic image,microscopy,Q1074953
+sar image,SAR imagery,Q124445860
+synthetic aperture radar (sar) image,SAR imagery,Q124445860
+sar ship image,SAR imagery,Q124445860
+fisheye image,fisheye lens,Q121567
+fisheye face image,fisheye lens,Q121567
+fisheye automotive image,fisheye lens,Q121567
+fisheye camera image,fisheye lens,Q121567
+advertisement image,advertisement,Q39911916
+billboard image,advertisement,Q39911916
+campaign image,advertisement,Q39911916
+ad image,advertisement,Q39911916
+contextual image,contextual image classification,Q5165192
+contextual object image,contextual image classification,Q5165192
+grayscale image,grayscale image,Q685727
+grayscale mono image,grayscale image,Q685727
+whole slide image,slide,Q3026325
+slide image,slide,Q3026325
+object class,instance,Q1664689
+object instance,instance,Q1664689
+historical document image,historical document,Q3771738
+historic newspaper image,historical document,Q3771738
+historical map image,historical document,Q3771738
+archival image,historical document,Q3771738
+synthetic face image,synthetic data,Q7662746
+synthetic eye image,synthetic data,Q7662746
+synthetic eye and face image,synthetic data,Q7662746
+entire face synthesis image,synthetic data,Q7662746
+object layout,layout,Q671986
+object arrangement image,layout,Q671986
+object level 3d scene layout,layout,Q671986
+object bounding box,bounding volume,Q1434060
+oriented bounding box image,bounding volume,Q1434060
+animal bounding box image,bounding volume,Q1434060
+object wise bounding box,bounding volume,Q1434060
+radar image,radar image,Q99454767
+light reflection image,radar image,Q99454767
+radar rf image,radar image,Q99454767
+reflectivity image,radar image,Q99454767
+radar reflectivity image,radar image,Q99454767
+raw image,raw image format,Q654383
+raw format image,raw image format,Q654383
+object tracking video,video tracking,Q1931635
+single object tracking video,video tracking,Q1931635
+multi object tracking video,video tracking,Q1931635
+sketch image,sketch,Q5078274
+object sketch,sketch,Q5078274
+household object image,household goods,Q369594
+household object scene,household goods,Q369594
+household activity image,household goods,Q369594
+household items image,household goods,Q369594
+relationship image,social relation,Q853725
+social interaction image,social relation,Q853725
+social relationship image,social relation,Q853725
+object relation image,social relation,Q853725
+conceptual image,conceptual model,Q2623243
+reasoning image,conceptual model,Q2623243
+abstract reasoning image,conceptual model,Q2623243
+abstract concept image,conceptual model,Q2623243
+object motion,motion,Q7978
+object movement,motion,Q7978
+object trajectory,motion,Q7978
+object motion sequence,motion,Q7978
+object velocity,motion,Q7978
+synthesized snowy image,snow,Q7561
+snow free ground truth image,snow,Q7561
+realistic snowy image,snow,Q7561
+synthesized snow image,snow,Q7561
+real scenario snow image,snow,Q7561
+winter scenario image,snow,Q7561
+metal waste image,plastic waste,Q21583226
+glass waste image,plastic waste,Q21583226
+biological waste image,plastic waste,Q21583226
+paper waste image,plastic waste,Q21583226
+cardboard waste image,plastic waste,Q21583226
+plastic waste image,plastic waste,Q21583226
+camouflaged object image,camouflage,Q196113
+non camouflaged object image,camouflage,Q196113
+horse image,horse,Q726
+non horse image,horse,Q726
+event image,event,Q1656682
+event related image,event,Q1656682
+surgical instrument image,surgery,Q40821
+surgical scene image,surgery,Q40821
+surgical image,surgery,Q40821
+blood cell image,cell,Q7868
+immune cell image,cell,Q7868
+white blood cell image,cell,Q7868
+mammography image,mammography,Q324634
+breast screening image,mammography,Q324634
+2d mammographic image,mammography,Q324634
+floor plan image,floor plan,Q18965
+floorplan image,floor plan,Q18965
+object position,coordinate,Q3250736
+object position query,coordinate,Q3250736
+object coordinate,coordinate,Q3250736
+object position data,coordinate,Q3250736
+synthesized composite image,compositing,Q1121886
+composite image,compositing,Q1121886
+synthetic composite image,compositing,Q1121886
+object manipulation image,object manipulation,Q7075058
+object manipulation,object manipulation,Q7075058
+object manipulation action,object manipulation,Q7075058
+manipulation task image,object manipulation,Q7075058
+raindrop image,raindrop,Q131199014
+waterdrop image,raindrop,Q131199014
+daytime raindrop image,raindrop,Q131199014
+nighttime raindrop image,raindrop,Q131199014
+colonoscopy image,virtual colonoscopy,Q302481
+colon adenocarcinomas image,virtual colonoscopy,Q302481
+benign colonic tissues image,virtual colonoscopy,Q302481
+ct colonography image,virtual colonoscopy,Q302481
+illumination change image,illumination,Q210064
+illumination estimation image,illumination,Q210064
+ambient illumination image,illumination,Q210064
+luminance condition image,illumination,Q210064
+illumination condition image,illumination,Q210064
+cell phone image,smartphone,Q22645
+device captured image,smartphone,Q22645
+smartphone image,smartphone,Q22645
+mobile phone image,smartphone,Q22645
+device screen image,smartphone,Q22645
+novelty image,anomaly,Q567555
+logical anomaly image,anomaly,Q567555
+anomalous image,anomaly,Q567555
+anomaly detection image,anomaly,Q567555
+anomaly image,anomaly,Q567555
+marine environment image,marine life ,Q1230015
+marine species image,marine life ,Q1230015
+marine animal image,marine life ,Q1230015
+camouflaged marine animal image,marine life ,Q1230015
+common marine animal image,marine life ,Q1230015
+baggage image,luggage,Q865054
+suitcase/luggage image,luggage,Q865054
+parcel image,luggage,Q865054
+cuboid shaped parcel image,luggage,Q865054
+luggage image,luggage,Q865054
+high dynamic range image,dynamic range,Q1161699
+low dynamic range image,dynamic range,Q1161699
+photographic image,photograph,Q125191
+non photographic image,photograph,Q125191
+signature image,signboard,Q1211272
+signboard image,signboard,Q1211272
+entity image,entity,Q35120
+entity rich image,entity,Q35120
+object attribute,attribute,Q937228
+object property,attribute,Q937228
+formula image,formula,Q976981
+mathematical expression image,formula,Q976981
+motion blur image,motion blur,Q2519251
+camera motion blur image,motion blur,Q2519251
+recipe image,cooking,Q38695
+cooking activity image,cooking,Q38695
+kitchen interaction image,cooking,Q38695
+traffic lane image,lane,Q3222002
+lane boundary image,lane,Q3222002
+lane detection image,lane,Q3222002
+hand posture image,posture,Q8514257
+hand gesture image,posture,Q8514257
+human gesture image,posture,Q8514257
+manipulated image,photograph manipulation,Q141130
+digitally manipulated image,photograph manipulation,Q141130
+altered image,photograph manipulation,Q141130
+cover image,book cover,Q1125338
+book cover image,book cover,Q1125338
+title image,book cover,Q1125338
+instagram image,instagram,Q209330
+public instagram image,instagram,Q209330
+public image,instagram,Q209330
+species image,organism,Q7239
+organism image,organism,Q7239
+biological image,organism,Q7239
+industrial product image,industrial product,Q1836700
+industrial inspection image,industrial product,Q1836700
+industrial object image,industrial product,Q1836700
+bank check image,banknote,Q4743
+currency image,banknote,Q4743
+banknote image,banknote,Q4743
+daytime image,daytime,Q52643
+daytime outdoor image,daytime,Q52643
+outdoor day image,daytime,Q52643
+parking space image,parking space,Q1433633
+parking lot image,parking space,Q1433633
+cyclist image,cyclist,Q2125610
+tricyclist image,cyclist,Q2125610
+bicycle image,cyclist,Q2125610
+compressed image,Compressed image format,Q2347127
+jpeg format image,Compressed image format,Q2347127
+jpeg compressed image,Compressed image format,Q2347127
+heart image,cardiac imaging,Q5038319
+heart segmentation image,cardiac imaging,Q5038319
+heart region image,cardiac imaging,Q5038319
+volumetric cardiac image,cardiac imaging,Q5038319
+multi temporal satellite image,satellite imagery,Q725252
+bi temporal high resolution image,satellite imagery,Q725252
+bi temporal remote sensing image,satellite imagery,Q725252
+bi temporal high resolution satellite rgb image,satellite imagery,Q725252
+cifar10 image,CIFAR-100,Q45038012
+cifar100 image,CIFAR-100,Q45038012
+cifar10/100 image,CIFAR-100,Q45038012
+radiology image,radiology,Q77604
+radiological image,radiology,Q77604
+birds eye view image,bird's-eye view,Q1153655
+bird eye view image,bird's-eye view,Q1153655
+endoscopic image,endoscopy,Q212809
+laryngeal endoscopic image,endoscopy,Q212809
+terrain image,terrain,Q186131
+elevation image,terrain,Q186131
+traffic light image,traffic light,Q8004
+railway traffic light image,traffic light,Q8004
+house image,apartment,Q188507
+apartment image,apartment,Q188507
+icon image,symbol,Q80071
+symbol image,symbol,Q80071
+spatial relation image,spatial relation,Q2178623
+spatial relationship image,spatial relation,Q2178623
+surface normal image,surface normal,Q273176
+surface normal orientation image,surface normal,Q273176
+object detection video,object detection,Q3045304
+object recognition video,object detection,Q3045304
+fungi image,fungi,Q764
+mushroom image,fungi,Q764
+makeup image,makeup,Q131207
+non makeup image,makeup,Q131207
+pathological image,pathology,Q7208
+pathological h&e image,pathology,Q7208
+photo tourism image,tourism,Q49389
+tourist attraction image,tourism,Q49389
+baby image,infant,Q998
+real infant image,infant,Q998
+mother image,infant,Q998
+supermarket product image,grocery,Q951964
+grocery and everyday product image,grocery,Q951964
+supermarket goods image,grocery,Q951964
+motion capture image,motion capture,Q676252
+full body motion image,motion capture,Q676252
+motion image,motion capture,Q676252
+t1 mr image,magnetic resonance angiography,Q907325
+t2 mr image,magnetic resonance angiography,Q907325
+mra image,magnetic resonance angiography,Q907325
+liver image,liver,Q9368
+hepatic vessel image,liver,Q9368
+liver ct image,liver,Q9368
+colon image,colon,Q5982337
+synthetic colon image,colon,Q5982337
+realistic colon image,colon,Q5982337
+geo tagged image,geotagged photograph,Q1368751
+geolocated image,geotagged photograph,Q1368751
+geo referenced image,geotagged photograph,Q1368751
+immunofluorescence whole slide image,immunofluorescence microscopy,Q592324
+immunofluorescence image,immunofluorescence microscopy,Q592324
+immunohistochemistry image,immunofluorescence microscopy,Q592324
+polarimetric sar image,Polarimetric SAR,Q132188108
+polarimetric rgb image,Polarimetric SAR,Q132188108
+polarimetric image,Polarimetric SAR,Q132188108
+planetary surface image,planetary surface,Q7201252
+mars surface image,planetary surface,Q7201252
+synthetic mars image,planetary surface,Q7201252
+synthesized text image,speech synthesis,Q16346
+synthetic text image,speech synthesis,Q16346
+synthetic word image,speech synthesis,Q16346
+pattern image,pattern,Q2083958
+printed pattern image,pattern,Q2083958
+abstract pattern image,pattern,Q2083958
+printed object image,printed object,Q1261026
+printed text image,printed object,Q1261026
+printed text line image,printed object,Q1261026
+alphabet image,alphabet,Q9779
+glyph image,alphabet,Q9779
+letter image,alphabet,Q9779
+cbct image,cone beam computed tomography,Q1224951
+4d fbct image,cone beam computed tomography,Q1224951
+4d cbct image,cone beam computed tomography,Q1224951
+video frame image,video frame,Q5477883
+frame image,video frame,Q5477883
+optical flow image,optical flow,Q736111
+scene flow image,optical flow,Q736111
+gastrointestinal polyp image,gastrointestinal polyp,Q14299202
+medical polyp image,gastrointestinal polyp,Q14299202
+infographic image,infographic,Q845734
+visualization and infographic image,infographic,Q845734
+woman image,gender,Q48277
+gender related image,gender,Q48277
+all focus image,Multi-focus image fusion,Q55080206
+multi focus image,Multi-focus image fusion,Q55080206
+grocery image,grocery,Q951964
+grocery item image,grocery,Q951964
+synthetic brain tumor image,tumor,Q133212
+real brain tumor image,tumor,Q133212
+oct a image,optical coherence tomography,Q899552
+oct image,optical coherence tomography,Q899552
+optical coherence tomography image,optical coherence tomography,Q899552
+3d optical coherence tomography (oct) image,optical coherence tomography,Q899552
+thumbnail image,thumbnail,Q873806
+object thumbnail,thumbnail,Q873806
+pistachio image,pistachio,Q36071
+pistachio species image,pistachio,Q36071
+lung image,lung,Q7886
+benign lung tissues image,lung,Q7886
+object size,size,Q322481
+object size comparison,size,Q322481
+liquid container image,bottle,Q80228
+medical bottle image,bottle,Q80228
+anime image,anime,Q1107
+anime/manga image,anime,Q1107
+above water dolphin image,dolphin,Q7369
+below water dolphin image,dolphin,Q7369
+high speed camera image,high-speed camera,Q1621848
+high frame rate image,high-speed camera,Q1621848
+layout image,layout,Q671986
+spatial layout image,layout,Q671986
+tiny object image,miniature object,Q111907565
+miniature object image,miniature object,Q111907565
+catalog image,catalog,Q2352616
+catalogue image,catalog,Q2352616
+grape cluster image,vineyard,Q22715
+vineyard image,vineyard,Q22715
+microscopic marine plankton image,plankton,Q25367
+plankton image,plankton,Q25367
+dual fisheye image,fisheye lens,Q121567
+stereo fisheye image,fisheye lens,Q121567
+specular image,spectrogram,Q578970
+spectrogram image,spectrogram,Q578970
+hairstyle image,hairstyle,Q327496
+hair image,hairstyle,Q327496
+tissue image,tissue sample,Q30088094
+tissue sample image,tissue sample,Q30088094
+t1 weighted image,T2*-weighted imaging,Q56281360
+t2 weighted image,T2*-weighted imaging,Q56281360
+diabetic foot ulcer image,ulcer,Q6452285
+oral ulcer image,ulcer,Q6452285
+echocardiographic image,echocardiography,Q216933
+echocardiogram image,echocardiography,Q216933
+cardiac mri image,cardiac magnetic resonance imaging,Q5038325
+cardiac magnetic resonance image,cardiac magnetic resonance imaging,Q5038325
+material microstructure image,microstructure,Q1498213
+microstructure image,microstructure,Q1498213
+synthetic barcode image,QR code,Q12203
+qr code image,QR code,Q12203
+scanned receipt image,receipt,Q330190
+receipt image,receipt,Q330190
+cie xyz image,chronic intestinal pseudo-obstruction,Q56014002
+cipo image,chronic intestinal pseudo-obstruction,Q56014002
+ecommerce shop image,shop,Q213441
+shop image,shop,Q213441
+medical personal protective equipment image,safety equipment,Q3030569
+safety equipment image,safety equipment,Q3030569
+pcb image,printed circuit board,Q173350
+printed circuit board image,printed circuit board,Q173350
+ground truth fingerprint image,fingerprint,Q178022
+real fingerprint image,fingerprint,Q178022
+h&e stained histology image,histology,Q7168
+h&e stained tissue image,histology,Q7168
+2d particle image,particle,Q1621273
+3d particle image,particle,Q1621273
+indian food image,cuisine,Q1778821
+central asian cuisine image,cuisine,Q1778821
+wearable camera image,body-worn camera,Q17020273
+wearable item image,body-worn camera,Q17020273
+high resolution satellite image,satellite imagery,Q725252
+low resolution satellite image,satellite imagery,Q725252
+pavement image,pavement,Q177749
+highway pavement image,pavement,Q177749
+gastric cancer pathology image,gastric cancer,Q189588
+sub sized gastric cancer pathology image,gastric cancer,Q189588
+solar cell image,solar cell panel,Q217941
+solar panel image,solar cell panel,Q217941
+angle of linear polarization (aolp) image,linear polarization,Q6553479
+degree of linear polarization (dolp) image,linear polarization,Q6553479
+deep sky object image,deep-sky object,Q249389
+deep sky image,deep-sky object,Q249389
+contactless fingerprint image,Contactless fingerprinting,Q61750377
+contact based fingerprint image,Contactless fingerprinting,Q61750377
+vignetting image,vignetting,Q1136665
+vignetting free image,vignetting,Q1136665
+cervical cell image,blood smear,Q886475
+blood smear image,blood smear,Q886475
+spleen image,blood smear,Q886475
+finger vein image,blood smear,Q886475
+microtubule cell image,blood smear,Q886475
+hematoxylin image,blood smear,Q886475
+hemorrhage histological image,blood smear,Q886475
+furniture image,furniture,Q14745
+warehouse image,furniture,Q14745
+shelf image,furniture,Q14745
+camera image,webcam,Q29576
+webcam image,webcam,Q29576
+cityscape image,cityscape,Q42304051
+streetscape image,cityscape,Q42304051
+streetlight image,cityscape,Q42304051
+manuscript image,manuscript,Q87167
+full document image,manuscript,Q87167
+designed document image,manuscript,Q87167
+time lapse microscopy image,microscopy,Q1074953
+microscopic field of view image,microscopy,Q1074953
+pre processed microscopic image,microscopy,Q1074953
+ambiguous image,ambiguous image,Q4741453
+unknown object image,ambiguous image,Q4741453
+unrelated image,ambiguous image,Q4741453
+driving scene,driving,Q999646
+road scene,driving,Q999646
+road driving scene,driving,Q999646
+urban scene,cityscape,Q42304051
+city scene,cityscape,Q42304051
+traffic scene,traffic,Q4323994
+urban traffic scene,traffic,Q4323994
+3d scene,3D,Q108276326
+3d indoor scene,3D,Q108276326
+3d action scene,3D,Q108276326
+3d rendered scene,3D,Q108276326
+urban street scene,cityscape,Q42304051
+urban road scene,cityscape,Q42304051
+urban driving scene,cityscape,Q42304051
+urban outdoor scene,cityscape,Q42304051
+crowd scene,crowd scene,Q85754678
+crowded scene,crowd scene,Q85754678
+3d crowd scene,crowd scene,Q85754678
+synthetic scene,synthetic,Q14623823
+artificial scene,synthetic,Q14623823
+urban scene video,cityscape,Q42304051
+street scene video,cityscape,Q42304051
+urban street scene video,cityscape,Q42304051
+real world scene,daily life,Q1129653
+daily life scene,daily life,Q1129653
+foggy road scene,haze,Q643546
+hazy outdoor scene,haze,Q643546
+haze free outdoor scene,haze,Q643546
+surgical scene frame,surgery,Q40821
+surgery scene,surgery,Q40821
+bedroom scene,living room,Q475018
+living room scene,living room,Q475018
+room scene,living room,Q475018
+rain scene,rain,Q7925
+rain free scene,rain,Q7925
+rainy street scene,rain,Q7925
+synthetic urban scene,virtual world,Q444835
+virtual city scene,virtual world,Q444835
+360° scene,360° video,Q4011366
+synthetic 360° scene,360° video,Q4011366
+night scene,night scene,Q96019552
+night city scene,night scene,Q96019552
+over exposed scene,exposure,Q271960
+under exposed scene,exposure,Q271960
+mixed exposure scene,mixed exposures,Q32984844
+complex exposure scene,mixed exposures,Q32984844
+annotated object,annotation,Q857525
+annotated entity,annotation,Q857525
+annotated logo object,annotation,Q857525
+annotated list,annotation,Q857525
+annotated statement,annotation,Q857525
+annotated passage,annotation,Q857525
+annotated clause,annotation,Q857525
+synthetic network,synthetic data,Q7662746
+synthetic dataset,synthetic data,Q7662746
+game frame,game form,Q127611783
+gameplay frame,game form,Q127611783
+movie frame,film frame,Q795160
+cinematic frame,film frame,Q795160
+film frame,film frame,Q795160
+synthetic voice,speech synthesis,Q16346
+synthetic utterance,speech synthesis,Q16346
+synthetic music track,speech synthesis,Q16346
+color frame,Color framing,Q3683600
+real rgb frame,Color framing,Q3683600
+polyp frame,polyp,Q657665
+non polyp frame,polyp,Q657665
+medical record,medical record,Q1324077
+patient record,medical record,Q1324077
+health record,medical record,Q1324077
+medical imaging,medical imaging,Q931309
+medical image analysi,medical imaging,Q931309
+clinical outcome,clinical outcome,Q1340863
+clinical outcome measure,clinical outcome,Q1340863
+clinical response,clinical outcome,Q1340863
+patient outcome,clinical outcome,Q1340863
+medical ontology entity,ontology,Q324254
+medical ontology relation,ontology,Q324254
+medical named entity,ontology,Q324254
+medical entity,ontology,Q324254
+patient classification,identified patient,Q2894606
+patient identifier,identified patient,Q2894606
+medical term,medical terminology,Q1192539
+medical terminology,medical terminology,Q1192539
+medical concept,medical terminology,Q1192539
+clinical trial abstract,clinical trial,Q30612
+clinical trial report,clinical trial,Q30612
+clinical guideline,clinical guideline,Q878041
+medical guideline,clinical guideline,Q878041
+clinical trial result,clinical trial,Q30612
+clinical trial info,clinical trial,Q30612
+health status,medical statistics,Q1252929
+health statistic,medical statistics,Q1252929
+health time series,medical statistics,Q1252929
+summary,summary,Q776754
+short summary,summary,Q776754
+long summary,summary,Q776754
+brief summary,summary,Q776754
+easy summary,summary,Q776754
+post summary,summary,Q776754
+abstractive summary,abstract,Q333291
+abstract summary,abstract,Q333291
+eeg signal,electroencephalography,Q179965
+brain activity signal,electroencephalography,Q179965
+eeg data,electroencephalography,Q179965
+brainwave signal,electroencephalography,Q179965
+raw eeg data,electroencephalography,Q179965
+newborn eeg data,electroencephalography,Q179965
+59channel eeg data,electroencephalography,Q179965
+ecg signal,electrocardiography,Q79785
+ekg signal,electrocardiography,Q79785
+cardiac signal,electrocardiography,Q79785
+emg signal,electromyography,Q507369
+electromyographic signal,electromyography,Q507369
+eog signal,electrooculography,Q420647
+ecog signal,electrooculography,Q420647
+polysomnographic signal,Q1754874,polysomnographic
+polysomnography signal,Q1754874,polysomnographic
+movie clip,film clip,Q128696755
+film clip,film clip,Q128696755
+web video clip,video clip,Q677466
+drone video clip,video clip,Q677466
+music room video clip,video clip,Q677466
+variety show clip,video clip,Q677466
+youtube lifestyle vlog clip,video clip,Q677466
+animal video clip,video clip,Q677466
+highlight clip,video clip,Q677466
+real estate video clip,video clip,Q677466
+podcast clip,video clip,Q677466
+comedy clip,video clip,Q677466
+diverse video clip,video clip,Q677466
+time lapse video clip,video clip,Q677466
+demonstration clip,video clip,Q677466
+cartoon video clip,video clip,Q677466
+badminton match clip,video clip,Q677466
+ct scan,computed tomography,Q32566
+chest ct scan,computed tomography,Q32566
+computed tomography (ct) scan,computed tomography,Q32566
+xray ct scan,computed tomography,Q32566
+mri scan,neuroimaging,Q551875
+brain scan,neuroimaging,Q551875
+ultrasound brain scan,neuroimaging,Q551875
+mri brain scan,neuroimaging,Q551875
+3d object scan,3D scanning,Q94701573
+3d scan,3D scanning,Q94701573
+partial 3d scan,3D scanning,Q94701573
+3d scene scan,3D scanning,Q94701573
+3d lidar scan,lidar,Q504027
+2d laser scan,lidar,Q504027
+stereo lidar scan,lidar,Q504027
+2d lidar scan,lidar,Q504027
+3d ct scan,computed tomography,Q32566
+3d mri scan,computed tomography,Q32566
+3d head and neck ct scan,computed tomography,Q32566
+oct b scan,optical coherence tomography,Q899552
+oct scan,optical coherence tomography,Q899552
+retinal oct b scan,Retinal scan,Q3329841
+retinal oct scan,Retinal scan,Q3329841
+legal document,legal instrument,Q3150005
+legal case document,legal instrument,Q3150005
+government document,legal instrument,Q3150005
+medical document,legal instrument,Q3150005
+judgment document,legal instrument,Q3150005
+technical document,legal instrument,Q3150005
+formal document,legal instrument,Q3150005
+legislative document,legal instrument,Q3150005
+court document,legal instrument,Q3150005
+regulatory document,legal instrument,Q3150005
+financial document,financial document,Q131866763
+financial transaction document,financial document,Q131866763
+bilingual document,bilingual inscription,Q861809
+monolingual document,bilingual inscription,Q861809
+translated document,bilingual inscription,Q861809
+retrieved document,document retrieval,Q1638872
+query document,document retrieval,Q1638872
+apk file,APK,Q596391
+manifest file,APK,Q596391
+semantic relation,semantic relation,Q2268906
+semantic relationship,semantic relation,Q2268906
+semantic parse,semantic parsing,Q55632839
+semantic parsing,semantic parsing,Q55632839
+semantic rating,semantic similarity,Q2268914
+semantic similarity score,semantic similarity,Q2268914
+entity,entity,Q35120
+entity type,entity,Q35120
+entity record,entity,Q35120
+entity entry,entity,Q35120
+entity relation,entity-relationship model,Q624546
+entity relationship,entity-relationship model,Q624546
+entity linking,entity linking,Q17012245
+entity link,entity linking,Q17012245
+entity alignment link,entity linking,Q17012245
+entity uri,entity linking,Q17012245
+entity linking example,entity linking,Q17012245
+product category,product category,Q63981612
+product names and category,product category,Q63981612
+product classification,product category,Q63981612
+traffic surveillance,traffic,Q4323994
+traffic scenario,traffic,Q4323994
+traffic reading,traffic,Q4323994
+traffic measurement,traffic,Q4323994
+traffic participant class,traffic,Q4323994
+traffic pattern,traffic,Q4323994
+traffic flow,traffic,Q4323994
+traffic ranking,traffic,Q4323994
+traffic sensor,traffic,Q4323994
+traffic trace,traffic,Q4323994
+traffic report,traffic,Q4323994
+traffic flow simulation,traffic,Q4323994
+traffic participant trajectory,traffic,Q4323994
+traffic volume,traffic,Q4323994
+traffic speed,traffic,Q4323994
+traffic sign,traffic sign,Q170285
+traffic sign recognition,traffic sign,Q170285
+traffic light mask type,traffic sign,Q170285
+traffic sign type,traffic sign,Q170285
+traffic element,traffic element,Q2516172
+traffic element attribute,traffic element,Q2516172
+traffic light status,traffic light,Q8004
+traffic light state,traffic light,Q8004
+time series,time series,Q186588
+forecasting time series,time series,Q186588
+meteorology time series,time series,Q186588
+real time series,time series,Q186588
+satellite image time series,time series,Q186588
+satellite imagery time series,time series,Q186588
+biology time series,time series,Q186588
+nature time series,time series,Q186588
+optical image time series,time series,Q186588
+optical time series,time series,Q186588
+feature vector,feature vector,Q1921842
+gaze vector,feature vector,Q1921842
+lighting vector,feature vector,Q1921842
+label vector,feature vector,Q1921842
+float vector,feature vector,Q1921842
+traffic data,Traffic,Q1572846
+traffic speed data,Traffic,Q1572846
+traffic flow data,Traffic,Q1572846
+traffic simulation data,Traffic,Q1572846
+taxi data,Traffic,Q1572846
+traffic occupancy data,Traffic,Q1572846
+bike flow data,Traffic,Q1572846
+taxi flow data,Traffic,Q1572846
+flow data,Traffic,Q1572846
+taxi speed data,Traffic,Q1572846
+traffic load data,Traffic,Q1572846
+accelerometer data,accelerometer,Q192940
+3d accelerometer data,accelerometer,Q192940
+accelerometric data,accelerometer,Q192940
+gps data,GPS data,Q125301808
+gps position data,GPS data,Q125301808
+time series data,time series,Q186588
+timestamp data,time series,Q186588
+time data,time series,Q186588
+labeled time series data,time series,Q186588
+gene expression data,gene expression data,Q105771078
+protein data,gene expression data,Q105771078
+cancer expression data,gene expression data,Q105771078
+protein expression data,gene expression data,Q105771078
+motion data,motion,Q452237
+motion capture data,motion,Q452237
+motion sensor data,motion,Q452237
+motion and location data,motion,Q452237
+financial data,financial data,Q103890060
+economic data,financial data,Q103890060
+price data,financial data,Q103890060
+mid price data,financial data,Q103890060
+crypto exchange data,financial data,Q103890060
+stock exchange data,financial data,Q103890060
+stock market data,financial data,Q103890060
+trading data,financial data,Q103890060
+eye fixation data,eye tracking,Q970687
+eye gaze data,eye tracking,Q970687
+eye tracking data,eye tracking,Q970687
+gaze data,eye tracking,Q970687
+eye movement data,eye tracking,Q970687
+gaze tracking data,eye tracking,Q970687
+pupil tracking data,eye tracking,Q970687
+energy consumption data,energy,Q11379
+power consumption data,energy,Q11379
+electricity consumption data,energy,Q11379
+power data,energy,Q11379
+electricity data,energy,Q11379
+clinical data,clinical data,Q67565549
+standardized clinical data,clinical data,Q67565549
+medical data,clinical data,Q67565549
+patient data,clinical data,Q67565549
+clinical trial data,clinical data,Q67565549
+patient treatment data,clinical data,Q67565549
+clinical outcome data,clinical data,Q67565549
+patient clinical data,clinical data,Q67565549
+spoken medical data,clinical data,Q67565549
+lidar data,LIDAR data,Q124439708
+3d lidar data,LIDAR data,Q124439708
+2d lidar data,LIDAR data,Q124439708
+rasterized lidar data,LIDAR data,Q124439708
+meteorological data,meteorological data,Q118325618
+meteorology data,meteorological data,Q118325618
+weather data,meteorological data,Q118325618
+weather forecast data,meteorological data,Q118325618
+weather conditions data,meteorological data,Q118325618
+weather sensor data,meteorological data,Q118325618
+geolocation data,location data,Q60474237
+location data,location data,Q60474237
+geo positioning data,location data,Q60474237
+raw sensor data,sensor data,Q45940104
+sensor data,sensor data,Q45940104
+environmental sensor data,sensor data,Q45940104
+mobile sensor data,sensor data,Q45940104
+sensor suite data,sensor data,Q45940104
+smartphone sensor data,sensor data,Q45940104
+transaction data,transaction data,Q7833714
+blockchain transaction data,transaction data,Q7833714
+blockchain data,transaction data,Q7833714
+radar data,radar,Q47528
+radar localization data,radar,Q47528
+3+1d radar data,radar,Q47528
+radar imaging data,radar,Q47528
+odometry data,odometry,Q2014717
+wheel odometry data,odometry,Q2014717
+event data,Event data,Q5416716
+event stream data,Event data,Q5416716
+calibration data,calibration,Q736777
+photometric calibration data,calibration,Q736777
+sensor calibration data,calibration,Q736777
+ground truth data,GroundTruth,Q101379068
+groundtruth data,GroundTruth,Q101379068
+ground truth source data,GroundTruth,Q101379068
+table data,tabular data,Q108855315
+tabular data,tabular data,Q108855315
+spreadsheet data,tabular data,Q108855315
+single cell data,tabular data,Q108855315
+click data,click,Q107370303
+clickstream data,click,Q107370303
+synthetic data,synthetic data,Q7662746
+synthetic numerical data,synthetic data,Q7662746
+position data,position,Q1781513
+positioning data,position,Q1781513
+positional data,position,Q1781513
+statistical data,statistical data,Q35308049
+regression data,statistical data,Q35308049
+statistical model data,statistical data,Q35308049
+interaction data,Interaction,Q4641997
+interaction depth data,Interaction,Q4641997
+real time interaction data,Interaction,Q4641997
+pose data,Pose,Q30603704
+6d object pose data,Pose,Q30603704
+robot pose data,Pose,Q30603704
+sensor pose data,Pose,Q30603704
+classification data,classification,Q13582682
+training data,classification,Q13582682
+classification tasks data,classification,Q13582682
+skeleton data,skeleton,Q186190
+tracked skeleton data,skeleton,Q186190
+3d skeletal data,skeleton,Q186190
+skeleton kinematics data,skeleton,Q186190
+magnetometer data,magnetometer,Q333921
+magnetic field data,magnetometer,Q333921
+forecast data,Forecast,Q62032785
+global forecasting data,Forecast,Q62032785
+vibration data,vibration,Q3695508
+temple vibration pickup data,vibration,Q3695508
+structured data,structured data,Q26813700
+linked data,structured data,Q26813700
+rdf data,structured data,Q26813700
+altitude data,altitude,Q190200
+elevation data,altitude,Q190200
+fall depth data,altitude,Q190200
+temperature data,temperature,Q11466
+temperature field data,temperature,Q11466
+temperature sensor data,temperature,Q11466
+frequency data,spectrum,Q654182
+spectral data,spectrum,Q654182
+spectrum data,spectrum,Q654182
+rotation rate data,rotation,Q107617
+rotation data,rotation,Q107617
+orientation data,rotation,Q107617
+angular velocity data,rotation,Q107617
+ray tracing data,illuminance,Q194411
+ambient light data,illuminance,Q194411
+illuminance data,illuminance,Q194411
+light field data,illuminance,Q194411
+gene mutation data,mutation,Q42918
+mutation data,mutation,Q42918
+mutation presence data,mutation,Q42918
+mutation type data,mutation,Q42918
+environmental data,environmental data,Q5381206
+meg data,environmental data,Q5381206
+nmr data,environmental data,Q5381206
+oceanographic data,environmental data,Q5381206
+seismic survey data,environmental data,Q5381206
+sales data,sales data,Q336127
+rental property data,sales data,Q336127
+sales property data,sales data,Q336127
+discount data,sales data,Q336127
+customer purchase data,sales data,Q336127
+property data,sales data,Q336127
+credit card client data,sales data,Q336127
+sales forecast data,sales data,Q336127
+feature data,sales data,Q336127
+item data,sales data,Q336127
+imu measurement,measurement,Q12453
+imu reading,measurement,Q12453
+imu,measurement,Q12453
+imu time series,measurement,Q12453
+imu stream,measurement,Q12453
+wearable sensor data,sensor data,Q45940104
+complementary sensor data,sensor data,Q45940104
+raspberry pi sensor data,sensor data,Q45940104
+resampled sensor data,sensor data,Q45940104
+multi sensor fusion data,sensor data,Q45940104
+door sensor data,sensor data,Q45940104
+acceleration data,acceleration,Q11376
+bearing acceleration data,acceleration,Q11376
+momentum data,acceleration,Q11376
+wind speed data,Wind simulation,Q22269363
+wind sensor data,Wind simulation,Q22269363
+wind power data,Wind simulation,Q22269363
+3d wind simulation data,Wind simulation,Q22269363
+cfd simulation data,Wind simulation,Q22269363
+raw data,raw data,Q2110223
+real data,raw data,Q2110223
+map data,map data,Q60475632
+coordinate data,map data,Q60475632
+projection data,map data,Q60475632
+manipulator motion data,motion,Q452237
+gait data,motion,Q452237
+head movement data,motion,Q452237
+forehead vibration sensor data,motion,Q452237
+arm motion data,motion,Q452237
+temporal data,Temporal,Q98889848
+historical data,Temporal,Q98889848
+electromyography data,Electromyography,Q27710763
+surgical motion data,Electromyography,Q27710763
+kinesthetic data,Electromyography,Q27710763
+mesh data,Mesh,Q37561088
+visuospatial data,Mesh,Q37561088
+voxel data,Mesh,Q37561088
+automotive bus data,Bus,Q989190
+vehicle human control data,Bus,Q989190
+car following data,Bus,Q989190
+bus idling data,Bus,Q989190
+response time data,response time,Q578372
+student performance data,response time,Q578372
+throughput data,response time,Q578372
+performance data,response time,Q578372
+biomarker data,Genomics Data,Q27725685
+b cell analysis data,Genomics Data,Q27725685
+epigenetic data,Genomics Data,Q27725685
+synthetic genomics data,Genomics Data,Q27725685
+sentence,sentence,Q41796
+story sentence,sentence,Q41796
+sentence pair,Pair,Q37174797
+paired sentence,Pair,Q37174797
+multilingual sentence,Multilingual,Q96716753
+monolingual sentence,Multilingual,Q96716753
+bilingual sentence,Multilingual,Q96716753
+word embedding,word embedding,Q18395344
+sentence embedding,word embedding,Q18395344
+language embedding,word embedding,Q18395344
+natural language sentence,natural language,Q33742
+english sentence,natural language,Q33742
+text classification,text classification,Q102190569
+sentence classification,text classification,Q102190569
+sentence pair classification,text classification,Q102190569
+sentence label,label,Q722218
+labeled sentence,label,Q722218
+sentence level summary label,label,Q722218
+sentence level label,label,Q722218
+sentence level text,label,Q722218
+language model output,language model,Q3621696
+language model response,language model,Q3621696
+word sense,word sense,Q1570700
+word sense disambiguation sentence,word sense,Q1570700
+word sense disambiguation,word sense,Q1570700
+source sentence,Source,Q643572
+original sentence,Source,Q643572
+language model evaluation,language model,Q3621696
+language modeling text,language model,Q3621696
+language model probe,language model,Q3621696
+language modeling,language model,Q3621696
+language model,language model,Q3621696
+context sentence,context,Q196626
+word in context,context,Q196626
+word context,context,Q196626
+spoken sentence,dialogue,Q131395
+dialogue sentence,dialogue,Q131395
+conversational sentence,dialogue,Q131395
+newspaper sentence,newspaper,Q11032
+news sentence,newspaper,Q11032
+journalistic sentence,newspaper,Q11032
+review sentence,review,Q265158
+customer review sentence,review,Q265158
+informal sentence,informal,Q77768943
+formal sentence,informal,Q77768943
+named entity sentence,named entity,Q25047676
+relation classification sentence,named entity,Q25047676
+entity relation sentence,named entity,Q25047676
+bangla sentence,Bangla,Q9610
+hindi sentence,Bangla,Q9610
+banglish sentence,Bangla,Q9610
+document,document,Q49848
+document feature,document,Q49848
+document title,document,Q49848
+document field,document,Q49848
+label,label,Q722218
+identity label,label,Q722218
+person identity label,label,Q722218
+numeric id label,label,Q722218
+id label,label,Q722218
+semantic segmentation label,semantic segmentation,Q120970636
+segmentation label,semantic segmentation,Q120970636
+material segmentation label,semantic segmentation,Q120970636
+instance segmentation label,semantic segmentation,Q120970636
+faz segmentation label,semantic segmentation,Q120970636
+building segmentation label,semantic segmentation,Q120970636
+segment level label,semantic segmentation,Q120970636
+classification label,classification,Q13582682
+binary label,classification,Q13582682
+binary classification label,classification,Q13582682
+multi class classification label,classification,Q13582682
+entry classification label,classification,Q13582682
+descriptive label,classification,Q13582682
+emotion label,Emotion,Q5373749
+affective state label,Emotion,Q5373749
+emotional label,Emotion,Q5373749
+sentiment label,sentiment,Q7451247
+entity level sentiment label,sentiment,Q7451247
+action label,Action,Q2634111
+action class label,Action,Q2634111
+atomic action label,Action,Q2634111
+action sequence label,Action,Q2634111
+action frame label,Action,Q2634111
+sequence label,Action,Q2634111
+action level label,Action,Q2634111
+node label,Node,Q105180965
+node classification label,Node,Q105180965
+activity label,activity,Q1914636
+intent label,activity,Q1914636
+category label,category,Q719395
+material category label,category,Q719395
+ground truth label,ground truth,Q370766
+pedestrian ground truth label,ground truth,Q370766
+source level ground truth label,ground truth,Q370766
+attribute label,attribute,Q2722260
+fine grained attribute label,attribute,Q2722260
+art attribute label,attribute,Q2722260
+sensitive attribute label,attribute,Q2722260
+attribute based label,attribute,Q2722260
+soft attribute label,attribute,Q2722260
+disease label,disease,Q12136
+disease category label,disease,Q12136
+disease classification label,disease,Q12136
+pose label,Pose,Q30603704
+3d pose label,Pose,Q30603704
+coco pose label,Pose,Q30603704
+6d object pose label,Pose,Q30603704
+anomaly label,anomaly,Q567555
+frame level anomaly label,anomaly,Q567555
+vehicle id label,vehicle,Q42889
+vehicle model label,vehicle,Q42889
+vehicle label,vehicle,Q42889
+vehicle body type label,vehicle,Q42889
+vulnerability label,vulnerability,Q631425
+defect label,vulnerability,Q631425
+behavior label,behavior,Q9332
+driver behavior label,behavior,Q9332
+gender label,gender,Q48277
+character gender label,gender,Q48277
+author gender label,gender,Q48277
+relation label,relation,Q930933
+relationship label,relation,Q930933
+age group label,Age,Q21143192
+age label,Age,Q21143192
+demographic label,Age,Q21143192
+era label,Age,Q21143192
+temporal label,Temporal,Q98889848
+temporal forgery segment label,Temporal,Q98889848
+temporal accident frame label,Temporal,Q98889848
+temporal segments label,Temporal,Q98889848
+crop label,Crop,Q37453707
+crop type label,Crop,Q37453707
+mask label,Crop,Q37453707
+non crop label,Crop,Q37453707
+style label,Style,Q37552559
+photographic style label,Style,Q37552559
+style classification label,Style,Q37552559
+global style label,Style,Q37552559
+per pixel label,pixel,Q355198
+pixel level label,pixel,Q355198
+per pixel segmentation label,pixel,Q355198
+instance level pixel wise label,pixel,Q355198
+pixel wise manual label,pixel,Q355198
+expression label,expression,Q778379
+function label,expression,Q778379
+interaction label,Interaction,Q4641997
+interaction class label,Interaction,Q4641997
+graph label,Graph,Q98669280
+axis label,Graph,Q98669280
+relevance label,relevance,Q1074648
+query specific relevance label,relevance,Q1074648
+query relevance label,relevance,Q1074648
+sarcasm label,sarcasm,Q191035
+sarcasm perspective label,sarcasm,Q191035
+sarcasm category label,sarcasm,Q191035
+digit label,digit,Q34583
+ambiguous digit label,digit,Q34583
+integer label,digit,Q34583
+diagnostic label,diagnosis,Q16644043
+diagnosis label,diagnosis,Q16644043
+diagnosis and management label,diagnosis,Q16644043
+publisher bias label,partisanship,Q1585121
+political leaning label,partisanship,Q1585121
+partisanship label,partisanship,Q1585121
+political bias label,partisanship,Q1585121
+grade label,expertise,Q644238
+expert scoring label,expertise,Q644238
+expertise label,expertise,Q644238
+dr grading label,expertise,Q644238
+point level label,correctness,Q1648040
+correctness label,correctness,Q1648040
+step level correctness label,correctness,Q1648040
+step level label,correctness,Q1648040
+logo label,Logo,Q201436
+sign word label,Logo,Q201436
+sign label,Logo,Q201436
+signature label,Logo,Q201436
+class label,class,Q18204
+entity label,class,Q18204
+topic label,class,Q18204
+article label,class,Q18204
+training label,class,Q18204
+concept label,class,Q18204
+domain label,class,Q18204
+taxi class label,class,Q18204
+layout class label,class,Q18204
+toxicity label,Toxicity label,Q7830400
+pathological classification label,Toxicity label,Q7830400
+lesion classification label,Toxicity label,Q7830400
+escalation label,Toxicity label,Q7830400
+pathology label,Toxicity label,Q7830400
+severity label,Toxicity label,Q7830400
+subjectivity label,subjectivity,Q1139554
+truthfulness label,subjectivity,Q1139554
+answerability label,subjectivity,Q1139554
+polygon label,Mesh,Q37561088
+surface material label,Mesh,Q37561088
+waste material label,Mesh,Q37561088
+3d body shape label,Mesh,Q37561088
+mesh label,Mesh,Q37561088
+manual label,Manual,Q37571798
+command label,Manual,Q37571798
+view label,Manual,Q37571798
+dense label,Dense,Q2362910
+noisy label,Dense,Q2362910
+3d object model,object model,Q1116105
+3d model of object,object model,Q1116105
+3d model,object model,Q1116105
+point cloud,point cloud,Q1899648
+urban point cloud,point cloud,Q1899648
+aerial point cloud,point cloud,Q1899648
+3d mesh,Mesh,Q37561088
+3d surface mesh,Mesh,Q37561088
+3d object mesh,Mesh,Q37561088
+3d mesh model,Mesh,Q37561088
+3d pose,Pose,Q30603704
+3d human pose,Pose,Q30603704
+3d body pose,Pose,Q30603704
+3d object,object,Q488383
+3d shape,object,Q488383
+3d object shape,object,Q488383
+3d reconstruction,3D reconstruction,Q4464732
+3d scene reconstruction,3D reconstruction,Q4464732
+3d trajectory,trajectory,Q193139
+3d point trajectory,trajectory,Q193139
+3d patch,Patch,Q37122018
+2d rgbd patch,Patch,Q37122018
+2d patch,Patch,Q37122018
+3d object detection,vehicle detection,Q2296025
+2d vehicle detection,vehicle detection,Q2296025
+3d vehicle detection,vehicle detection,Q2296025
+3d axon instance segmentation,semantic segmentation,Q120970636
+3d semantic segmentation,semantic segmentation,Q120970636
+3d instance segmentation,semantic segmentation,Q120970636
+2d instance segment,semantic segmentation,Q120970636
+partial point cloud,point cloud,Q1899648
+semi dense point cloud,point cloud,Q1899648
+3d environment visual,virtual environment,Q55950686
+3d scanned environment,virtual environment,Q55950686
+3d environment interaction,virtual environment,Q55950686
+3d virtual environment,virtual environment,Q55950686
+3d vr sketch,virtual environment,Q55950686
+tweet text,tweet,Q56119332
+social media text,tweet,Q56119332
+microblog text,tweet,Q56119332
+blog text,tweet,Q56119332
+dialogue text,dialogue,Q131395
+informal text,dialogue,Q131395
+formal text,dialogue,Q131395
+conversational text,dialogue,Q131395
+utterance text,dialogue,Q131395
+monologue text,dialogue,Q131395
+spoken text,dialogue,Q131395
+handwritten text,handwritten text,Q130217505
+chinese handwritten text,handwritten text,Q130217505
+review text,review,Q265158
+metrics evaluation text,review,Q265158
+evaluation text,review,Q265158
+parallel text,Parallel,Q33409955
+segmentation text,Parallel,Q33409955
+segmented text,Parallel,Q33409955
+line level text,Parallel,Q33409955
+fiction text,fiction,Q8253
+novel text,fiction,Q8253
+fictional text,fiction,Q8253
+descriptive text,descriptive text,Q126368461
+fact based text,descriptive text,Q126368461
+metadata text,descriptive text,Q126368461
+informative text,descriptive text,Q126368461
+description text,descriptive text,Q126368461
+informatics text,descriptive text,Q126368461
+english text,English,Q1860
+translated text,English,Q1860
+translation text,English,Q1860
+web text,Web,Q37564491
+web page text,Web,Q37564491
+english web text,Web,Q37564491
+chinese text,Chinese,Q7850
+chinese web text,Chinese,Q7850
+chinese printed text,Chinese,Q7850
+literary text,literary,Q6673651
+literature text,literary,Q6673651
+legal text,Legal text,Q62001872
+legislative text,Legal text,Q62001872
+legal decision text,Legal text,Q62001872
+contract text,Legal text,Q62001872
+court case text,Legal text,Q62001872
+religious text,religious text,Q179461
+bible text,religious text,Q179461
+reference text,reference,Q121769
+co reference text,reference,Q121769
+full text,paper,Q11472
+full paper text,paper,Q11472
+domain specific text,domain,Q146481
+it domain text,domain,Q146481
+multilingual answer,answer,Q1920566
+multilingual question answering,answer,Q1920566
+multilingual reply,answer,Q1920566
+sentiment text,sentiment,Q7451247
+sentiment analysis text,sentiment,Q7451247
+emotional text,sentiment,Q7451247
+long text,Long,Q10786776
+short text,Long,Q10786776
+holistic long text,Long,Q10786776
+chaotic long text,Long,Q10786776
+multilingual translation,translation,Q7553
+multilingual passage,translation,Q7553
+multilingual query,translation,Q7553
+multilingual segment,translation,Q7553
+multilingual context,translation,Q7553
+multilingual text transcription,translation,Q7553
+multilingual labeling,translation,Q7553
+narrative text,narrative,Q1318295
+procedural text,narrative,Q1318295
+interactive fiction text,narrative,Q1318295
+controllable text,narrative,Q1318295
+genre specific text,classification,Q13582682
+natural language text,classification,Q13582682
+classification text,classification,Q13582682
+contextual text,classification,Q13582682
+german text,German,Q188
+french text,German,Q188
+latin text,German,Q188
+patient information,patient information,Q2056913
+patient demographic information,patient information,Q2056913
+drug information,patient information,Q2056913
+medicine information,patient information,Q2056913
+prescriptions information,patient information,Q2056913
+hospitalization information,patient information,Q2056913
+medication information,patient information,Q2056913
+pathology information,patient information,Q2056913
+patient treatment information,patient information,Q2056913
+clinical information,patient information,Q2056913
+health information,patient information,Q2056913
+citation information,citation information,Q59156940
+source information,citation information,Q59156940
+bibliographic information,citation information,Q59156940
+reference information,citation information,Q59156940
+bibliographical information,citation information,Q59156940
+location information,location information,Q122084497
+geographical information,location information,Q122084497
+landmark information,location information,Q122084497
+regional information,location information,Q122084497
+geotagging information,location information,Q122084497
+geographic information,location information,Q122084497
+land use information,location information,Q122084497
+meta information,Meta,Q12796400
+job meta information,Meta,Q12796400
+author information,Author Information,Q96816219
+writer information,Author Information,Q96816219
+subject information,Subject,Q37554136
+topic information,Subject,Q37554136
+product information,product information,Q114566750
+seller information,product information,Q114566750
+brand information,product information,Q114566750
+vehicle information,vehicle,Q42889
+vehicle model information,vehicle,Q42889
+model information,vehicle,Q42889
+nutritional information,protein,Q8054
+molecule information,protein,Q8054
+protein information,protein,Q8054
+tagging information,tagging,Q3974773
+parsing information,tagging,Q3974773
+heading information,tagging,Q3974773
+extracted information,tagging,Q3974773
+syntactic information,tagging,Q3974773
+labeling information,tagging,Q3974773
+text: information,tagging,Q3974773
+repository information,repository,Q3133368
+project information,repository,Q3133368
+catalogue information,repository,Q3133368
+gender information,gender,Q48277
+self reported information,gender,Q48277
+ground truth hand pose information,Pose,Q30603704
+hand object contact information,Pose,Q30603704
+positioning information,Pose,Q30603704
+camera/pose information,Pose,Q30603704
+setting information,Setting,Q37254967
+signal information,Setting,Q37254967
+parameter information,Setting,Q37254967
+delay information,Setting,Q37254967
+multiple choice question,multiple choice question,Q28060611
+single choice question,multiple choice question,Q28060611
+natural language question,natural language,Q33742
+multi sentence question,natural language,Q33742
+question sentence,natural language,Q33742
+question answering,question answering,Q1074173
+question answering matching,question answering,Q1074173
+science question,Science,Q192864
+scientific question,Science,Q192864
+science exam question,Science,Q192864
+reasoning question,reasoning,Q1156402
+logical reasoning question,reasoning,Q1156402
+theory question,reasoning,Q1156402
+question type,Type,Q115868730
+question type annotation,Type,Q115868730
+annotated question,Type,Q115868730
+commonsense reasoning question,commonsense reasoning,Q5153664
+commonsense question,commonsense reasoning,Q5153664
+programming question,programming,Q2289786
+algorithmic question,programming,Q2289786
+bilingual question,Multilingual,Q96716753
+multilingual question,Multilingual,Q96716753
+translated question,Multilingual,Q96716753
+research question,research question,Q1438033
+information seeking question,research question,Q1438033
+advice seeking question,research question,Q1438033
+consumer health question,Consumer Health,Q58261542
+consumer question,Consumer Health,Q58261542
+question text,text,Q234460
+question body,text,Q234460
+question pattern,pattern,Q2083958
+question reformulation,pattern,Q2083958
+ambiguous question,pattern,Q2083958
+question variation,pattern,Q2083958
+question,question,Q189756
+exam question,question,Q189756
+harmful question,question,Q189756
+complex question,question,Q189756
+legal question,question,Q189756
+question metadata,question,Q189756
+evaluation question,question,Q189756
+counting question,question,Q189756
+clarification question,question,Q189756
+question template,question,Q189756
+paraphrased question,question,Q189756
+compositional question,question,Q189756
+simple question,question,Q189756
+absurd question,question,Q189756
+logical relation question,question,Q189756
+trivia question,question,Q189756
+question decomposition meaning representation,question,Q189756
+online quiz question,question,Q189756
+question transcript,question,Q189756
+entailment question,question,Q189756
+rhetorical question,question,Q189756
+short response question,question,Q189756
+transformation question,question,Q189756
+question thread,question,Q189756
+comparative question,question,Q189756
+disfluent question,question,Q189756
+product question,question,Q189756
+verification question,question,Q189756
+question characteristic,question,Q189756
+question id,question,Q189756
+unanswerable question,question,Q189756
+mcq question,question,Q189756
+inference question,question,Q189756
+riddle question,question,Q189756
+data science question,question,Q189756
+software testing question,question,Q189756
+puzzle question,question,Q189756
+question dpr embedding,question,Q189756
+financial question,question,Q189756
+true/false question,question,Q189756
+scenario based question,question,Q189756
+descriptive question,question,Q189756
+privacy policy question,question,Q189756
+regulation question,question,Q189756
+metadata,metadata,Q180160
+content metadata,metadata,Q180160
+study metadata,metadata,Q180160
+video metadata,video,Q625525
+movie metadata,video,Q625525
+film metadata,video,Q625525
+user metadata,user,Q278368
+account metadata,user,Q278368
+user interaction metadata,user,Q278368
+application metadata,application,Q166142
+app metadata,application,Q166142
+project metadata,application,Q166142
+software metadata,application,Q166142
+paper metadata,paper,Q11472
+publication metadata,paper,Q11472
+article metadata,paper,Q11472
+academic metadata,paper,Q11472
+email metadata,email,Q9158
+message metadata,email,Q9158
+repository metadata,repository,Q3133368
+github repository metadata,repository,Q3133368
+image metadata,image,Q478798
+camera metadata,image,Q478798
+photo metadata,image,Q478798
+sensor metadata,Sensor,Q37453697
+observation metadata,Sensor,Q37453697
+participant metadata,patient,Q181600
+patient metadata,patient,Q181600
+clinical scores and metadata,patient,Q181600
+game metadata,game,Q11410
+game round metadata,game,Q11410
+speaker metadata,Peaker,Q31207426
+vocalization metadata,Peaker,Q31207426
+music metadata,music,Q638
+song metadata,music,Q638
+experiment metadata,experiment,Q101965
+experimental metadata,experiment,Q101965
+test metadata,experiment,Q101965
+chronological metadata,chronological,Q112999895
+time metadata,chronological,Q112999895
+event metadata,chronological,Q112999895
+date metadata,chronological,Q112999895
+simulation metadata,simulation,Q45045
+post metadata,simulation,Q45045
+book metadata,simulation,Q45045
+scene metadata,simulation,Q45045
+character metadata,simulation,Q45045
+issue metadata,simulation,Q45045
+relationship metadata,simulation,Q45045
+world instance metadata,simulation,Q45045
+model metadata,simulation,Q45045
+textual metadata,simulation,Q45045
+manipulation metadata,simulation,Q45045
+per instance text metadata,simulation,Q45045
+public metadata,simulation,Q45045
+interactive element metadata,simulation,Q45045
+taxonomy metadata,simulation,Q45045
+supply chain metadata,simulation,Q45045
+encryption metadata,simulation,Q45045
+business metadata,simulation,Q45045
+case metadata,simulation,Q45045
+instance segmentation,instance,Q1664689
+instance segmentation mask,instance,Q1664689
+binary mask,Binary,Q4913864
+2d binary mask,Binary,Q4913864
+binary pixel mask,Binary,Q4913864
+binary foreground/background segmentation mask,Binary,Q4913864
+mask,mask,Q161524
+shadow mask,mask,Q161524
+hand mask,mask,Q161524
+crack mask,mask,Q161524
+ground truth mask,ground truth,Q370766
+labeled ground truth mask,ground truth,Q370766
+saliency ground truth mask,ground truth,Q370766
+segmentation,segmentation,Q1423946
+manual segmentation,segmentation,Q1423946
+stuff segmentation,segmentation,Q1423946
+change segmentation,segmentation,Q1423946
+part segmentation,segmentation,Q1423946
+panoptic segmentation,Panoptic segmentation,Q121747514
+planar segmentation,Panoptic segmentation,Q121747514
+foreground mask,foreground,Q2533752
+inpainting mask,foreground,Q2533752
+highlight mask,foreground,Q2533752
+ignore mask,foreground,Q2533752
+illumination mask,foreground,Q2533752
+polyp mask,foreground,Q2533752
+guide mask,foreground,Q2533752
+occlusion mask,foreground,Q2533752
+dense mask,foreground,Q2533752
+editing mask,foreground,Q2533752
+edge mask,foreground,Q2533752
+lesion segmentation,Lesion Segmentation,Q57241857
+organ segmentation,Lesion Segmentation,Q57241857
+news article,news article,Q5707594
+news,news article,Q5707594
+news report,news article,Q5707594
+news story,news article,Q5707594
+news editorial,news article,Q5707594
+newswire article,news article,Q5707594
+newspaper article,news article,Q5707594
+news headline,title,Q216353
+news title,title,Q216353
+news article title,title,Q216353
+encyclopedic article,Encyclopedic article,Q24492974
+encyclopedia article,Encyclopedic article,Q24492974
+news related image,image,Q478798
+news image,image,Q478798
+news photo,image,Q478798
+news article image,image,Q478798
+news picture,image,Q478798
+article text,text,Q234460
+news text,text,Q234460
+news article body text,text,Q234460
+news article text,text,Q234460
+news article body,text,Q234460
+article,article,Q191067
+sports article,article,Q191067
+business article,article,Q191067
+event article,article,Q191067
+spoken article,article,Q191067
+input article,article,Q191067
+financial news article,article,Q191067
+wikipedia article,Wikipedia article,Q130751856
+wikipedia article text,Wikipedia article,Q130751856
+news video,video,Q625525
+news snippet,video,Q625525
+news segment,video,Q625525
+news topic,video,Q625525
+news body,document,Q49848
+news abstract,document,Q49848
+news retrieval,document,Q49848
+news document,document,Q49848
+fact checking article,Fact checking,Q117307956
+fake news article,Fact checking,Q117307956
+truthful news article,Fact checking,Q117307956
+network traffic feature,Network,Q7000691
+network feature,Network,Q7000691
+network flow feature,Network,Q7000691
+traffic feature,Network,Q7000691
+feature,feature,Q814254
+high level feature,feature,Q814254
+higher level textual feature,feature,Q814254
+function feature,feature,Q814254
+dynamic feature,feature,Q814254
+item textual feature,feature,Q814254
+content feature,Content,Q37454002
+content based feature,Content,Q37454002
+resource feature,Content,Q37454002
+edge feature,Edge,Q16869767
+particle feature,Edge,Q16869767
+lip feature,Edge,Q16869767
+directional feature,Edge,Q16869767
+process feature,process,Q3249551
+manifest feature,process,Q3249551
+input feature,process,Q3249551
+music audio,music,Q638
+song audio,music,Q638
+original audio,music,Q638
+a cappella audio,music,Q638
+chorale audio,music,Q638
+source audio,music,Q638
+singing audio,music,Q638
+mixed audio,Mixed,Q6883863
+multichannel audio,Mixed,Q6883863
+multispeaker audio,Mixed,Q6883863
+spatial audio,Mixed,Q6883863
+4th order ambisonics spatial audio,Mixed,Q6883863
+four channel audio,Mixed,Q6883863
+raw audio,Raw audio,Q3415066
+wheel audio,Raw audio,Q3415066
+interaction audio,Raw audio,Q3415066
+robot manipulation audio,Raw audio,Q3415066
+activity audio,Raw audio,Q3415066
+workshop audio,Raw audio,Q3415066
+transcribed audio,Raw audio,Q3415066
+motion audio,Raw audio,Q3415066
+foley audio,Raw audio,Q3415066
+broadcast audio,Broadcast,Q922155
+drama audio,Broadcast,Q922155
+chosen audio,Broadcast,Q922155
+rejected audio,Broadcast,Q922155
+ad audio,Broadcast,Q922155
+episode audio,episode,Q1983062
+parliamentary debate audio,episode,Q1983062
+interview audio,episode,Q1983062
+musical score,Musical score,Q18230420
+music score,Musical score,Q18230420
+composition score,Musical score,Q18230420
+similarity score,similarity score,Q7517810
+relatedness score,similarity score,Q7517810
+term similarity score,similarity score,Q7517810
+quality score,Quality Score,Q7268763
+evaluation score,Quality Score,Q7268763
+quality assessment score,Quality Score,Q7268763
+summary quality score,Quality Score,Q7268763
+score,Final Score,Q27703274
+box score,Final Score,Q27703274
+line score,Final Score,Q27703274
+final score,Final Score,Q27703274
+review score,review,Q265158
+rating score,review,Q265158
+reviewer score,review,Q265158
+relevance score,relevance,Q1074648
+summary relevance score,relevance,Q1074648
+sentiment score,sentiment,Q7451247
+predicted sentiment score,sentiment,Q7451247
+mean opinion score,opinion,Q3962655
+subjective mean opinion score,opinion,Q3962655
+opinion score,opinion,Q3962655
+target images with memorability score,cognitive test,Q5141248
+memorability score,cognitive test,Q5141248
+recallability score,cognitive test,Q5141248
+cognitive test score,cognitive test,Q5141248
+aesthetic score,Quality Score,Q7268763
+helpfulness score,Quality Score,Q7268763
+ranking score,Quality Score,Q7268763
+subjective video quality score,Quality Score,Q7268763
+essay score,Quality Score,Q7268763
+student test score,Quality Score,Q7268763
+cumulative score,Quality Score,Q7268763
+subjective score,Quality Score,Q7268763
+annotation score,annotation,Q857525
+learning style score,annotation,Q857525
+query,Query,Q37165442
+sql query,Query,Q37165442
+original query,Query,Q37165442
+search query,search query,Q115215082
+code search query,search query,Q115215082
+web query,search query,Q115215082
+retrieval query,search query,Q115215082
+information retrieval query,search query,Q115215082
+natural language query,natural language query,Q112819305
+semantic query,natural language query,Q112819305
+single sentence query,natural language query,Q112819305
+sparql query,SPARQL query,Q114898838
+sparql/geosparql query,SPARQL query,Q114898838
+intent query,Intent,Q61969112
+single intent query,Intent,Q61969112
+facial expression,facial expression,Q327968
+emotional expression,facial expression,Q327968
+mathematical expression,mathematical expression,Q6498784
+symbolic expression,mathematical expression,Q6498784
+latex expression,mathematical expression,Q6498784
+spoken mathematical expression,mathematical expression,Q6498784
+temporal expression,Temporal,Q98889848
+time expression,Temporal,Q98889848
+timex expression,Temporal,Q98889848
+multiword expression,multiword expression,Q6935164
+semantic expression,multiword expression,Q6935164
+natural language expression,multiword expression,Q6935164
+logical expression,multiword expression,Q6935164
+referring expression,referring expression,Q3427356
+expression,referring expression,Q3427356
+sarcastic expression,referring expression,Q3427356
+node attribute,Node,Q105180965
+color attribute,Node,Q105180965
+tag,tag,Q658349
+anime tag,tag,Q658349
+genre tag,music genre,Q188451
+music tag,music genre,Q188451
+instrument tag,music genre,Q188451
+species tag,species,Q7432
+relevance tag,species,Q7432
+metadata tag,species,Q7432
+expression tag,expression,Q778379
+textual tag,expression,Q778379
+temporal tag,expression,Q778379
+page tag,expression,Q778379
+punctuation tag,expression,Q778379
+citation network,citation network,Q22907271
+wikipedia network,citation network,Q22907271
+collaboration network,communication network,Q13425103
+communication network,communication network,Q13425103
+internet network,communication network,Q13425103
+connectivity network,communication network,Q13425103
+actor/actress network,actress,Q21169216
+actor network,actress,Q21169216
+film network,actress,Q21169216
+interaction network,actress,Q21169216
+road network,road network,Q358078
+ego network,road network,Q358078
+amazon network,road network,Q358078
+lognormal network,road network,Q358078
+biological network,road network,Q358078
+transaction network,road network,Q358078
+bibliographic record,bibliographic record,Q1774089
+classification record,bibliographic record,Q1774089
+administrative record,bibliographic record,Q1774089
+historical record,bibliographic record,Q1774089
+metadata record,bibliographic record,Q1774089
+flight record,Flight record,Q28840665
+passenger record,Flight record,Q28840665
+trip record,Flight record,Q28840665
+family photo,Family Photo,Q129991438
+holiday photo,Family Photo,Q129991438
+people photo,Family Photo,Q129991438
+real photo,Real,Q30836859
+normal photo,Real,Q30836859
+window photo,Real,Q30836859
+natural language inference,natural language inference,Q29515364
+natural language explanation,natural language inference,Q29515364
+natural language instruction,natural language inference,Q29515364
+natural language command,natural language inference,Q29515364
+natural language specification,natural language inference,Q29515364
+natural language intent,natural language inference,Q29515364
+natural language statement,natural language inference,Q29515364
+natural language rationale,natural language inference,Q29515364
+natural language inference task,natural language inference,Q29515364
+natural language generation,natural language inference,Q29515364
+natural language utterance,natural language inference,Q29515364
+natural language template,natural language inference,Q29515364
+natural language feedback,natural language inference,Q29515364
+natural language hypothesi,natural language inference,Q29515364
+natural language motivation,natural language inference,Q29515364
+natural language title,natural language inference,Q29515364
+natural language action,natural language inference,Q29515364
+natural language code search,natural language inference,Q29515364
+natural utterance,natural language inference,Q29515364
+natural language answer,natural language inference,Q29515364
+natural language theorem statement,natural language inference,Q29515364
+natural language proof,natural language inference,Q29515364
+natural language prompt,natural language inference,Q29515364
+check in data,validation,Q359176
+validation data,validation,Q359176
+impression data,impression,Q115640974
+attitude data,impression,Q115640974
+benchmark data,benchmark,Q1161707
+benchmarking data,benchmark,Q1161707
+trajectory data,trajectory,Q193139
+dynamic trajectory data,trajectory,Q193139
+kinematic data,Kinematic,Q25215452
+kinematics data,Kinematic,Q25215452
+activity data,activity,Q1914636
+timestamped activity data,activity,Q1914636
+simulation data,simulation,Q45045
+simulated data,simulation,Q45045
+roadmap data,roadmap,Q106485006
+road structure data,roadmap,Q106485006
+game data,game,Q11410
+player data,game,Q11410
+player positional data,game,Q11410
+election poll data,voting,Q189760
+voting data,voting,Q189760
+rating data,voting,Q189760
+vicon pose data,Vicon,Q30295505
+vicon data,Vicon,Q30295505
+vicon nexus omc data,Vicon,Q30295505
+fire hazard data,combustion,Q133235
+combustion data,combustion,Q133235
+safety data,combustion,Q133235
+climate simulation data,climate data,Q47333333
+climate model data,climate data,Q47333333
+climate data,climate data,Q47333333
+stunted growth data,growth,Q1342838
+low birth weight data,growth,Q1342838
+growth interval data,growth,Q1342838
+outlier detection data,Outlier Detection,Q57535600
+anomaly detection data,Outlier Detection,Q57535600
+attack data,Outlier Detection,Q57535600
+piano performance midi data,Midi,Q98777027
+midi data,Midi,Q98777027
+velocity data,velocity,Q11465
+velocity and distance data,velocity,Q11465
+3d point cloud data,Point Cloud Data,Q105864751
+point cloud data,Point Cloud Data,Q105864751
+gesture data,gesture,Q371174
+gesture skeleton data,gesture,Q371174
+radar,radar,Q47528
+radar scan,radar,Q47528
+single cell rna seq data,RNA sequencing,Q2542347
+rna sequencing data,RNA sequencing,Q2542347
+measurement data,measurement,Q12453
+actual metric data,measurement,Q12453
+telemetry data,telemetry,Q209867
+satellite telemetry data,telemetry,Q209867
+geographical data,Geographical Data,Q58947525
+geographic data,Geographical Data,Q58947525
+issue tracking data,Bug,Q106353831
+bug data,Bug,Q106353831
+mobility data,mobility data,Q87271050
+residential mobility data,mobility data,Q87271050
+6 dof speed data,Speed,Q21482644
+speed data,Speed,Q21482644
+energy production data,energy production,Q3406659
+power plant generation data,energy production,Q3406659
+graph data,Graph,Q98669280
+network diagram data,Graph,Q98669280
+32beam lidar data,LIDAR data,Q124439708
+64layer lidar data,LIDAR data,Q124439708
+solar generation data,solar generation,Q33085760
+pv power generation data,solar generation,Q33085760
+participant data,participant,Q75232720
+participant demographic and clinical data,participant,Q75232720
+millimeter wave radar data,radar,Q47528
+millimeter wave sensor data,radar,Q47528
+inventory stock data,inventory,Q815410
+product inventory data,inventory,Q815410
+soiling detection data,soil,Q36133
+soil data,soil,Q36133
+city pollution data,pollution,Q58734
+spatiotemporal air quality data,pollution,Q58734
+choice data,Choice,Q1766173
+preference data,Choice,Q1766173
+imu motion data,Kinematic,Q25215452
+imu kinematic data,Kinematic,Q25215452
+web search session data,Session,Q12000046
+session data,Session,Q12000046
+expert comparison data,evaluation,Q1379672
+automated evaluation data,evaluation,Q1379672
+fnirs data,fNIRS,Q750537
+foaf data,fNIRS,Q750537
+binary quantification data,quantification,Q12769938
+multi class quantification data,quantification,Q12769938
+rtt data,RT,Q22868
+rt data,RT,Q22868
+1d benchmark data,benchmark,Q1161707
+2d benchmark data,benchmark,Q1161707
+in ear microphone data,microphone,Q46384
+headset microphone data,microphone,Q46384
+answer sentence,answer,Q1920566
+sentence level answer,answer,Q1920566
+learner sentence,Learner,Q37548067
+training sentence,Learner,Q37548067
+sarcastic sentence,sarcastic,Q107263298
+non sarcastic sentence,sarcastic,Q107263298
+sentence similarity,similarity,Q254465
+semantic similarity sentence,similarity,Q254465
+sentence textual similarity,similarity,Q254465
+negative sentence,negative sentence,Q6017694
+neutral sentence,negative sentence,Q6017694
+affirmative sentence,negative sentence,Q6017694
+literal motion sentence,motion,Q452237
+non motion sentence,motion,Q452237
+mechanism sentence,motion,Q452237
+reference sentence,reference,Q121769
+citation sentence,reference,Q121769
+referential sentence,reference,Q121769
+japanese sentence,Chinese,Q7850
+chinese sentence,Chinese,Q7850
+corrected chinese sentence,Chinese,Q7850
+word word dependency,Dependency graph,Q4148050
+word dependency graph,Dependency graph,Q4148050
+sentence completion,completion,Q3685258
+language completion,completion,Q3685258
+evidence sentence,evidence,Q176763
+debate sentence,evidence,Q176763
+abstract sentence,abstract,Q333291
+generic sentence,abstract,Q333291
+word similarity,word similarity,Q120970362
+word sense similarity judgement,word similarity,Q120970362
+short sentence,sentence,Q41796
+long sentence,sentence,Q41796
+stereotype sentence,stereotype,Q167172
+non stereotype sentence,stereotype,Q167172
+document layout,Document Structure,Q64605273
+document structure,Document Structure,Q64605273
+intent detection sentence,Intent,Q61969112
+multi intent sentence,Intent,Q61969112
+modification sentence,modification,Q109243379
+revised sentence,modification,Q109243379
+sentence segmentation,segmentation,Q1423946
+word segmentation,segmentation,Q1423946
+sentence template,template,Q1411845
+template sentence,template,Q1411845
+subjective sentence,Subjective,Q113905711
+objective sentence,Subjective,Q113905711
+conclusion sentence,ConClusion,Q112040166
+outcome sentence,ConClusion,Q112040166
+sentence to sentence,paragraph,Q194431
+sentence to paragraph,paragraph,Q194431
+quantification sentence,quantification,Q12769938
+quantified sentence,quantification,Q12769938
+motion label,motion,Q452237
+optical flow label,motion,Q452237
+fact checking label,Fact checking,Q117307956
+fact check label,Fact checking,Q117307956
+molecule label,molecule,Q11369
+microscopy label,molecule,Q11369
+experiment label,experiment,Q101965
+outcome label,experiment,Q101965
+veracity label,Veracity,Q7920855
+credibility label,Veracity,Q7920855
+event label,event,Q1656682
+event classification label,event,Q1656682
+atom type label,Type,Q115868730
+type label,Type,Q115868730
+call type label,Type,Q115868730
+aircraft model label,aircraft,Q11436
+flight label,aircraft,Q11436
+aircraft label,aircraft,Q11436
+alphabet label,alphabet,Q9779
+character label,alphabet,Q9779
+font label,alphabet,Q9779
+location label,location,Q115095765
+2d label,location,Q115095765
+spatial label,location,Q115095765
+meta label,Meta,Q12796400
+metadata label,Meta,Q12796400
+safety meta label,Meta,Q12796400
+orientation label,orientation,Q2235286
+body orientation label,orientation,Q2235286
+polarity label,orientation,Q2235286
+species label,species,Q7432
+tree species label,species,Q7432
+leaf wood label,species,Q7432
+novelty label,Novelty,Q2393776
+alternative label,Novelty,Q2393776
+change label,Novelty,Q2393776
+gesture label,gesture,Q371174
+gesture class label,gesture,Q371174
+fine label,Fine,Q4480591
+coarse label,Fine,Q4480591
+disparity label,Diversity,Q27722602
+diversity label,Diversity,Q27722602
+clinical glaucoma label,glaucoma,Q159701
+glaucoma label,glaucoma,Q159701
+sense label,sense,Q173253
+detection label,sense,Q173253
+aspect based label,Aspect,Q65097206
+aspect label,Aspect,Q65097206
+attack label,attack,Q1174599
+attack category label,attack,Q1174599
+rhythm label,rhythm,Q170406
+rhythm classification label,rhythm,Q170406
+land cover type label,land cover,Q3001793
+land cover label,land cover,Q3001793
+occupancy label,occupancy,Q7075743
+occlusion label,occupancy,Q7075743
+3d chair model,Chair Model,Q5068046
+3d chair rendering,Chair Model,Q5068046
+3d house layout,house model,Q5914621
+3d house model,house model,Q5914621
+3d indoor space,house model,Q5914621
+3d histogram of particle count,histogram,Q185020
+2d histogram,histogram,Q185020
+2d object count,histogram,Q185020
+static environment point cloud,environment,Q2249676
+environment point cloud,environment,Q2249676
+environmental point cloud,environment,Q2249676
+indoor scene point cloud,point cloud,Q1899648
+outdoor scene point cloud,point cloud,Q1899648
+partial 3d object point cloud,point cloud,Q1899648
+complete 3d object point cloud,point cloud,Q1899648
+3d position,position,Q1781513
+3d location,position,Q1781513
+clean ground truth point cloud,point cloud,Q1899648
+ground truth point cloud,point cloud,Q1899648
+3d speech enhancement,speech,Q52946
+3d sound event localization and detection,speech,Q52946
+3d ground truth,ground truth,Q370766
+3d ground truth shape,ground truth,Q370766
+3d object instance,object,Q488383
+3d object class,object,Q488383
+3d animation,3D animation,Q2850042
+3d model animation,3D animation,Q2850042
+3d smpl fit,Fit,Q37290457
+3d object fit,Fit,Q37290457
+3d object tracking,Object tracking,Q117409136
+3d camera tracking,Object tracking,Q117409136
+3d content,video,Q625525
+3d video,video,Q625525
+3d traffic light position,traffic sign,Q170285
+3d traffic sign position,traffic sign,Q170285
+summary text,summary,Q776754
+summarized text,summary,Q776754
+manual text,Manual,Q37571798
+technical text,Manual,Q37571798
+code switched text,Switched,Q55740509
+code switched informal short text,Switched,Q55740509
+code mixed text,Switched,Q55740509
+business signage text,signage,Q1211272
+business document text,signage,Q1211272
+road signs and text,signage,Q1211272
+multilingual lexical data,dialogue,Q131395
+multilingual dialogue data,dialogue,Q131395
+multilingual spoken dialogue,dialogue,Q131395
+modified text,Modified,Q6889355
+modification text,Modified,Q6889355
+edited text,Modified,Q6889355
+persian running text,Persian,Q9168
+informal persian text,Persian,Q9168
+short persian text,Persian,Q9168
+machine translation text,machine translation,Q79798
+machine translated text,machine translation,Q79798
+original text,original,Q2030738
+source text,original,Q2030738
+corrected english text,Corrected text,Q93536022
+corrected text,Corrected text,Q93536022
+transcribed text,transcription,Q177900
+transcription text,transcription,Q177900
+instruction text,instruction,Q925783
+instruction manual text,instruction,Q925783
+form text,form,Q279749
+submission text,form,Q279749
+license plate text,plate,Q57216
+number plate text,plate,Q57216
+supporting text,support,Q1058733
+support text,support,Q1058733
+hindi text,Hindi,Q1568
+sanskrit text,Hindi,Q1568
+comparison text,benchmark,Q1161707
+benchmark text,benchmark,Q1161707
+dark pattern text,dark pattern,Q30325366
+non dark pattern text,dark pattern,Q30325366
+ehr free text,Ehr,Q37298907
+ehr text,Ehr,Q37298907
+magazine text,magazine,Q41298
+newspaper text,magazine,Q41298
+address text,address,Q319608
+augmented address text,address,Q319608
+temporal information,temporal information,Q105642442
+spatiotemporal information,temporal information,Q105642442
+additional information,additional Information,Q11712452
+supplementary information,additional Information,Q11712452
+channel state information,Channel state information,Q5072511
+channel information,Channel state information,Q5072511
+issue information,Issue Information,Q110871853
+bug information,Issue Information,Q110871853
+artist information,artist,Q483501
+art background information,artist,Q483501
+business information,client,Q528166
+client information,client,Q528166
+company information,client,Q528166
+coreference information,coreference,Q63087
+coreferential information,coreference,Q63087
+attribute information,attribute,Q2722260
+instance information,attribute,Q2722260
+speaker information,speaker,Q1758037
+addressee information,speaker,Q1758037
+age group information,Age,Q21143192
+age information,Age,Q21143192
+road network information,route,Q7371361
+route information,route,Q7371361
+radio program information,Station Information,Q16922123
+station information,Station Information,Q16922123
+cast information,actor,Q33999
+character and actor information,actor,Q33999
+compound information,compound,Q245423
+corrective information,compound,Q245423
+cell line information,cell line,Q21014462
+cancer cell line information,cell line,Q21014462
+family information,child,Q7569
+child information,child,Q7569
+member information,Player,Q36933283
+player information,Player,Q36933283
+platform information,Device,Q1206775
+device information,Device,Q1206775
+index information,indexing,Q11977025
+indexing information,indexing,Q11977025
+traffic incident information,traffic speed,Q1146727
+traffic speed information,traffic speed,Q1146727
+fill in the blank question,Fill In the Blank,Q63154565
+fill in the gaps question,Fill In the Blank,Q63154565
+forum question,forum,Q1062780
+user question,forum,Q1062780
+survey question,survey question,Q97656499
+poll question,survey question,Q97656499
+situated question,Situated,Q581151
+geospatial question,Situated,Q581151
+question group,category,Q719395
+question set,category,Q719395
+question category,category,Q719395
+question generation,question generation,Q98035701
+machine generated question,question generation,Q98035701
+human generated question,question generation,Q98035701
+analogy question,analogy,Q185816
+legal analogical reasoning question,analogy,Q185816
+vqa question,VQA,Q7907465
+vcopa question,VQA,Q7907465
+question related image,image,Q478798
+question image,image,Q478798
+track metadata,track,Q7831478
+trace metadata,track,Q7831478
+artwork metadata,Artwork,Q2667810
+artist metadata,Artwork,Q2667810
+art metadata,Artwork,Q2667810
+session metadata,Session,Q12000046
+ar session metadata,Session,Q12000046
+result type metadata,result,Q2995644
+search result metadata,result,Q2995644
+web page metadata,website,Q35127
+website metadata,website,Q35127
+chart metadata,Chart,Q37285864
+plot metadata,Chart,Q37285864
+tumor mask,tumor,Q133212
+binary tumor mask,tumor,Q133212
+lesion mask,tumor,Q133212
+patch segmentation,Patch,Q37122018
+damage segmentation,Patch,Q37122018
+hair segmentation mask,hair,Q28472
+head segmentation mask,hair,Q28472
+entity segmentation,entity,Q35120
+relation segmentation,entity,Q35120
+news category,category,Q719395
+news article category,category,Q719395
+news entity,entity,Q35120
+news broadcast,entity,Q35120
+news outlet,entity,Q35120
+news article summary,summary,Q776754
+news summary,summary,Q776754
+summarized article,summary,Q776754
+news article source,Reference News,Q7307107
+news source,Reference News,Q7307107
+reference news article,Reference News,Q7307107
+human generated article,Generated,Q77262791
+machine generated article,Generated,Q77262791
+cultural heritage article,heritage,Q2434238
+historical press article,heritage,Q2434238
+biotech news article,BioTech,Q101246282
+health news article,BioTech,Q101246282
+handcrafted feature,Handcrafted,Q11861296
+hand crafted feature,Handcrafted,Q11861296
+automatically generated feature,Handcrafted,Q11861296
+developer feature,application,Q166142
+application feature,application,Q166142
+conference call audio,meeting,Q2761147
+earnings call audio,meeting,Q2761147
+meeting audio,meeting,Q2761147
+far field audio,Field,Q13560407
+near field audio,Field,Q13560407
+near range actor audio,Field,Q13560407
+drumming audio,drumming,Q2238277
+drum audio,drumming,Q2238277
+tactile audio,Tactile,Q28136816
+tactile internet audio,Tactile,Q28136816
+shot level importance score,importance,Q1422583
+importance score,importance,Q1422583
+business query,business,Q4830453
+customer service query,business,Q4830453
+idiomatic expression,idiomatic,Q110983878
+colloquial expression,idiomatic,Q110983878
+hate speech expression,Hate,Q1588875
+emoji based hate expression,Hate,Q1588875
+vehicle attribute,vehicle,Q42889
+car attribute,vehicle,Q42889
+clothing attribute,clothing,Q11460
+fashion attribute,clothing,Q11460
+binary attribute,Binary,Q4913864
+numerical attribute,Binary,Q4913864
+pos tag,Slot,Q37453284
+slot tag,Slot,Q37453284
+mood/theme tag,Emotion,Q5373749
+emotion tag,Emotion,Q5373749
+location tag,location,Q115095765
+position tag,location,Q115095765
+friendship network,friendship,Q491
+follower network,friendship,Q491
+temporal network,Temporal,Q98889848
+propagation network,Temporal,Q98889848
+log record,Interaction,Q4641997
+transaction record,Interaction,Q4641997
+interaction record,Interaction,Q4641997
+listening record,ALARM,Q294350
+alarm record,ALARM,Q294350
+satellite image c02,C13,Q104192645
+satellite image c09,C13,Q104192645
+satellite image c13,C13,Q104192645
+natural images with flare spot,Natural images,Q73363365
+natural image benchmark,Natural images,Q73363365
+weekly series,Daily,Q27625360
+daily series,Daily,Q27625360
+hourly series,Daily,Q27625360
+annotation,annotation,Q857525
+manual annotation,annotation,Q857525
+detailed annotation,annotation,Q857525
+individual annotation,annotation,Q857525
+finding annotation,annotation,Q857525
+object detection annotation,object detection,Q3045304
+detection annotation,object detection,Q3045304
+classification annotation,object detection,Q3045304
+classification and detection annotation,object detection,Q3045304
+ground truth annotation,annotation,Q857525
+pixel by pixel ground truth annotation,annotation,Q857525
+temporal annotation,Temporal annotation,Q15844891
+spatio temporal annotation,Temporal annotation,Q15844891
+temporal and spatial annotation,Temporal annotation,Q15844891
+pixel level annotation,annotation,Q857525
+pixel wise annotation,annotation,Q857525
+3d pose annotation,3D pose estimation,Q4636322
+human pose annotation,3D pose estimation,Q4636322
+3d human pose annotation,3D pose estimation,Q4636322
+3d whole body pose annotation,3D pose estimation,Q4636322
+activity annotation,type of activity,Q125542526
+activity type annotation,type of activity,Q125542526
+image annotation,image annotation,Q105226562
+image level annotation,image annotation,Q105226562
+table annotation,Table Annotation,Q126363875
+column type annotation,Table Annotation,Q126363875
+column property annotation,Table Annotation,Q126363875
+column annotation,Table Annotation,Q126363875
+frame wise annotation,Annotation framework for video,Q118984448
+frame scene annotation,Annotation framework for video,Q118984448
+local per frame annotation,Annotation framework for video,Q118984448
+frame level annotation,Annotation framework for video,Q118984448
+frame by frame annotation,Annotation framework for video,Q118984448
+eye tracking annotation,eye tracking,Q970687
+gaze location annotation,eye tracking,Q970687
+eye position annotation,eye tracking,Q970687
+eye region images with annotation,eye tracking,Q970687
+3d gaze direction annotation,eye tracking,Q970687
+eye corner annotation,eye tracking,Q970687
+error annotation,annotation,Q857525
+accident annotation,annotation,Q857525
+failure type annotation,annotation,Q857525
+factual error annotation,annotation,Q857525
+video annotation,video annotation,Q105152134
+descriptive video annotation,video annotation,Q105152134
+traffic sign annotation,traffic sign,Q170285
+traffic light annotation,traffic sign,Q170285
+sign annotation,traffic sign,Q170285
+linguistic annotation,Linguistic Annotation Workshop,Q105696204
+nli annotation,Linguistic Annotation Workshop,Q105696204
+nlp annotation,Linguistic Annotation Workshop,Q105696204
+language annotation,Linguistic Annotation Workshop,Q105696204
+lane annotation,road surface marking,Q1392287
+lane marking annotation,road surface marking,Q1392287
+3d lane annotation,road surface marking,Q1392287
+2d lane annotation,road surface marking,Q1392287
+discourse annotation,Dialogic Discourse,Q57450938
+dialogic discourse annotation,Dialogic Discourse,Q57450938
+gene annotation,gene annotation,Q19753318
+phenotype annotation,gene annotation,Q19753318
+gene ontology annotation,gene annotation,Q19753318
+depth estimation annotation,depth estimation,Q111670253
+relative depth annotation,depth estimation,Q111670253
+disease annotation,severity,Q96278582
+disease severity annotation,severity,Q96278582
+severity level annotation,severity,Q96278582
+tool presence annotation,Tool tracking system,Q122624321
+tool annotation,Tool tracking system,Q122624321
+tool tracking annotation,Tool tracking system,Q122624321
+graph based annotation,annotation,Q857525
+point based annotation,annotation,Q857525
+point level annotation,annotation,Q857525
+pos annotation,annotation,Q857525
+fine grained pos annotation,annotation,Q857525
+fine grained annotation,annotation,Q857525
+social relationship annotation,group annotation,Q65719286
+social group annotation,group annotation,Q65719286
+social interaction annotation,group annotation,Q65719286
+sentence level annotation,annotation,Q857525
+sentence annotation,annotation,Q857525
+midi note annotation,MIDI note numbers,Q96252942
+midi annotation,MIDI note numbers,Q96252942
+2d and 3d multi object tracking annotation,Object tracking,Q117409136
+multi object tracking annotation,Object tracking,Q117409136
+glaucoma diagnosis annotation,Glaucoma diagnosis,Q81050335
+glaucoma grade annotation,Glaucoma diagnosis,Q81050335
+atomic action annotation,Atomic action,Q8018935
+atomic action recognition annotation,Atomic action,Q8018935
+medical entities annotation,clinical annotation,Q106439652
+clinical annotation,clinical annotation,Q106439652
+co reference annotation,annotation,Q857525
+reference annotation,annotation,Q857525
+soiling detection annotation,soil aggregate,Q12048369
+soil aggregate annotation,soil aggregate,Q12048369
+facial action unit annotation,facial expression,Q327968
+facial expression annotation,facial expression,Q327968
+sleep stage annotation,sleep spindle,Q2738302
+sleep spindle annotation,sleep spindle,Q2738302
+annotation tag,annotation,Q857525
+tag annotation,annotation,Q857525
+text annotation,text annotation,Q2851776
+character annotation,text annotation,Q2851776
+recording annotation,text annotation,Q2851776
+character level annotation,text annotation,Q2851776
+syntactic annotation,annotation,Q857525
+formal language annotation,annotation,Q857525
+constituency syntactic annotation,annotation,Q857525
+sentence temporal annotation,Temporal annotation,Q15844891
+time annotation,Temporal annotation,Q15844891
+noun argument annotation,argument structure,Q126366755
+argumentative structure annotation,argument structure,Q126366755
+2d and 3d object detection annotation,object detection,Q3045304
+people detection annotation,object detection,Q3045304
+acoustic properties annotation,sound event,Q1228981
+sound event annotation,sound event,Q1228981
+activity video,activity recognition,Q4677630
+daily activity video,activity recognition,Q4677630
+everyday event video,activity recognition,Q4677630
+activity recognition video,activity recognition,Q4677630
+gameplay video,YouTube video,Q63412991
+youtube video,YouTube video,Q63412991
+sign language video,sign language,Q34228
+asl sign video,sign language,Q34228
+music video,Performance Video,Q110893091
+musical performance video,Performance Video,Q110893091
+music performance video,Performance Video,Q110893091
+drum performance video,Performance Video,Q110893091
+sport video,Video Sports,Q66217771
+sports video,Video Sports,Q66217771
+sports action video,Video Sports,Q66217771
+sports activity video,Video Sports,Q66217771
+sport performance video,Video Sports,Q66217771
+sports and street video,Video Sports,Q66217771
+aerial video,Aerial video,Q4688040
+aerial view video,Aerial video,Q4688040
+real video,Real Video,Q73019630
+real captured video,Real Video,Q73019630
+high resolution video,high-definition video,Q2916762
+ultra high resolution video,high-definition video,Q2916762
+high resolution video frame,high-definition video,Q2916762
+high frame rate video,frame rate,Q119565
+high speed video,frame rate,Q119565
+event video,event stream,Q104622942
+event based video,event stream,Q104622942
+event stream video,event stream,Q104622942
+gait video,Gait Recognition,Q61821381
+gait recognition video,Gait Recognition,Q61821381
+walking video,Gait Recognition,Q61821381
+celebrity walking video,Gait Recognition,Q61821381
+frontal face video,𓁷,Q5428311
+frontal video,𓁷,Q5428311
+frontal view video,𓁷,Q5428311
+traffic accident video,traffic collision,Q9687
+incident video,traffic collision,Q9687
+accident video,traffic collision,Q9687
+road accident video,traffic collision,Q9687
+cooking video,cooking simulation video game,Q116236834
+instructional cooking video,cooking simulation video game,Q116236834
+cooking technique video,cooking simulation video game,Q116236834
+recipe video,cooking simulation video game,Q116236834
+annotated video,video frame,Q5477883
+annotated video frame,video frame,Q5477883
+visible spectrum video,visible spectrum,Q76299
+beyond visible spectrum video,visible spectrum,Q76299
+animal behavior video,animal behavior,Q2990593
+animal activity video,animal behavior,Q2990593
+original video,original face,Q3656002
+genuine face video,original face,Q3656002
+original face video,original face,Q3656002
+dance video,dance video game,Q2187138
+single dancer video,dance video game,Q2187138
+group dance video,dance video game,Q2187138
+live streaming video,live streaming,Q3027665
+live streamed video,live streaming,Q3027665
+live video,live streaming,Q3027665
+sonar video,underwater videography,Q2975751
+underwater video,underwater videography,Q2975751
+diving competition video,underwater videography,Q2975751
+traffic lane video,traffic flow,Q746984
+urban traffic video,traffic flow,Q746984
+traffic scenario video,traffic flow,Q746984
+traffic flow video,traffic flow,Q746984
+exercise video,fitness video game,Q2016457
+fitness activity video,fitness video game,Q2016457
+lifestyle vlog video,Lifestyle Video,Q121126614
+lifelogging video,Lifestyle Video,Q121126614
+lifestyle video,Lifestyle Video,Q121126614
+wildlife tracking video,tracking,Q2699839
+stereo wildlife video,tracking,Q2699839
+selfreenactment video,Video self-modeling,Q7927988
+self shot video,Video self-modeling,Q7927988
+therapy session video,Therapy Session,Q25096150
+psychological interview video,Therapy Session,Q25096150
+fire video,Video Explosion,Q131721955
+explosion video,Video Explosion,Q131721955
+cell trajectory video,cell migration,Q189092
+cell migration video,cell migration,Q189092
+motion blur video,Motion Blur,Q6917741
+defocus blur video,Motion Blur,Q6917741
+ground video,ground truth,Q370766
+ground truth video,ground truth,Q370766
+biking video,cycling video game,Q63644993
+cyclist behavior video,cycling video game,Q63644993
+pathological findings video,Histopathology,Q1524040
+educational histopathology video,Histopathology,Q1524040
+cattle action video,Cattle behavior,Q70912079
+cattle behavior video,Cattle behavior,Q70912079
+assembly process video,assembly,Q3625549
+assembly video,assembly,Q3625549
+blurred video,video frame,Q5477883
+blurred video frame,video frame,Q5477883
+drama video,comedy video game,Q113939522
+humor video,comedy video game,Q113939522
+autonomous navigation video,robot navigation,Q6887224
+robot navigation video,robot navigation,Q6887224
+synthetic human gesture video,gesture,Q371174
+real human gesture video,gesture,Q371174
+creative video,Creative Video,Q131634728
+brightfield video,Creative Video,Q131634728
+action video,Video Action,Q73744450
+actor action video,Video Action,Q73744450
+small detail video,Video Action,Q73744450
+action step video,Video Action,Q73744450
+micro action video,Video Action,Q73744450
+attack face video,Face synthesis,Q117756608
+presentation attack video,Face synthesis,Q117756608
+talking face video,Face synthesis,Q117756608
+celebrity face video,Face synthesis,Q117756608
+entire face synthesis video,Face synthesis,Q117756608
+speaker video,cued speech,Q590951
+cued speech video,cued speech,Q590951
+participant video,challenge video,Q130214833
+challenge video,challenge video,Q130214833
+navigation video,Video Touring,Q86660670
+tour guide scenario video,Video Touring,Q86660670
+family video,Family Video,Q5433297
+household task video,Family Video,Q5433297
+demonstration video,reaction video,Q22908155
+reaction video,reaction video,Q22908155
+native video,Native video,Q19893596
+composite video,Native video,Q19893596
+handheld video,Native video,Q19893596
+dashcam video,dashcam,Q5226605
+car number video,dashcam,Q5226605
+product video,graphics card,Q4308
+ad video,graphics card,Q4308
+dental procedure video,Dental Procedure Education System,Q5259391
+procedure video,Dental Procedure Education System,Q5259391
+social media post,social media,Q202833
+social media comment,social media,Q202833
+social media photo,social media,Q202833
+social media message,social media,Q202833
+personal photo,social media,Q202833
+social media conversation,social media,Q202833
+social media repost,social media,Q202833
+user photo,social media,Q202833
+human activity video,Human video,Q5939190
+human action video,Human video,Q5939190
+human action clip,Human video,Q5939190
+human motion capture,Human video,Q5939190
+human motion video,Human video,Q5939190
+human video,Human video,Q5939190
+user review,user review,Q20058247
+user feedback,user review,Q20058247
+user interaction,user interaction,Q120969818
+user ai interaction,user interaction,Q120969818
+user interaction feature,user interaction,Q120969818
+human action,human behavior,Q3769299
+human behavior,human behavior,Q3769299
+user profile,user persona,Q3375697
+user persona,user persona,Q3375697
+user rating,user rating,Q80700183
+human rating,user rating,Q80700183
+human opinion score,user rating,Q80700183
+user information,user information,Q7901844
+user data,user information,Q7901844
+human activity,human activity,Q61788060
+human activity scene,human activity,Q61788060
+user intent,User Intent,Q28136837
+user desire,User Intent,Q28136837
+user request,User Intent,Q28136837
+user motive,User Intent,Q28136837
+human human interaction,Interaction,Q4641997
+human interaction,Interaction,Q4641997
+personal information,personal data,Q3702971
+personal data,personal data,Q3702971
+user account,user account,Q3604202
+user type,user account,Q3604202
+user,user account,Q3604202
+human sound,vocal sound,Q4393922
+human activity sound,vocal sound,Q4393922
+user engagement metric,user engagement,Q91779225
+user engagement,user engagement,Q91779225
+human skeleton data,human skeleton,Q9621
+human skeleton,human skeleton,Q9621
+human skeleton joint,human skeleton,Q9621
+social media account,Solid,Q55408718
+social media link,Solid,Q55408718
+social link,Solid,Q55408718
+human to human dialogue,social dialogue,Q2236575
+human human conversation,social dialogue,Q2236575
+social dialogue,social dialogue,Q2236575
+human silhouette,human figure,Q5937779
+human figure,human figure,Q5937779
+human written query,reading comprehension,Q3269423
+user query reading comprehension,reading comprehension,Q3269423
+human speaker,human voice,Q7390
+human voice,human voice,Q7390
+personal narrative,personal narrative,Q17108519
+personal narrative video,personal narrative,Q17108519
+human annotated similarity score,similarity score,Q7517810
+human similarity judgment,similarity score,Q7517810
+human rights violations photograph,human rights,Q8458
+human rights semantic category,human rights,Q8458
+social connectedness index,social connectedness,Q7551008
+social connectedness index value,social connectedness,Q7551008
+human preference data,preference,Q908656
+human preference,preference,Q908656
+user affective state,affective state,Q120970769
+human attitude,affective state,Q120970769
+human centric scene,Human Centered,Q131304423
+human centered activity,Human Centered,Q131304423
+dataset description,dataset descriptions,Q120970430
+dataset name,dataset descriptions,Q120970430
+dataset metadata,dataset descriptions,Q120970430
+dataset identifier,dataset descriptions,Q120970430
+product description,product description,Q7247757
+item description,product description,Q7247757
+description,description,Q1200750
+detailed description,description,Q1200750
+entity description,geographic entity,Q27096213
+biomedical entity description,geographic entity,Q27096213
+biological entity description,geographic entity,Q27096213
+geographic entity description,geographic entity,Q27096213
+object description,Microsoft Object Description Language,Q29167436
+image description,Microsoft Object Description Language,Q29167436
+caption description,Microsoft Object Description Language,Q29167436
+natural language description,textual description,Q115491856
+textual description,textual description,Q115491856
+spoken description,textual description,Q115491856
+verbal description,textual description,Q115491856
+action description,action description language,Q343630
+trajectory description,action description language,Q343630
+motion description,action description language,Q343630
+recall action description,action description language,Q343630
+benchmark description,benchmark,Q1161707
+benchmark task description,benchmark,Q1161707
+game description,Game Description Language,Q105856889
+game mechanics description,Game Description Language,Q105856889
+gameplay description,Game Description Language,Q105856889
+chemical description,chemical compound,Q11173
+chemical compound description,chemical compound,Q11173
+community description,Site Description,Q58429261
+site description,Site Description,Q58429261
+web resource description,Site Description,Q58429261
+wikidata description,Site Description,Q58429261
+website description,Site Description,Q58429261
+workflow description,workflow description,Q120970756
+intent description,workflow description,Q120970756
+process description,workflow description,Q120970756
+business process description,workflow description,Q120970756
+workflow intent description,workflow description,Q120970756
+equation description,analytical description,Q60555580
+analytical description,analytical description,Q60555580
+mathematical description,analytical description,Q60555580
+drug description,drug interaction,Q718753
+drug interaction description,drug interaction,Q718753
+drug target interaction description,drug interaction,Q718753
+drug combination description,drug interaction,Q718753
+protein interaction description,protein complex,Q420927
+protein description,protein complex,Q420927
+protein complex description,protein complex,Q420927
+protein mutation description,protein complex,Q420927
+audio description,audio description,Q653542
+music description,audio description,Q653542
+audio event description,audio description,Q653542
+product audio description,audio description,Q653542
+case description,Case description,Q83624555
+legal case description,Case description,Q83624555
+job description,job vacancy,Q4102597
+job vacancy description,job vacancy,Q4102597
+bug description,patch,Q208218
+bug fix description,patch,Q208218
+social network description,social network,Q2715623
+network description,social network,Q2715623
+network evaluation description,social network,Q2715623
+free text description,free text term,Q125206767
+text: description,free text term,Q125206767
+movie description,Movie Description,Q59522410
+film description,Movie Description,Q59522410
+activity description,user behavior,Q114598189
+user activity description,user behavior,Q114598189
+financial model description,financial modeling,Q5449731
+financial description,financial modeling,Q5449731
+annotation process description,annotation,Q857525
+annotation description,annotation,Q857525
+scenario description,textual description,Q115491856
+scene description,textual description,Q115491856
+environment description,textual description,Q115491856
+event description,textual description,Q115491856
+algorithm description,textual description,Q115491856
+model description,textual description,Q115491856
+project description,textual description,Q115491856
+ontology description,textual description,Q115491856
+layout description,textual description,Q115491856
+feature description,textual description,Q115491856
+challenge description,textual description,Q115491856
+scientific description,textual description,Q115491856
+variable description,textual description,Q115491856
+compound description,textual description,Q115491856
+weather description,textual description,Q115491856
+evaluation framework description,textual description,Q115491856
+narrative description,textual description,Q115491856
+polymer description,textual description,Q115491856
+method description,textual description,Q115491856
+system description,textual description,Q115491856
+persona description,textual description,Q115491856
+commonsense description,textual description,Q115491856
+label description,textual description,Q115491856
+course description,textual description,Q115491856
+exercise description,textual description,Q115491856
+architecture description,textual description,Q115491856
+short description,textual description,Q115491856
+query description,textual description,Q115491856
+gesture description,textual description,Q115491856
+issue description,textual description,Q115491856
+patent description,textual description,Q115491856
+pull request description,textual description,Q115491856
+anomaly description,textual description,Q115491856
+code description,textual description,Q115491856
+competition description,textual description,Q115491856
+meta description,textual description,Q115491856
+focused description,textual description,Q115491856
+news description,textual description,Q115491856
+animal description,textual description,Q115491856
+material description,textual description,Q115491856
+step description,textual description,Q115491856
+book description,textual description,Q115491856
+synthetic scene description,textual description,Q115491856
+malware description,textual description,Q115491856
+emotion description,textual description,Q115491856
+team description,textual description,Q115491856
+storm event description,textual description,Q115491856
+album description,textual description,Q115491856
+voice description,textual description,Q115491856
+diagnostic description,textual description,Q115491856
+procedural description,textual description,Q115491856
+job workload description,textual description,Q115491856
+library description,textual description,Q115491856
+technology showcase description,textual description,Q115491856
+goal description,textual description,Q115491856
+simulink model description,textual description,Q115491856
+poi description,textual description,Q115491856
+atlas description,textual description,Q115491856
+modern chinese description,textual description,Q115491856
+navigation description,textual description,Q115491856
+trope description,textual description,Q115491856
+identity centric description,textual description,Q115491856
+structure description,textual description,Q115491856
+command description,textual description,Q115491856
+github account description,textual description,Q115491856
+speech synthesis description,textual description,Q115491856
+artwork description,textual description,Q115491856
+conference description,textual description,Q115491856
+video source description,textual description,Q115491856
+cyclone track description,textual description,Q115491856
+hausa description,textual description,Q115491856
+anatomical landmark description,textual description,Q115491856
+recipe description,textual description,Q115491856
+card description,textual description,Q115491856
+moral dilemma description,textual description,Q115491856
+radiological findings description,textual description,Q115491856
+ground truth description,textual description,Q115491856
+complex description,textual description,Q115491856
+measurement description,textual description,Q115491856
+emoji description,textual description,Q115491856
+behavior description,textual description,Q115491856
+placement description,textual description,Q115491856
+symbolic situation description,textual description,Q115491856
+wikipedia description,textual description,Q115491856
+maturity model description,textual description,Q115491856
+genre description,textual description,Q115491856
+crop type description,textual description,Q115491856
+shape description,textual description,Q115491856
+fact effect reason introspection description,textual description,Q115491856
+hd map description,textual description,Q115491856
+ui functionality description,textual description,Q115491856
+knowledge graph description,textual description,Q115491856
+bioassay description,textual description,Q115491856
+generative model description,textual description,Q115491856
+facial attribute description,textual description,Q115491856
+covariate description,textual description,Q115491856
+phenotypic description,textual description,Q115491856
+recommender system description,textual description,Q115491856
+api description,textual description,Q115491856
+theorem description,textual description,Q115491856
+evidence grading description,textual description,Q115491856
+file description,textual description,Q115491856
+chemical process description,textual description,Q115491856
+growth description,textual description,Q115491856
+corner location description,textual description,Q115491856
+scene graphs and region description,textual description,Q115491856
+workshop description,textual description,Q115491856
+shot description,textual description,Q115491856
+malicious task description,textual description,Q115491856
+component description,textual description,Q115491856
+pattern description,textual description,Q115491856
+global image description,textual description,Q115491856
+dance description,textual description,Q115491856
+plant description,textual description,Q115491856
+truss structure description,textual description,Q115491856
+repository description,textual description,Q115491856
+interaction description,textual description,Q115491856
+maze description,textual description,Q115491856
+font description,textual description,Q115491856
+distortion characteristic description,textual description,Q115491856
+simulation description,textual description,Q115491856
+speaker description,textual description,Q115491856
+biomedical task description,textual description,Q115491856
+fine grained human textual description,textual description,Q115491856
+site safety description,textual description,Q115491856
+mechanism description,textual description,Q115491856
+compositional description,textual description,Q115491856
+reasoning error description,textual description,Q115491856
+video clip,video clip,Q677466
+video,video clip,Q677466
+video content,Video Content,Q66498384
+video sequence,Video Content,Q66498384
+video query,Video Content,Q66498384
+camera motion sequence,Video Content,Q66498384
+video comprehension,Video Content,Q66498384
+video information,Video Content,Q66498384
+video frame,video frame,Q5477883
+scene video frame,video frame,Q5477883
+image classification,Scene classification,Q119532368
+scene classification,Scene classification,Q119532368
+visual puzzle,visual reasoning,Q7936620
+visual reasoning,visual reasoning,Q7936620
+visual analogy,visual reasoning,Q7936620
+visual imagery,visual reasoning,Q7936620
+visual reasoning task,visual reasoning,Q7936620
+video title,subtitle,Q204028
+video subtitle,subtitle,Q204028
+camera pose information,location data,Q60474237
+camera location data,location data,Q60474237
+camera pose data,location data,Q60474237
+face detection,face detection,Q11681085
+face recognition,face detection,Q11681085
+face feature,face detection,Q11681085
+face mask detection,face detection,Q11681085
+weather map,weather map,Q865144
+low resolution precipitation map,weather map,Q865144
+high resolution precipitation map,weather map,Q865144
+face presentation attack detection,face presentation,Q1841519
+face presentation attack,face presentation,Q1841519
+visual prompt,image generation,Q113403137
+image generation prompt,image generation,Q113403137
+image quality,image quality,Q3813865
+image quality issue,image quality,Q3813865
+image distortion,image quality,Q3813865
+scene text,Scene text,Q55080114
+scene text word,Scene text,Q55080114
+image advertisement,video advertisement,Q11997526
+video advertisement,video advertisement,Q11997526
+visual odometry,Visual odometry,Q4110915
+visual slam groundtruth location,Visual odometry,Q4110915
+video copy segment,video copy detection,Q3818988
+video copy pair,video copy detection,Q3818988
+face swapping video,face swapping,Q55517471
+face editing video,face swapping,Q55517471
+image captioned,caption,Q18585177
+image chinese captioning,caption,Q18585177
+speech recording,speech audio recording,Q108680236
+spontaneous speech recording,speech audio recording,Q108680236
+spoken language recording,speech audio recording,Q108680236
+speech audio,speech audiometry,Q73219200
+raw speech audio,speech audiometry,Q73219200
+sound event,sound event,Q1228981
+audio event,sound event,Q1228981
+audio visual event,sound event,Q1228981
+voice recording,voice recording,Q53702817
+singing voice recording,voice recording,Q53702817
+vocal recording,voice recording,Q53702817
+audio recording,voice recording,Q53702817
+sound recording,voice recording,Q53702817
+multitrack recording,multitrack recording,Q1552913
+multi track recording,multitrack recording,Q1552913
+multi view recording,multitrack recording,Q1552913
+multi device recording,multitrack recording,Q1552913
+multi distance recording,multitrack recording,Q1552913
+continuous recording,multitrack recording,Q1552913
+multichannel recording,multitrack recording,Q1552913
+audio clip,audiovisual work,Q2431196
+speech clip,audiovisual work,Q2431196
+audio visual synchronisation clip,audiovisual work,Q2431196
+audio visual clip,audiovisual work,Q2431196
+audio track,audio track,Q7302866
+voice track,audio track,Q7302866
+audio signal,audio component,Q116961755
+audio component,audio component,Q116961755
+audio output,audio component,Q116961755
+audio stem,audio component,Q116961755
+sound source,Video Sound,Q16966648
+sound source video,Video Sound,Q16966648
+sound source audio,Video Sound,Q16966648
+sound source localization video,Video Sound,Q16966648
+laryngophone recording,throat microphone,Q1546165
+throat microphone recording,throat microphone,Q1546165
+free speech,hate speech,Q653347
+hate speech,hate speech,Q653347
+classical music recording,recording studio,Q746369
+symphony recording,recording studio,Q746369
+cough recording,Recording Expert,Q123096251
+expert labeled cough recording,Recording Expert,Q123096251
+acoustic room impulse response,sound frequency,Q105495868
+sound frequency,sound frequency,Q105495868
+acoustic frequency response,sound frequency,Q105495868
+audio visual laughter,audiovisual work,Q2431196
+laughter recording,audiovisual work,Q2431196
+acoustic tag,Acoustic tag,Q4674716
+audio tag,Acoustic tag,Q4674716
+bird migration recording,bird migration,Q216507
+bird sound recording,bird migration,Q216507
+planned speech,keynote,Q960189
+keynote speech,keynote,Q960189
+gaze recording,eye movement,Q760256
+eye movement recording,eye movement,Q760256
+guitar recording,audio recording,Q3302947
+acoustic scene,audio recording,Q3302947
+noise recording,audio recording,Q3302947
+unprocessed guitar recording,audio recording,Q3302947
+spatial sound recording,audio recording,Q3302947
+sound event recording,audio recording,Q3302947
+field recording,audio recording,Q3302947
+microphone array recording,audio recording,Q3302947
+real environment recording,audio recording,Q3302947
+piano music recording,audio recording,Q3302947
+instrument audio recording,audio recording,Q3302947
+audiobook recording,audio recording,Q3302947
+motion capture recording,audio recording,Q3302947
+acoustic scene recording,audio recording,Q3302947
+background recording,audio recording,Q3302947
+camera recording,audio recording,Q3302947
+robotic audio recording,audio recording,Q3302947
+directional microphone recording,audio recording,Q3302947
+acoustic vibration,audio recording,Q3302947
+synthetic audio recording,audio recording,Q3302947
+acoustic environment,audio recording,Q3302947
+environmental sound recording,audio recording,Q3302947
+3d audio recording,audio recording,Q3302947
+acoustic activity,audio recording,Q3302947
+operation video recording,audio recording,Q3302947
+instrumental recording,audio recording,Q3302947
+drum recording,audio recording,Q3302947
+screen recording,audio recording,Q3302947
+meeting recording,Recording Workshop,Q7302920
+interview recording,Recording Workshop,Q7302920
+radio program recording,Recording Workshop,Q7302920
+earnings call recording,Recording Workshop,Q7302920
+workshop recording,Recording Workshop,Q7302920
+call recording,Recording Workshop,Q7302920
+lecture recording,Recording Workshop,Q7302920
+sound effect,sound effect,Q768807
+non speech sound,sound effect,Q768807
+sound,sound effect,Q768807
+silent speech recording,voice recording,Q53702817
+vocalized speech recording,voice recording,Q53702817
+string ensemble recording,voice recording,Q53702817
+vocal ensemble recording,voice recording,Q53702817
+individual voice recording,voice recording,Q53702817
+parliamentary speech recording,speech audio recording,Q108680236
+political speech audio,speech audio recording,Q108680236
+action sequence,industrial action,Q628191
+industrial action sequence,industrial action,Q628191
+sub action sequence,industrial action,Q628191
+motion sequence,motion capture,Q676252
+motion segmentation sequence,motion capture,Q676252
+motion capture sequence,motion capture,Q676252
+animated sequence,motion capture,Q676252
+animation sequence,motion capture,Q676252
+tracking sequence,vehicle detection,Q2296025
+vehicle detection sequence,vehicle detection,Q2296025
+vehicle tracking sequence,vehicle detection,Q2296025
+single object tracking sequence,vehicle detection,Q2296025
+impaired video sequence,interlaced video,Q184915
+interlaced video sequence,interlaced video,Q184915
+anomaly video sequence,interlaced video,Q184915
+distorted video sequence,interlaced video,Q184915
+normal video sequence,Video Sequences Saliency Map,Q25304431
+natural video sequence,Video Sequences Saliency Map,Q25304431
+synthetic scene sequence,Video Sequences Saliency Map,Q25304431
+synthetic video sequence,Video Sequences Saliency Map,Q25304431
+hand gesture sequence,hand gesture,Q16639010
+gesture sequence,hand gesture,Q16639010
+fisheye video sequence,Fisheye video correction,Q84592787
+synthetic fisheye sequence,Fisheye video correction,Q84592787
+aerial video sequence,Aerial video,Q4688040
+ground truth video sequence,Aerial video,Q4688040
+binocular video sequence,Aerial video,Q4688040
+panoramic video sequence,Aerial video,Q4688040
+wildlife video sequence,Aerial video,Q4688040
+photo realistic sequence,Aerial video,Q4688040
+rppg video sequence,Aerial video,Q4688040
+nighttime uav tracking sequence,Aerial video,Q4688040
+movie shot sequence,Aerial video,Q4688040
+soccer game sequence,Aerial video,Q4688040
+zebrafish sequence,Danio rerio,Q169444
+bacterial genomic sequence,Danio rerio,Q169444
+phylogenetic sequence,Danio rerio,Q169444
+antibody sequence,Danio rerio,Q169444
+secondary structure sequence,Danio rerio,Q169444
+dna barcode sequence,Danio rerio,Q169444
+facial expression sequence,facial expression,Q327968
+pose sequence,facial expression,Q327968
+furniture 3d model,3D model,Q3859833
+furniture 3d cad model,3D model,Q3859833
+man made scene model,3D model,Q3859833
+vehicle model,vehicle model,Q29048322
+model,vehicle model,Q29048322
+lia model,vehicle model,Q29048322
+house model,house model,Q5914621
+room model,house model,Q5914621
+household object model,house model,Q5914621
+accurate 3d model,3D model,Q3859833
+ground truth 3d model,3D model,Q3859833
+dense 3d model,polygonal model,Q861687
+dense polygonal model,polygonal model,Q861687
+point cloud model,topology optimization,Q2443456
+topology optimization model,topology optimization,Q2443456
+space layout model,topology optimization,Q2443456
+wrf urban model,topology optimization,Q2443456
+token model,symbolic modeling,Q7661184
+symbolic model,symbolic modeling,Q7661184
+building information model,symbolic modeling,Q7661184
+ngram language model,language model,Q3621696
+neural mt model,language model,Q3621696
+chemical compound graph,chemical structure,Q500256
+chemical structure graph,chemical structure,Q500256
+citation graph,citation graph,Q5122403
+heterogeneous academic graph,citation graph,Q5122403
+dependency graph,Dependency graph,Q4148050
+program dependence graph,Dependency graph,Q4148050
+multi relation graph,Dependency graph,Q4148050
+molecular graph,molecular graph,Q1986794
+2d molecular graph,molecular graph,Q1986794
+3d semantic scene graph,scene graph,Q1406181
+3d scene graph,scene graph,Q1406181
+synthetic graph,synthetic graphite,Q21057320
+synthetic game graph,synthetic graphite,Q21057320
+time interval graph,interval graph,Q835942
+time evolving graph,interval graph,Q835942
+road network graph,road network,Q358078
+station network graph,road network,Q358078
+and inverter graph,inverter,Q324963
+analog circuit graph,inverter,Q324963
+research paper,scientific publication,Q591041
+academic paper,scientific publication,Q591041
+scientific paper,scientific publication,Q591041
+scientific document,scientific publication,Q591041
+scientific publication,scientific publication,Q591041
+scientific research paper,scientific publication,Q591041
+research publication,scientific publication,Q591041
+scientific literature,scientific literature,Q12042160
+scientific text,scientific literature,Q12042160
+research finding,scientific study,Q124222085
+scientific study,scientific study,Q124222085
+scientific finding,scientific study,Q124222085
+scientific paper reference,scientific reference work,Q66587449
+scientific reference,scientific reference work,Q66587449
+research reference,scientific reference work,Q66587449
+scientific paper text,scientific publication,Q591041
+scientific publication text,scientific publication,Q591041
+research paper content,Research Papers in Economics,Q206316
+research paper text,Research Papers in Economics,Q206316
+full text paper,paper,Q11472
+full paper,paper,Q11472
+scientific explanation,Models of scientific inquiry,Q3817808
+scientific answer,Models of scientific inquiry,Q3817808
+conference paper,scientific publication,Q591041
+scientific paper draft,scientific publication,Q591041
+research documentation,scientific publication,Q591041
+scientific paper summary,scientific publication,Q591041
+research topic,scientific publication,Q591041
+full text of research paper,scientific publication,Q591041
+research paper titles and abstract,scientific publication,Q591041
+research analysi,scientific publication,Q591041
+scientific publication record,scientific publication,Q591041
+research article section,scientific publication,Q591041
+survey paper,scientific publication,Q591041
+biological full paper,scientific publication,Q591041
+biomedical paper,scientific publication,Q591041
+research review,scientific publication,Q591041
+research report,scientific publication,Q591041
+scientific preprint,scientific publication,Q591041
+research methodology,scientific publication,Q591041
+research summary,scientific publication,Q591041
+paper,Exam Papers On-Demand,Q128745660
+handwritten exam paper,Exam Papers On-Demand,Q128745660
+source code,source code,Q128751
+code,source code,Q128751
+programming code,source code,Q128751
+program code,source code,Q128751
+arduino code,source code,Q128751
+latex code,source code,Q128751
+latex source code,source code,Q128751
+generated code,object code,Q157965
+compiled code,object code,Q157965
+data generation code,object code,Q157965
+assembly code,assembly language,Q165436
+decoder assembly code,assembly language,Q165436
+country code,country code,Q906278
+geonames code,country code,Q906278
+website source code,source code,Q128751
+html source code,source code,Q128751
+c code,Code,Q37141227
+c++ code,Code,Q37141227
+simulink model code,Simulink Model,Q105862869
+model training code,Simulink Model,Q105862869
+inn code,Shader,Q37296929
+shader source code,Shader,Q37296929
+material code,Shader,Q37296929
+paper code,Shader,Q37296929
+publication code,Shader,Q37296929
+github code,Github Code Vault,Q85629204
+project code,Github Code Vault,Q85629204
+repository level code,Github Code Vault,Q85629204
+stereo image pair,stereo image,Q123906126
+real image pair,stereo image,Q123906126
+attribute value pair,attribute-value system,Q4818710
+attribute object pair,attribute-value system,Q4818710
+key value pair,attribute-value system,Q4818710
+high resolution rgbd image pair,high-definition video,Q2916762
+4k image pair,high-definition video,Q2916762
+high resolution image pair,high-definition video,Q2916762
+disparate image pair,ambiguous image,Q4741453
+ambiguous image pair,ambiguous image,Q4741453
+name pair,identity verification,Q11519832
+identity verification pair,identity verification,Q11519832
+claim evidence pair,textual entailment,Q6588467
+evaluation sentence pair,textual entailment,Q6588467
+training sentence pair,textual entailment,Q6588467
+inference pair,textual entailment,Q6588467
+statement pair,textual entailment,Q6588467
+argument pair,textual entailment,Q6588467
+paragraph pair,textual entailment,Q6588467
+negated sentence pair,textual entailment,Q6588467
+textual entailment pair,textual entailment,Q6588467
+cross modality image pair,Grayscale,Q39070336
+blurry sharp stereo image pair,Grayscale,Q39070336
+clean rain image pair,Grayscale,Q39070336
+grayscale image pair,Grayscale,Q39070336
+bitemporal image pair,Grayscale,Q39070336
+endoscopic image pair,Grayscale,Q39070336
+aerial image pair,Grayscale,Q39070336
+raw image pair,Grayscale,Q39070336
+spike stream ground truth image pair,Grayscale,Q39070336
+animal sound,animal sound,Q95605854
+dog sound,animal sound,Q95605854
+breathing sound,respiratory sound,Q779038
+respiratory sound,respiratory sound,Q779038
+lung sound,respiratory sound,Q779038
+weather sound,rain recording,Q108793415
+rain sound,rain recording,Q108793415
+percussive sound,Impact Soundworks,Q108030649
+impact sound,Impact Soundworks,Q108030649
+natural sound,natural sound,Q6980787
+nature sound,natural sound,Q6980787
+explosion sound,explosion,Q179057
+fire sound,explosion,Q179057
+caption,image caption,Q67449067
+image caption,image caption,Q67449067
+meme caption,image caption,Q67449067
+figure caption,image caption,Q67449067
+real caption,image caption,Q67449067
+post caption,image caption,Q67449067
+image with caption,image caption,Q67449067
+video caption,Video Captions Benefit Everyone,Q37558768
+descriptive caption,Video Captions Benefit Everyone,Q37558768
+detailed caption,Video Captions Benefit Everyone,Q37558768
+detailed video caption,Video Captions Benefit Everyone,Q37558768
+dvs caption,closed captioning,Q2367247
+closed caption,closed captioning,Q2367247
+conceptual caption,Conceptual Captions,Q112062632
+spatial relation caption,Conceptual Captions,Q112062632
+bounding box,bounding volume,Q1434060
+2d bounding box,bounding volume,Q1434060
+bounding box coordinate,bounding volume,Q1434060
+amodal bounding box,bounding volume,Q1434060
+annotated bounding box,bounding volume,Q1434060
+hand bounding box,bounding volume,Q1434060
+hand drawn bounding box,bounding volume,Q1434060
+cell bounding box,bounding volume,Q1434060
+ground truth solution,ground truth,Q370766
+ground truth answer,ground truth,Q370766
+ground truth community,ground truth,Q370766
+ground truth rating,ground truth,Q370766
+ground truth,ground truth,Q370766
+ground truth response,ground truth,Q370766
+ground truth trajectory,trajectory,Q193139
+vicon ground truth trajectory,trajectory,Q193139
+ground truth classification,ground truth,Q370766
+ground truth class,ground truth,Q370766
+ground truth object depth,ground truth,Q370766
+ground truth depth,ground truth,Q370766
+ground truth disparity value,ground truth,Q370766
+ground truth value,ground truth,Q370766
+ground truth line segment,line segment,Q166154
+ground truth segmentation,line segment,Q166154
+real world environment,real life,Q1058876
+real life scenario,real life,Q1058876
+real world scenario,real life,Q1058876
+real world video situation,footage,Q1192650
+real footage,footage,Q1192650
+real world photo,human face,Q25416319
+real human face,human face,Q25416319
+real life object,human face,Q25416319
+real voice,Real Voice,Q7301105
+real human speech,Real Voice,Q7301105
+real song,Real Voice,Q7301105
+real human activity,real life,Q1058876
+real life activity,real life,Q1058876
+real gnp,real wage,Q1932544
+real wage,real wage,Q1932544
+real world dataset,database,Q8513
+real world database,database,Q8513
+real news,Real News,Q17146617
+real background,Real News,Q17146617
+discourse unit segmentation,word segmentation,Q25394236
+chinese word segmentation,word segmentation,Q25394236
+rotation matrix,rotation matrix,Q1256564
+homography matrix,rotation matrix,Q1256564
+td matrix,correlation matrix,Q3299259
+correlation matrix,correlation matrix,Q3299259
+concept set,stable model semantics,Q7595770
+answer set,stable model semantics,Q7595770
+drug drug interaction network,drug interaction,Q718753
+drug protein interaction network,drug interaction,Q718753
+action annotation,Category:Action (genre),Q6842826
+action class annotation,Category:Action (genre),Q6842826
+action recognition annotation,Category:Action (genre),Q6842826
+action category annotation,Category:Action (genre),Q6842826
+action unit annotation,Category:Action (genre),Q6842826
+sub action annotation,Category:Action (genre),Q6842826
+action object annotation,Category:Action (genre),Q6842826
+action cycle annotation,Category:Action (genre),Q6842826
+action segments annotation,Category:Action (genre),Q6842826
+semantic annotation,semantic annotation,Q57780498
+concept annotation,semantic annotation,Q57780498
+conceptual annotation,semantic annotation,Q57780498
+object annotation,attribute,Q2722260
+object class annotation,attribute,Q2722260
+class annotation,attribute,Q2722260
+first person video,video camera,Q313614
+third person video,video camera,Q313614
+monocular video,video camera,Q313614
+first person hand action video,video camera,Q313614
+monocular rgb video,video camera,Q313614
+third view camera video,video camera,Q313614
+first person binocular video,video camera,Q313614
+first person monocular video,video camera,Q313614
+driving video,driving video game,Q116680021
+car simulation video,driving video game,Q116680021
+normal driving video,driving video game,Q116680021
+driving route video,driving video game,Q116680021
+real world driving video,driving video game,Q116680021
+surveillance video,closed-circuit television,Q242256
+traffic surveillance video,closed-circuit television,Q242256
+instructional video,instructional film,Q126914943
+educational video,instructional film,Q126914943
+educational content video,instructional film,Q126914943
+web video,Internet video,Q2553613
+online video,Internet video,Q2553613
+complex web video,Internet video,Q2553613
+internet archive video,Internet video,Q2553613
+ultrasound video,echocardiography,Q216933
+echocardiogram video,echocardiography,Q216933
+echocardiography video,echocardiography,Q216933
+cardiac ultrasound video,echocardiography,Q216933
+motion video,motion,Q79782
+texture motion video,motion,Q79782
+motion capture video,motion,Q79782
+animation video,motion,Q79782
+pedestrian tracking video,pedestrian,Q221488
+pedestrian video,pedestrian,Q221488
+pedestrian path video,pedestrian,Q221488
+pedestrian point of view road video,pedestrian,Q221488
+gaze estimation video,gaze,Q14467155
+eye tracking video,gaze,Q14467155
+gaze tracking video,gaze,Q14467155
+gaze following video,gaze,Q14467155
+stereo video,stereo camera ,Q313783
+stereoscopic video,stereo camera ,Q313783
+stereo camera video,stereo camera ,Q313783
+stereoscopic video frame,stereo camera ,Q313783
+generated video,artificial intelligence art,Q65066631
+ai generated video,artificial intelligence art,Q65066631
+panoramic video,panoramic view,P4291
+360° equirectangular video,panoramic view,P4291
+360° video,panoramic view,P4291
+360° panoptic video,panoramic view,P4291
+vehicle video,Vehicle tracking system,Q3498530
+vehicle tracking video,Vehicle tracking system,Q3498530
+vehicle mounted video,Vehicle tracking system,Q3498530
+vehicle movement video,Vehicle tracking system,Q3498530
+crowd motion video,crowd,Q13430821
+crowd video,crowd,Q13430821
+outdoor unconstrained video,outdoors,Q107616175
+indoor and outdoor video,outdoors,Q107616175
+outdoor video,outdoors,Q107616175
+portrait video,portrait,Q134307
+landscape video,portrait,Q134307
+portrait mode video,portrait,Q134307
+hevc video,CVCD,Q5737700
+compressed video,CVCD,Q5737700
+encoded video,CVCD,Q5737700
+crowded environment video,crowd,Q13430821
+crowded real world video,crowd,Q13430821
+mobile video,Mobile Lives,Q114148232
+mobile live video,Mobile Lives,Q114148232
+query based video,query,Q3428776
+query video,query,Q3428776
+uav video,unmanned aerial vehicle,Q484000
+uav vehicle video,unmanned aerial vehicle,Q484000
+omnidirectional video,omnidirectional camera,Q684116
+omnidirectional video frame,omnidirectional camera,Q684116
+honeybee video,Apis mellifera,Q30034
+insect movement video,Apis mellifera,Q30034
+political speech video,debate,Q179875
+debate video,debate,Q179875
+avc video,Advanced Video Coding ,Q27967539
+av1 video,Advanced Video Coding ,Q27967539
+task execution video,task performance and analysis,Q69942478
+task performance video,task performance and analysis,Q69942478
+environment video,environment,Q2249676
+environmental video,environment,Q2249676
+color video,environment,Q2249676
+color event video,environment,Q2249676
+time of flight video,Time-Flight,Q5631747
+flight video,Time-Flight,Q5631747
+garment flattening video,clothing,Q11460
+garment folding video,clothing,Q11460
+full body video,physical object,Q223557
+whole body video,physical object,Q223557
+vessel video,ship,Q11446
+maritime obstacle video,ship,Q11446
+snowy video,shsnowip,Q7561
+snow free video,shsnowip,Q7561
+synthetic video,artificiality,Q14623823
+cgi video,artificiality,Q14623823
+natural video,artificiality,Q14623823
+non medical video,artificiality,Q14623823
+enhanced video,artificiality,Q14623823
+synthetically degraded video,artificiality,Q14623823
+drone simulation video,unmanned aerial vehicle,Q484000
+aerial event video,unmanned aerial vehicle,Q484000
+manned glider video,unmanned aerial vehicle,Q484000
+uav tracking video,unmanned aerial vehicle,Q484000
+drone and bird detection video,unmanned aerial vehicle,Q484000
+cross view tracking video,unmanned aerial vehicle,Q484000
+satellite video,unmanned aerial vehicle,Q484000
+urban road video frame,traffic,Q4323994
+street crossing video,traffic,Q4323994
+motorcycle traffic video,traffic,Q4323994
+city street video,traffic,Q4323994
+baseball game video,traffic,Q4323994
+basketball game video,traffic,Q4323994
+handball match video,traffic,Q4323994
+pose estimation video,pose,Q8514257
+calibration video,pose,Q8514257
+documentary video,documentary,Q4164344
+landmark video,documentary,Q4164344
+visible light face video,face,Q37017
+multispectral face video,face,Q37017
+hand grasping video,hand,Q33767
+in hand camera video,hand,Q33767
+user query,relation,Q930933
+user network,relation,Q930933
+user friendship network,relation,Q930933
+user relation,relation,Q930933
+user friend relationship,relation,Q930933
+social network graph,graph,Q141488
+social network,graph,Q141488
+social connection,graph,Q141488
+social network structure,graph,Q141488
+human pose,spatial arrangement,Q66424847
+human body pose,spatial arrangement,Q66424847
+human 6d pose,spatial arrangement,Q66424847
+human judgment,judgment,Q12621536
+human judgement,judgment,Q12621536
+human object interaction,interaction,Q52948
+human actions with object,interaction,Q52948
+human object human interaction,interaction,Q52948
+user post,post,Q7216866
+user forum post,post,Q7216866
+user answer,post,Q7216866
+human motion,motion,Q79782
+human trajectory,motion,Q79782
+human motion trajectory,motion,Q79782
+human face,face,Q37017
+human frontal face,face,Q37017
+human face deepfake,face,Q37017
+human segmentation,segmentation,Q1423946
+human classification,segmentation,Q1423946
+human perception label,segmentation,Q1423946
+human written passage,written work,Q47461344
+human written knowledge,written work,Q47461344
+human written recap,written work,Q47461344
+human written template,written work,Q47461344
+human answer,answer,Q1920566
+human evaluated facts answer,answer,Q1920566
+human evaluated facts ungrounded answer,answer,Q1920566
+human evaluated facts poor answer,answer,Q1920566
+human motion data,motion,Q79782
+human body motion data,motion,Q79782
+user instruction,user guide,Q1057179
+user guidance,user guide,Q1057179
+user story,title,Q783521
+user generated title,title,Q783521
+user story title,title,Q783521
+human avatar interaction,Avatar Creations,Q33188597
+human avatar creation,Avatar Creations,Q33188597
+user location,geographic location,Q2221906
+user movement,geographic location,Q2221906
+human bird imitation,imitation,Q1131737
+human imitation,imitation,Q1131737
+user evaluation,assessment,Q851176
+human evaluation,assessment,Q851176
+user statistic,demography,Q37732
+user demographic,demography,Q37732
+user utterance,utterance,Q258403
+user check in,utterance,Q258403
+user node,utterance,Q258403
+user mention,utterance,Q258403
+game platform description,platform game,Q828322
+platform description,platform game,Q828322
+face video,face,Q37017
+face video frame,face,Q37017
+face video sequence,face,Q37017
+face manipulation video,face,Q37017
+face mask video,face,Q37017
+face video clip,face,Q37017
+face expression,face,Q37017
+face photo,face,Q37017
+face,face,Q37017
+face photograph,face,Q37017
+camera calibration parameter,calibration,Q736777
+camera calibration data,calibration,Q736777
+camera calibration file,calibration,Q736777
+camera calibration sequence,calibration,Q736777
+camera calibration,calibration,Q736777
+texture map,texture mapping,Q752176
+material map,texture mapping,Q752176
+scene understanding,Understanding Images,Q54027784
+image comprehension,Understanding Images,Q54027784
+image tag,tag,Q658349
+video tag,tag,Q658349
+camera trajectory,trajectory,Q193139
+camera trajectory variant,trajectory,Q193139
+bird view maze map,maze,Q606777
+obstacles map,maze,Q606777
+cartesian bird eye view range map,maze,Q606777
+face images with glass,glasses,Q37501
+face images with eyeglass,glasses,Q37501
+face images without eyeglass,glasses,Q37501
+map,map,Q4006
+geographical map,map,Q4006
+historical map,map,Q4006
+colorized map,map coloring,Q7712345
+color map,map coloring,Q7712345
+evacuation map,inundation,Q301869
+flood inundation map,inundation,Q301869
+video duration,duration,Q2199864
+video length,duration,Q2199864
+eeg recording,electrocardiogram,Q13038557
+ecg recording,electrocardiogram,Q13038557
+heart sound recording,electrocardiogram,Q13038557
+fmri recording,electrocardiogram,Q13038557
+heart blood flow recording,electrocardiogram,Q13038557
+fetal heart rate recording,electrocardiogram,Q13038557
+electrocardiogram recording,electrocardiogram,Q13038557
+music recording,music,Q638
+song recording,music,Q638
+headset microphone recording,headset,Q1193170
+in ear microphone recording,headset,Q1193170
+in ear rigid earpiece microphone recording,headset,Q1193170
+earpiece microphone recording,headset,Q1193170
+ambisonic recording,Ambisonic UHJ format,Q4741501
+first order ambisonics recording,Ambisonic UHJ format,Q4741501
+ambisonic speech recording,Ambisonic UHJ format,Q4741501
+urban sound recording,city sounds,Q21550473
+urban soundscape recording,city sounds,Q21550473
+soundscape recording,city sounds,Q21550473
+voice signal,waveform,Q1165717
+speech waveform,waveform,Q1165717
+speech signal,waveform,Q1165717
+acoustic phonetic measure,acoustic phonetics,Q424083
+acoustic measures documentation,acoustic phonetics,Q424083
+mosquito audio recording,Culicidae,Q7367
+mosquito acoustic recording,Culicidae,Q7367
+polysomnogram recording,polysomnography,Q1754874
+polysomnography recording,polysomnography,Q1754874
+bilingual speech recording,speech audio recording,Q108680236
+multilingual speech recording,speech audio recording,Q108680236
+multilingual speech,multiple languages,Q20923490
+korean speech,multiple languages,Q20923490
+dna sequence,whole-genome sequence,Q104595271
+genomic sequence,whole-genome sequence,Q104595271
+genome sequence,whole-genome sequence,Q104595271
+gene sequence,whole-genome sequence,Q104595271
+gait sequence,animal gait,Q2370000
+walking sequence,animal gait,Q2370000
+walk sequence,animal gait,Q2370000
+rna sequence,messenger RNA,Q188928
+mrna sequence,messenger RNA,Q188928
+string sequence,emoji ZWJ sequence,Q100587415
+description sequence,emoji ZWJ sequence,Q100587415
+reference sequence,emoji ZWJ sequence,Q100587415
+formal language sequence,emoji ZWJ sequence,Q100587415
+emoji sequence,emoji ZWJ sequence,Q100587415
+high resolution video sequence,8K resolution,Q3456907
+4k video sequence,8K resolution,Q3456907
+8k video sequence,8K resolution,Q3456907
+indoor navigation sequence,navigation,Q102066
+outdoor navigation sequence,navigation,Q102066
+cad model,Model Cadet,Q102239682
+cad rendered model,Model Cadet,Q102239682
+acl gan model,generative adversarial network,Q25104379
+council gan model,generative adversarial network,Q25104379
+cyclegan model,generative adversarial network,Q25104379
+classification model,classification,Q13582682
+machine learning model,classification,Q13582682
+knowledge graph,knowledge graph,Q33002955
+semantic graph,knowledge graph,Q33002955
+entity graph,knowledge graph,Q33002955
+knowledge graph path,knowledge graph,Q33002955
+temporal knowledge graph,knowledge graph,Q33002955
+knowledge graph edge,knowledge graph,Q33002955
+ttl knowledge graph,knowledge graph,Q33002955
+also bought graph,knowledge graph,Q33002955
+co purchase graph,knowledge graph,Q33002955
+financial transaction graph,knowledge graph,Q33002955
+explanation graph,knowledge graph,Q33002955
+reasoning graph,knowledge graph,Q33002955
+conjunction graph,knowledge graph,Q33002955
+navigation graph,graph,Q141488
+page page graph,graph,Q141488
+flow graph,graph,Q141488
+vascular graph,graph,Q141488
+polymer graph,graph,Q141488
+heterogeneous graph,graph,Q141488
+web graph,graph,Q141488
+concept graph,graph,Q141488
+point pattern graph,graph,Q141488
+function call graph,graph,Q141488
+benchmark graph,graph,Q141488
+geo referenced graph,graph,Q141488
+training graph,graph,Q141488
+evaluation graph,graph,Q141488
+access graph,graph,Q141488
+replay graph,graph,Q141488
+amr graph,graph,Q141488
+iam graph,graph,Q141488
+scientific abstract,abstract,Q333291
+research paper abstract,abstract,Q333291
+research abstract,abstract,Q333291
+scientific paper abstract,abstract,Q333291
+python code,python,Q28865
+general purpose python code,python,Q28865
+python source code,python,Q28865
+pddl code,Protein Data Bank,Q7251429
+protein pdb code,Protein Data Bank,Q7251429
+environmental sound,Ambient sounds,Q56240638
+ambient sound,Ambient sounds,Q56240638
+audio: environmental sound,Ambient sounds,Q56240638
+gunshot sound,gunshot,Q2992372
+gun sound,gunshot,Q2992372
+english caption,multiple languages,Q20923490
+multilingual caption,multiple languages,Q20923490
+3d bounding box,minimum bounding rectangle,Q1134256
+3d object bounding box,minimum bounding rectangle,Q1134256
+human bounding box,minimum bounding rectangle,Q1134256
+person bounding box,minimum bounding rectangle,Q1134256
+pedestrian bounding box,minimum bounding rectangle,Q1134256
+vehicle bounding box,minimum bounding rectangle,Q1134256
+car bounding box,minimum bounding rectangle,Q1134256
+3d vehicle bounding box,minimum bounding rectangle,Q1134256
+head and face bounding box,minimum bounding rectangle,Q1134256
+face bounding box,minimum bounding rectangle,Q1134256
+axis aligned bounding box,minimum bounding rectangle,Q1134256
+oriented bounding box,minimum bounding rectangle,Q1134256
+ground truth 6d object pose,spatial arrangement,Q66424847
+ground truth 6 dof object pose,spatial arrangement,Q66424847
+high accuracy ground truth,high-definition video,Q2916762
+high resolution detail,high-definition video,Q2916762
+high dynamic range,high-definition video,Q2916762
+low resolution activity,high-definition video,Q2916762
+high resolution mesh,high-definition video,Q2916762
+robot trajectory,trajectory,Q193139
+trajectory,trajectory,Q193139
+movement trajectory,trajectory,Q193139
+navigation trajectory,trajectory,Q193139
+position trajectory,trajectory,Q193139
+velocity trajectory,trajectory,Q193139
+demonstration trajectory,trajectory,Q193139
+aircraft trajectory,trajectory,Q193139
+agent trajectory,trajectory,Q193139
+ballistic trajectory,trajectory,Q193139
+handwritten trajectory,trajectory,Q193139
+hand trajectory,trajectory,Q193139
+expert trajectory,trajectory,Q193139
+kitti trajectory,trajectory,Q193139
+simulation trajectory,trajectory,Q193139
+chaotic trajectory,trajectory,Q193139
+tracking trajectory,trajectory,Q193139
+current trajectory,trajectory,Q193139
