@@ -1,0 +1,72 @@
+[
+  {
+    "threshold": 0.5,
+    "total_groups": 396,
+    "total_types_in_groups": 14511,
+    "avg_group_size": 36.64393939393939,
+    "max_group_size": 2149
+  },
+  {
+    "threshold": 0.55,
+    "total_groups": 480,
+    "total_types_in_groups": 14440,
+    "avg_group_size": 30.083333333333332,
+    "max_group_size": 2150
+  },
+  {
+    "threshold": 0.6,
+    "total_groups": 576,
+    "total_types_in_groups": 14343,
+    "avg_group_size": 24.901041666666668,
+    "max_group_size": 2145
+  },
+  {
+    "threshold": 0.65,
+    "total_groups": 606,
+    "total_types_in_groups": 14283,
+    "avg_group_size": 23.56930693069307,
+    "max_group_size": 2140
+  },
+  {
+    "threshold": 0.7,
+    "total_groups": 651,
+    "total_types_in_groups": 14229,
+    "avg_group_size": 21.857142857142858,
+    "max_group_size": 2139
+  },
+  {
+    "threshold": 0.75,
+    "total_groups": 676,
+    "total_types_in_groups": 14182,
+    "avg_group_size": 20.9792899408284,
+    "max_group_size": 2138
+  },
+  {
+    "threshold": 0.8,
+    "total_groups": 689,
+    "total_types_in_groups": 14120,
+    "avg_group_size": 20.49346879535559,
+    "max_group_size": 2138
+  },
+  {
+    "threshold": 0.85,
+    "total_groups": 705,
+    "total_types_in_groups": 14097,
+    "avg_group_size": 19.995744680851065,
+    "max_group_size": 2138
+  },
+  {
+    "threshold": 0.9,
+    "total_groups": 709,
+    "total_types_in_groups": 14079,
+    "avg_group_size": 19.857545839210154,
+    "max_group_size": 2138
+  },
+  {
+    "threshold": 0.95,
+    "total_groups": 704,
+    "total_types_in_groups": 14057,
+    "avg_group_size": 19.967329545454547,
+    "max_group_size": 2138
+  }
+]

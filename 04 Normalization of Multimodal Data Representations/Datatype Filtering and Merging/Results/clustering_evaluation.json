@@ -1,0 +1,25 @@
+{
+  "basic_metrics": {
+    "compression_ratio": 0.9702429702429702,
+    "frequency_coverage": 0.7210689045936396,
+    "type_retention": 0.6424378924378924
+  },
+  "matching_distribution": {
+    "prefix_exact": 0.0006218518748834028,
+    "prefix_category": 0.18929171071450782,
+    "suffix_exact": 0.7694795099807226,
+    "suffix_category": 0.040606927429886204
+  },
+  "cluster_quality": {
+    "avg_intra_cluster_similarity": 0.8346531972055763,
+    "avg_inter_cluster_distance": 0.7277427224321149,
+    "cluster_size_stats": {
+      "mean": 21.589449541284402,
+      "median": 2.0,
+      "std": 110.33809084970406,
+      "min": 2,
+      "max": 1920
+    },
+    "silhouette_score_estimate": 0.7727949758922563
+  }
+}

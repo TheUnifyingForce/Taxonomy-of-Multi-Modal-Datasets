@@ -1,0 +1,5275 @@
+Isolated Data Types Analysis Report
+==================================================
+
+
+Overall Statistics:
+- Total isolated types: 5239
+- Total frequency: 7578
+
+Frequency Distribution:
+- 100-499: 2 types
+- 50-99: 2 types
+- 10-49: 40 types
+- 1-9: 5195 types
+
+special_pattern:
+----------------------------------------
+
+10-49 frequency range:
+  - code snippet: 28
+  - survey response: 19
+  - evaluation metric: 18
+  - commit message: 17
+  - chest x-ray: 13
+  - handwritten digit: 12
+  - task instruction: 12
+  - article title: 12
+  - math word problem: 11
+  - background noise: 11
+  - author name: 10
+  - optical flow: 10
+  - driving scenario: 10
+  - molecular structure: 10
+  - node connection: 10
+
+1-9 frequency range:
+  - multiple choice option: 9
+  - biomedical abstract: 9
+  - customer review: 9
+  - paper abstract: 9
+  - chemical property: 8
+  - recipe instruction: 8
+  - gameplay footage: 8
+  - sentiment analysi: 8
+  - machine translation: 8
+  - sign language gesture: 8
+  - movie review: 7
+  - answer choice: 7
+  - environmental noise: 7
+  - weather condition: 7
+  - code comment: 7
+  - answer option: 6
+  - facial landmark: 6
+  - game screenshot: 6
+  - hyperspectral imagery: 6
+  - song lyric: 6
+  - knowledge base entry: 6
+  - blog post: 6
+  - material property: 6
+  - rdf triple: 6
+  - academic reference: 6
+  - vital sign: 5
+  - multiple choice answer: 5
+  - answer candidate: 5
+  - sentiment polarity: 5
+  - hotel review: 5
+  - geometric shape: 5
+  - brain mri: 5
+  - email content: 5
+  - knowledge graph entity: 5
+  - answer span: 5
+  - logical form: 5
+  - spoken utterance: 5
+  - relation extraction: 5
+  - english translation: 5
+  - student essay: 5
+  - movie script: 5
+  - patent abstract: 5
+  - reddit comment: 5
+  - bug report: 5
+  - benchmark result: 5
+  - questionnaire response: 5
+  - software mention: 5
+  - stock price: 5
+  - experiment result: 5
+  - temperature reading: 5
+  - trading volume: 5
+  - problem statement: 5
+  - episodic buffer detail: 5
+  - model response: 5
+  - temporal relation: 4
+  - web content: 4
+  - aspect term: 4
+  - protein structure: 4
+  - book review: 4
+  - pedestrian detection: 4
+  - winograd schema: 4
+  - chinese character: 4
+  - network packet: 4
+  - chest radiograph: 4
+  - aspect category: 4
+  - web page: 4
+  - forum discussion: 4
+  - technical documentation: 4
+  - singing voice: 4
+  - economic indicator: 4
+  - reference translation: 4
+  - heart rate: 4
+  - ambient noise: 4
+  - hand gesture: 4
+  - aerial imagery: 4
+  - correct answer: 4
+  - textured mesh: 4
+  - academic abstract: 4
+  - eye movement: 4
+  - ct scan slice: 4
+  - interaction log: 4
+  - dialogue turn: 4
+  - event mention: 4
+  - sms message: 4
+  - overhead imagery: 4
+  - orthographic transcription: 4
+  - resting state fmri: 4
+  - sensor reading: 4
+  - meeting transcript: 4
+  - event log: 4
+  - academic paper title: 4
+  - website content: 4
+  - weather report: 4
+  - presentation slide: 4
+  - alpha matte: 4
+  - simulation parameter: 4
+  - model weight: 4
+  - story ending: 4
+  - jupyter notebook: 4
+  - short story: 4
+  - functional category: 4
+  - drone footage: 4
+  - motor imagery task: 4
+  - brain activity: 4
+  - motion pattern: 3
+  - commonsense inference: 3
+  - sports action: 3
+  - coreference cluster: 3
+  - artistic style: 3
+  - sign language interpretation: 3
+  - book passage: 3
+  - animal face: 3
+  - pedestrian tracking: 3
+  - supporting evidence: 3
+  - english subtitle: 3
+  - vehicle brand: 3
+  - error message: 3
+  - time interval: 3
+  - elementary discourse unit: 3
+  - speaker utterance: 3
+  - post title: 3
+  - music excerpt: 3
+  - anatomical landmark: 3
+  - pathological finding: 3
+  - control task: 3
+  - joint position: 3
+  - bilingual dictionary: 3
+  - theorem statement: 3
+  - spoken digit: 3
+  - cooking demonstration: 3
+  - qa instance: 3
+  - dialogue session: 3
+  - court decision: 3
+  - query rewrite: 3
+  - movie trailer: 3
+  - adversarial patch: 3
+  - biomedical literature: 3
+  - machine reading comprehension: 3
+  - hierarchical structure: 3
+  - questions and answer: 3
+  - profile picture: 3
+  - game commentary: 3
+  - article abstract: 3
+  - web table: 3
+  - virtual environment: 3
+  - soccer game footage: 3
+  - dance performance: 3
+  - robot interaction: 3
+  - lifestyle vlog: 3
+  - sensor calibration: 3
+  - article category: 3
+  - reconstructed mesh: 3
+  - morphed face: 3
+  - task fmri: 3
+  - structural mri: 3
+  - subjective rating: 3
+  - pull request: 3
+  - academic paper abstract: 3
+  - technical report: 3
+  - movie title: 3
+  - financial table: 3
+  - programming problem: 3
+  - engagement metric: 3
+  - spike train: 3
+  - analysis script: 3
+  - task performance: 3
+  - acceptability judgment: 3
+  - sub slot: 3
+  - motor imagery: 3
+  - 6 dof pose: 3
+  - simulation output: 3
+  - causal relation: 3
+  - diagnostic report: 3
+  - location name: 3
+  - variable value: 3
+  - binding affinity: 3
+  - financial news: 3
+  - code context: 3
+  - code sample: 3
+  - instruction prompt: 3
+  - case study: 3
+  - publication reference: 3
+  - attack traffic: 3
+  - math problem: 3
+  - analytical solution: 3
+  - motion class: 2
+  - pose angle: 2
+  - relation instance: 2
+  - step by step instruction: 2
+  - supporting fact: 2
+  - event phrase: 2
+  - pedestrian walkway: 2
+  - celebrity face: 2
+  - head roi: 2
+  - molecular structure diagram: 2
+  - assay result: 2
+  - click log: 2
+  - short answer: 2
+  - fields of study: 2
+  - simulation result: 2
+  - functional program: 2
+  - emotion recognition: 2
+  - textual mention: 2
+  - publication venue: 2
+  - publication year: 2
+  - manuscript page: 2
+  - book title: 2
+  - panoramic view: 2
+  - motion capture: 2
+  - game log: 2
+  - html table: 2
+  - drone flight simulation: 2
+  - focal stack: 2
+  - vehicle color: 2
+  - dialogue response: 2
+  - chemical entity mention: 2
+  - bibliographic reference: 2
+  - transcribed word: 2
+  - building footprint: 2
+  - online review: 2
+  - feature value: 2
+  - pitch contour: 2
+  - instrumental note: 2
+  - table content: 2
+  - coreference chain: 2
+  - book excerpt: 2
+  - gameplay replay: 2
+  - player action: 2
+  - environment configuration: 2
+  - aspect based sentiment analysi: 2
+  - segmented object: 2
+  - handwritten chinese character: 2
+  - actor performance: 2
+  - activity recognition: 2
+  - avian flight call: 2
+  - game soundtrack: 2
+  - bird flight call: 2
+  - mri t2: 2
+  - animated gif: 2
+  - task category: 2
+  - click event: 2
+  - sarcasm explanation: 2
+  - non sarcastic rephrase: 2
+  - accepted answer: 2
+  - machine generated story: 2
+  - tablestore row: 2
+  - mathematical answer: 2
+  - bilingual lexicon: 2
+  - job posting: 2
+  - material composition: 2
+  - slot filling: 2
+  - pronoun usage: 2
+  - science diagram: 2
+  - fictional story: 2
+  - salient object detection: 2
+  - 360° panorama: 2
+  - noun phrase: 2
+  - textual entailment: 2
+  - machine translation output: 2
+  - edit action: 2
+  - malware binary: 2
+  - people interaction: 2
+  - opinion statement: 2
+  - diagnostic test result: 2
+  - vehicle surrounding: 2
+  - single turn conversation: 2
+  - single sentence classification: 2
+  - ambiguous word: 2
+  - negotiation dialogue: 2
+  - participant interaction: 2
+  - discourse relation: 2
+  - benign binary: 2
+  - electricity transformer temperature: 2
+  - person instance: 2
+  - exam answer: 2
+  - math headline: 2
+  - training example: 2
+  - choreography step chart: 2
+  - legal judgment: 2
+  - optical character recognition: 2
+  - grasp pose: 2
+  - game rule: 2
+  - game state: 2
+  - atomic action: 2
+  - temporal correspondence: 2
+  - commonsense knowledge: 2
+  - environmental condition: 2
+  - player statistic: 2
+  - movie poster: 2
+  - movie plot: 2
+  - match result: 2
+  - reading passage: 2
+  - article content: 2
+  - information seeking conversation: 2
+  - evidence paragraph: 2
+  - geographical location: 2
+  - movie recommendation: 2
+  - game statistic: 2
+  - reference answer: 2
+  - wikidata triple: 2
+  - legal statute: 2
+  - satellite image patch: 2
+  - match report: 2
+  - podcast episode: 2
+  - game narrative: 2
+  - brand logo: 2
+  - wikipedia abstract: 2
+  - resource link: 2
+  - tv series episode: 2
+  - meteorological parameter: 2
+  - similarity judgment: 2
+  - color name: 2
+  - historical stock price: 2
+  - online news comment: 2
+  - single cell rna seq: 2
+  - device variability: 2
+  - chat log: 2
+  - star rating: 2
+  - svbrdf fit: 2
+  - argument component: 2
+  - arterial blood pressure: 2
+  - fovea localization: 2
+  - handwritten manuscript: 2
+  - gene expression profile: 2
+  - smpl pose: 2
+  - particle parameter: 2
+  - particle hit: 2
+  - transparent object: 2
+  - student answer: 2
+  - patent title: 2
+  - contractual term: 2
+  - code change: 2
+  - network traffic log: 2
+  - anomaly detection: 2
+  - phone call: 2
+  - navigation scenario: 2
+  - email address: 2
+  - normal finding: 2
+  - author profile: 2
+  - spoken language translation: 2
+  - network trace: 2
+  - latex formula: 2
+  - segmentation ground truth: 2
+  - answer type: 2
+  - regions of interest: 2
+  - difficulty level: 2
+  - coding problem: 2
+  - email message: 2
+  - email thread: 2
+  - historical photograph: 2
+  - hierarchical relationship: 2
+  - interactive narrative: 2
+  - bibliographic entry: 2
+  - film still: 2
+  - supplementary material reference: 2
+  - molecular geometry: 2
+  - wind speed: 2
+  - case fact: 2
+  - relevance judgment: 2
+  - joint velocity: 2
+  - subject demographic: 2
+  - edge list: 2
+  - artist name: 2
+  - summary statistic: 2
+  - hd orthomosaic: 2
+  - controlled weather condition: 2
+  - polarization curve: 2
+  - impedance curve: 2
+  - benign flow: 2
+  - attack flow: 2
+  - discourse structure: 2
+  - resolution variation: 2
+  - frame rate variation: 2
+  - knowledge graph relation: 2
+  - code completion: 2
+  - environment screenshot: 2
+  - reading comprehension passage: 2
+  - gaze pattern: 2
+  - restaurant review: 2
+  - airfoil diagram: 2
+  - subjective test framework: 2
+  - policy measure: 2
+  - classification result: 2
+  - readme documentation: 2
+  - crossword clue: 2
+  - seismic waveform: 2
+  - misinformation target: 2
+  - meta parameter: 2
+  - optical illusion: 2
+  - neural network weight: 2
+  - revision history: 2
+  - asl signing: 2
+  - structured table: 2
+  - quality rating: 2
+  - survey answer: 2
+  - creative writing: 2
+  - robot design: 2
+  - motor current: 2
+  - online conversation: 2
+  - process relation: 2
+  - guitar performance: 2
+  - mathematical formulae: 2
+  - categorical variable: 2
+  - full form: 2
+  - author affiliation: 2
+  - temporal link: 2
+  - rules of thumb: 2
+  - baseline eeg: 2
+  - column header: 2
+  - statistical analysi: 2
+  - dictionary entry: 2
+  - wikidata identifier: 2
+  - column explanation: 2
+  - nature themed photo: 2
+  - psychological questionnaire: 2
+  - environmental factor: 2
+  - episodic buffer instruction: 2
+  - line chart: 2
+  - contact force: 2
+  - mel spectrogram: 2
+  - citation string: 2
+  - court transcript: 2
+  - cctv footage: 2
+  - 6d object pose: 2
+  - conference proceedings: 2
+  - simulation input: 2
+  - weather metric: 2
+  - signal strength: 2
+  - chord progression: 2
+  - flight schedule: 2
+  - simulation interaction: 2
+  - dish name: 2
+  - python program: 2
+  - smiles string: 2
+  - urban soundscape: 2
+  - logic grounded diagnosi: 2
+  - situated hypergraph: 2
+  - film review: 2
+  - conversation thread: 2
+  - localized narrative: 2
+  - source code documentation: 2
+  - air quality measurement: 2
+  - room layout: 2
+  - translation memory: 2
+  - ecg waveform: 2
+  - privacy policy: 2
+  - physical examination result: 2
+  - probability word: 2
+  - heart activity: 2
+  - graph representation: 2
+  - python script: 2
+  - geographical coordinate: 2
+  - experiment detail: 2
+  - lane centerline: 2
+  - topology relationship: 2
+  - search result: 2
+  - cross lingual word analogy: 2
+  - section title: 2
+  - place name: 2
+  - compound smiles string: 2
+  - meeting minute: 2
+  - travel time: 2
+  - personality trait: 2
+  - system prompt: 2
+  - sudoku grid: 2
+  - body shape: 2
+  - wheel odometry: 2
+  - fish swimming behavior: 2
+  - column name: 2
+  - category name: 2
+  - daily life activity: 2
+  - story context: 2
+  - robot odometry: 2
+  - event detection: 2
+  - music analysi: 2
+  - chess formation: 2
+  - github issue: 2
+  - figure legend: 2
+  - knowledge graph embedding: 2
+  - hyperparameter configuration: 2
+  - discussion thread: 2
+  - matrix tense: 2
+  - ordinal acceptability judgment: 2
+  - normal traffic: 2
+  - piano performance: 2
+  - optical turbulence measurement: 2
+  - meteorological measurement: 2
+  - evaluation criterion: 2
+  - diverse background: 2
+  - road user trajectory: 2
+  - football gameplay: 2
+  - poor answer: 2
+  - adversarial prompt: 2
+  - experiment condition: 2
+  - evaluation script: 2
+  - training script: 2
+  - project title: 2
+  - llm response: 2
+  - effect statement: 2
+  - heterogeneous graph structure: 2
+  - heterogeneous node: 2
+  - molecular property: 2
+  - fem result: 2
+  - garment mesh: 2
+  - example program: 2
+  - single sentence task: 1
+  - similarity and paraphrasing task: 1
+  - environment visual: 1
+  - simplified reference: 1
+  - keypoints detection: 1
+  - dense pose: 1
+  - moving object: 1
+  - body motion: 1
+  - playing musical instrument: 1
+  - care provider note: 1
+  - laboratory measurement: 1
+  - fluid balance: 1
+  - imaging report: 1
+  - pedestrian re identification: 1
+  - emotion elicitation protocol: 1
+  - evidence subsequence: 1
+  - wikipedia xml content: 1
+  - people and object: 1
+  - recipe title: 1
+  - full story: 1
+  - passage ranking: 1
+  - keyphrase extraction: 1
+  - introduction paragraph: 1
+  - candidate answer: 1
+  - assertive statement: 1
+  - binary classification: 1
+  - transcripts of flight inquiry: 1
+  - crying baby: 1
+  - glasses breaking: 1
+  - gun shot: 1
+  - encyclopedic content: 1
+  - business tip: 1
+  - business picture: 1
+  - movie rating: 1
+  - hoi category: 1
+  - phone level transcription: 1
+  - collective activity: 1
+  - noise measurement: 1
+  - syntactic derivation: 1
+  - instance level identification: 1
+  - overlaid digit: 1
+  - biography paragraph: 1
+  - masked variant: 1
+  - chemical descriptor: 1
+  - toxicological outcome: 1
+  - dialogue context: 1
+  - response candidate: 1
+  - categorical field: 1
+  - continuous field: 1
+  - bidding log: 1
+  - impression log: 1
+  - conversion log: 1
+  - tf/idf weighted word vector: 1
+  - belief statement: 1
+  - rotational symmetry: 1
+  - skill assessment: 1
+  - treebank diagram: 1
+  - relation extraction example: 1
+  - cancer screening result: 1
+  - protein tertiary structure: 1
+  - chemical disease interaction: 1
+  - pico element: 1
+  - printed face photo: 1
+  - citation intent: 1
+  - office objects amazon: 1
+  - office objects dslr: 1
+  - office objects webcam: 1
+  - gloss notation: 1
+  - gene sets and signature: 1
+  - chemical compound structure: 1
+  - challenging traffic scenario: 1
+  - crowdsourced answer: 1
+  - celebrity utterance: 1
+  - thermodynamic property: 1
+  - structural property: 1
+  - art painting: 1
+  - protein interaction: 1
+  - genetic interaction: 1
+  - post translational modification: 1
+  - folk song: 1
+  - music composition: 1
+  - species name: 1
+  - skeleton joint location: 1
+  - date time: 1
+  - ecg heartbeat: 1
+  - body temperature: 1
+  - event marker: 1
+  - isolated stem: 1
+  - summarizing passage: 1
+  - chemical constituent: 1
+  - musical notation: 1
+  - post to post connection: 1
+  - tai chi performance: 1
+  - valence and arousal intensity: 1
+  - defective production item: 1
+  - sign language gloss: 1
+  - protein class: 1
+  - building interior: 1
+  - cooking activity: 1
+  - graph kernel: 1
+  - item category: 1
+  - knowledge base relation triple: 1
+  - citation link: 1
+  - molecular compound: 1
+  - urban road object: 1
+  - passenger statistic: 1
+  - cargo statistic: 1
+  - adverse drug reaction: 1
+  - side effect frequency: 1
+  - drug target relation: 1
+  - chemical structure representation: 1
+  - step segment: 1
+  - layout analysi: 1
+  - positional reasoning: 1
+  - pedestrian head position: 1
+  - intra- and inter sentence relation: 1
+  - highlighted table cell: 1
+  - cloze task: 1
+  - core science fact: 1
+  - common knowledge fact: 1
+  - emotion word: 1
+  - emotion cause: 1
+  - disparity ground truth: 1
+  - vehicle location: 1
+  - clothing style: 1
+  - aligned mesh: 1
+  - statistical moments and edge count: 1
+  - electric power consumption: 1
+  - sub metering value: 1
+  - graphic rendition: 1
+  - commonsense short story: 1
+  - story cloze test: 1
+  - commentary generation: 1
+  - aqa score estimation: 1
+  - bag of words vector: 1
+  - vector graphic: 1
+  - objectness mask ground truth: 1
+  - animal pose estimation: 1
+  - drone navigation trajectory: 1
+  - portuguese translation: 1
+  - vehicle type: 1
+  - network attack: 1
+  - retinal fundus photograph: 1
+  - vessel reference standard: 1
+  - arteries/veins reference standard: 1
+  - example clause: 1
+  - exercise performance: 1
+  - skeletal joint position: 1
+  - skeletal joint angle: 1
+  - dialogue subtitle: 1
+  - radiologist labeled reference standard evaluation set: 1
+  - dialogue history: 1
+  - perturbed explanation: 1
+  - inference rule candidate: 1
+  - unlabeled inference rule candidate: 1
+  - typed textual relation: 1
+  - lemmatized dependency path: 1
+  - plausible alternative: 1
+  - logical rule: 1
+  - rule dependency: 1
+  - persona profile: 1
+  - knowledge snippet: 1
+  - style trait: 1
+  - aerial orthomosaic: 1
+  - knee mri: 1
+  - german translation: 1
+  - dyadic dialogue: 1
+  - inline mention: 1
+  - isolated drum: 1
+  - isolated bas: 1
+  - isolated vocal: 1
+  - isolated other stem: 1
+  - transcribed line: 1
+  - hyperlink cascade: 1
+  - persuasive essay: 1
+  - shape based class: 1
+  - full body skeleton: 1
+  - rainbow passage: 1
+  - elicitation paragraph: 1
+  - gaming action: 1
+  - street view panorama: 1
+  - foreground matte: 1
+  - emotion induced eeg: 1
+  - autonomous system: 1
+  - twitter and memetracker: 1
+  - graph classification dataset: 1
+  - accept reject decision: 1
+  - family relationship: 1
+  - cortical mesh: 1
+  - topic paper author network: 1
+  - disease mention: 1
+  - time point: 1
+  - community subgraph: 1
+  - genre edge: 1
+  - subreddit category: 1
+  - artist preference: 1
+  - instrument activation: 1
+  - vocal/non vocal segment: 1
+  - midi music: 1
+  - music accompaniment: 1
+  - timestamped lyric: 1
+  - instrument presence: 1
+  - music genre: 1
+  - song concept: 1
+  - usage term: 1
+  - musical score in midi format: 1
+  - artist biography: 1
+  - background music: 1
+  - business forecasting: 1
+  - synthesized music track: 1
+  - music segment: 1
+  - synthesized music: 1
+  - dialogue domain: 1
+  - dialogue slots and value: 1
+  - technical jargon: 1
+  - helpdesk instruction: 1
+  - translation metric: 1
+  - software entity definition: 1
+  - extracted table: 1
+  - machine learning model performance: 1
+  - table reference: 1
+  - metric name: 1
+  - metric value: 1
+  - dynamic hand gesture: 1
+  - foggy cityscape: 1
+  - clear cityscape: 1
+  - frame interpolation: 1
+  - polyp removal proces: 1
+  - cad generated mesh: 1
+  - lexical unit: 1
+  - vehicle measurement: 1
+  - novel book: 1
+  - sub genre: 1
+  - frames of texture less object: 1
+  - bird song: 1
+  - gaze trace: 1
+  - cross validation split: 1
+  - bash script: 1
+  - slam pose: 1
+  - people with mobility aid: 1
+  - people in static pose: 1
+  - estimated floor: 1
+  - behavior rating: 1
+  - first person view screen pixel: 1
+  - game action: 1
+  - vehicular dynamic: 1
+  - tracks and car: 1
+  - robot car: 1
+  - keystroke action: 1
+  - reaction time: 1
+  - immediate reward: 1
+  - ram state: 1
+  - landmark placement: 1
+  - house layout: 1
+  - game state rendering: 1
+  - robot football match: 1
+  - robot football gameplay: 1
+  - offensive not offensive: 1
+  - targeted insult untargeted: 1
+  - individual group other: 1
+  - exam passage: 1
+  - wikipedia topic: 1
+  - task decomposition: 1
+  - dialog act semantic: 1
+  - emotion report: 1
+  - drug side effect: 1
+  - medline abstract: 1
+  - next utterance prediction: 1
+  - mouse social behavior: 1
+  - puppet flow: 1
+  - category attribute matrix: 1
+  - numeric attribute value: 1
+  - supporting text passage: 1
+  - omnidirectional imagery: 1
+  - planar lidar: 1
+  - proprioceptive sensors for odometry: 1
+  - manga page: 1
+  - movie id: 1
+  - rating value: 1
+  - cooking recipe: 1
+  - handprinted sample form: 1
+  - reference form: 1
+  - football player: 1
+  - motion and structure ground truth: 1
+  - contextual fact: 1
+  - music performance: 1
+  - complete song: 1
+  - household appliance sound: 1
+  - other identifiable sound: 1
+  - melody line: 1
+  - piano arrangement: 1
+  - song chord: 1
+  - song key: 1
+  - song beat: 1
+  - isolated sound event: 1
+  - nes language modeling: 1
+  - generated harmonization: 1
+  - bird soundscape: 1
+  - music loop: 1
+  - timbral analysi: 1
+  - sounds of thing: 1
+  - rare sound event: 1
+  - vocal imitation: 1
+  - predefined utterance: 1
+  - brakes squeaking: 1
+  - large vehicle: 1
+  - people speaking: 1
+  - people walking: 1
+  - dermoscopic images of skin lesion: 1
+  - lung nodule: 1
+  - source level reference: 1
+  - context panel: 1
+  - character visual appearance: 1
+  - character textual mention: 1
+  - screencast tutorial: 1
+  - instructional video segment: 1
+  - opengl visualization: 1
+  - virtual reality support: 1
+  - view hierarchy: 1
+  - operation span: 1
+  - input span: 1
+  - non clicked event: 1
+  - historical click behavior: 1
+  - salient entity identification: 1
+  - utterance transcript: 1
+  - counter narrative: 1
+  - literary entity: 1
+  - literary event: 1
+  - quotation attribution: 1
+  - discourse marker: 1
+  - supporting evidence paragraph: 1
+  - movie plot passage: 1
+  - bilingual passage: 1
+  - bilingual answer: 1
+  - parallel story: 1
+  - programming assignment: 1
+  - map entity: 1
+  - syntactic contrast: 1
+  - morphological contrast: 1
+  - open triple: 1
+  - open relation: 1
+  - short statement: 1
+  - business conversation scenario: 1
+  - procedural paragraph: 1
+  - knowledge statement: 1
+  - quantifiers and modifier: 1
+  - background passage: 1
+  - novel situation: 1
+  - web snippet: 1
+  - knowledge analysis: 1
+  - open ie tuple: 1
+  - workout activity: 1
+  - dance move: 1
+  - playing instrument: 1
+  - using tool: 1
+  - artistic performance: 1
+  - romanization lexicon: 1
+  - article section: 1
+  - physiological response: 1
+  - spoken phrase: 1
+  - garment type: 1
+  - celebrity portrait: 1
+  - open domain qa: 1
+  - dialog generation: 1
+  - vendor detection: 1
+  - relational pattern: 1
+  - self mention: 1
+  - other mention: 1
+  - non health: 1
+  - vessel measurement: 1
+  - handwriting entity: 1
+  - chart title: 1
+  - data table: 1
+  - future event prediction: 1
+  - answer url: 1
+  - political topic: 1
+  - educational topic: 1
+  - public health topic: 1
+  - expression variation: 1
+  - facial electromyography: 1
+  - line segment: 1
+  - conception depiction: 1
+  - edit operation: 1
+  - waiting time: 1
+  - recipe ingredient: 1
+  - aquatic plant: 1
+  - sea floor: 1
+  - eye mask region: 1
+  - skeleton coordinate: 1
+  - cropped image patch: 1
+  - intrinsic color: 1
+  - nli example: 1
+  - meta relation type: 1
+  - cross link: 1
+  - song preview: 1
+  - speaker physical parameter: 1
+  - images with transparent background: 1
+  - short text instance: 1
+  - calorie value: 1
+  - pedestrian presence: 1
+  - musical instrument performance: 1
+  - micro lens image array: 1
+  - repetitive activity: 1
+  - feeling category: 1
+  - extracted fact: 1
+  - cross lingual task: 1
+  - gold passage: 1
+  - wikidata value: 1
+  - gymnastics performance: 1
+  - tags of place and action: 1
+  - tags of cinematic style: 1
+  - frame index: 1
+  - anomalous activity: 1
+  - unlabeled domain related corpus: 1
+  - reasoning path: 1
+  - color images of hand: 1
+  - 6 dof mapping: 1
+  - seasonal driving condition: 1
+  - shape reconstruction: 1
+  - grasp result: 1
+  - parallel jaw grasp: 1
+  - email body: 1
+  - email subject line: 1
+  - stop lemma: 1
+  - stop word list: 1
+  - valence and arousal: 1
+  - sentences with gapping: 1
+  - spoken message: 1
+  - converted message: 1
+  - generative art: 1
+  - disambiguated question rewrite: 1
+  - robot cutting task: 1
+  - english named entity: 1
+  - arabic transliteration: 1
+  - named entity class: 1
+  - public location: 1
+  - translated answer: 1
+  - digit string: 1
+  - assembly instruction: 1
+  - highway panel: 1
+  - inferential knowledge: 1
+  - consent response: 1
+  - handwritten numeral: 1
+  - basic character: 1
+  - compound character: 1
+  - unicode representation: 1
+  - bias span: 1
+  - temporally annotated activity segment: 1
+  - sentential context: 1
+  - sign language letter: 1
+  - topic discussion: 1
+  - radiographic report: 1
+  - biomedical passage: 1
+  - event recognition: 1
+  - network topology: 1
+  - road condition: 1
+  - rare word representation: 1
+  - coherence relation: 1
+  - vehicle crowd interaction scenario: 1
+  - pedestrian unique id: 1
+  - skeleton track: 1
+  - sports highlight: 1
+  - tv show: 1
+  - movie spotlight: 1
+  - competition highlight: 1
+  - narrative passage: 1
+  - event option: 1
+  - character face track: 1
+  - cloze style reading comprehension: 1
+  - forum thread: 1
+  - body keypoint: 1
+  - biomedical entity mention: 1
+  - road facing camera footage: 1
+  - thermometer reading: 1
+  - organic molecule: 1
+  - java class: 1
+  - contour drawing: 1
+  - pairwise interaction: 1
+  - conversation scenario: 1
+  - conversational exchange: 1
+  - movie quote: 1
+  - complex sentence transformation: 1
+  - faq item: 1
+  - tampering factor/similarity metric: 1
+  - climate factor: 1
+  - healthcare factor: 1
+  - economic factor: 1
+  - article excerpt: 1
+  - ct slice: 1
+  - iterative questioning: 1
+  - knowledge grounding: 1
+  - anomalous driving action: 1
+  - dependency treebank: 1
+  - rdf triple set: 1
+  - bidirectional disparity: 1
+  - line drawing sketch: 1
+  - vehicle telemetry: 1
+  - dvs brightness change event: 1
+  - dog movement pattern: 1
+  - dense landmark: 1
+  - participant activity: 1
+  - statements of desire: 1
+  - textual evidence for desire fulfillment: 1
+  - annotations for desire fulfillment: 1
+  - bilingual dialogue: 1
+  - machine translation quality judgment: 1
+  - dialogue representation: 1
+  - domain adaptation dialogue: 1
+  - sample efficient task learning dialogue: 1
+  - case report: 1
+  - disease and syndrome mention: 1
+  - tissue microarray slide: 1
+  - mobile phone photo: 1
+  - dslr camera photo: 1
+  - sensor measurement: 1
+  - braille recto dot: 1
+  - braille verso dot: 1
+  - urban element: 1
+  - detailed structure: 1
+  - dunhuang grottoes painting: 1
+  - discourse phenomenon: 1
+  - dialogic turn: 1
+  - student interaction: 1
+  - educational content: 1
+  - student demographic: 1
+  - activity timestamp: 1
+  - hand presence: 1
+  - dialectal egyptian arabic: 1
+  - malicious binary: 1
+  - unlabeled binary: 1
+  - people in real environment: 1
+  - continuous emotion dimension: 1
+  - hand head chair movement: 1
+  - gaze movement: 1
+  - galvanic skin response: 1
+  - mouse keyboard activity: 1
+  - facial skin temperature: 1
+  - in game log: 1
+  - ethical concept: 1
+  - person orientation: 1
+  - historical newspaper page: 1
+  - motion capture ground truth: 1
+  - event narrative: 1
+  - simplified train representation: 1
+  - smpl x fit: 1
+  - fashion ontology: 1
+  - 2d/3d bounding box coordinate: 1
+  - unconventional pose: 1
+  - occluded face: 1
+  - variable background: 1
+  - unlabeled example: 1
+  - line plot: 1
+  - dot line plot: 1
+  - pie chart: 1
+  - wikipedia event: 1
+  - family conversation: 1
+  - contextual transcript: 1
+  - quadrotor dynamic: 1
+  - virtual reality interaction: 1
+  - query triple: 1
+  - agent response: 1
+  - subject predicate object triple: 1
+  - scanned form: 1
+  - spatial layout analysi: 1
+  - design operation: 1
+  - design hierarchy: 1
+  - vertical cup to disc ratio: 1
+  - neuroretinal rim size: 1
+  - optic disc bounding box location: 1
+  - theorem proof: 1
+  - machine learning method: 1
+  - wikipedia gameplay section: 1
+  - cited abstract: 1
+  - source abstract: 1
+  - x-ray images of weld: 1
+  - geographical name: 1
+  - piano music: 1
+  - forum novel: 1
+  - time phrase: 1
+  - fictional book excerpt: 1
+  - happy moment: 1
+  - hate speech lexicon: 1
+  - familiarity rating: 1
+  - imageability rating: 1
+  - arousal rating: 1
+  - valence rating: 1
+  - crowd event: 1
+  - complex event: 1
+  - kinematic property: 1
+  - reading order: 1
+  - transcribed conversation: 1
+  - radio program transcription: 1
+  - monologue transcription: 1
+  - character profile: 1
+  - proof step: 1
+  - religious source: 1
+  - humorous headline: 1
+  - free form corpus: 1
+  - sports news: 1
+  - labelled beat: 1
+  - pairwise comparison: 1
+  - furniture assembly: 1
+  - image: memorability: 1
+  - emotion based music: 1
+  - immediacy measure: 1
+  - indoor photograph: 1
+  - recommendation measure: 1
+  - lighting configuration: 1
+  - blood vessel segment: 1
+  - geodesic distance matrice: 1
+  - job title: 1
+  - irc message: 1
+  - japanese subtitle: 1
+  - parallel subtitle: 1
+  - block stacking attempt: 1
+  - line 3d point clouds from sick lidar: 1
+  - encoder values from robots wheel: 1
+  - manual landmark: 1
+  - interpretable program: 1
+  - gi procedure tool: 1
+  - individual portrait: 1
+  - newspaper headline: 1
+  - emergent anglicism: 1
+  - microblog post: 1
+  - lecture content: 1
+  - third person view: 1
+  - first person view: 1
+  - spoken english: 1
+  - non native submission: 1
+  - dbpedia abstract: 1
+  - odp content vector: 1
+  - odp description vector: 1
+  - netizen comment: 1
+  - geometric figure: 1
+  - number symbol: 1
+  - ship detection: 1
+  - operational program: 1
+  - event type: 1
+  - monotonicity reasoning example: 1
+  - inline textual reference: 1
+  - sfm/mvs reconstruction: 1
+  - location manipulation: 1
+  - person manipulation: 1
+  - organization manipulation: 1
+  - focal method: 1
+  - background activity: 1
+  - expert answer: 1
+  - patch based fruit counting: 1
+  - segmented baseball activity: 1
+  - sports movement: 1
+  - self chosen movement: 1
+  - motivational reason: 1
+  - game replay: 1
+  - professional translation: 1
+  - factual claim: 1
+  - textual source: 1
+  - musculoskeletal radiograph: 1
+  - learning log: 1
+  - eeg brainwave: 1
+  - complex word identification: 1
+  - zero shot relation extraction: 1
+  - commonsense pronoun resolution: 1
+  - neural architecture: 1
+  - stack exchange questions and answer: 1
+  - neural cell candidate: 1
+  - architecture size: 1
+  - syntactic construction: 1
+  - self paced reading time: 1
+  - corporate annual report: 1
+  - business taxonomy: 1
+  - agent perspective: 1
+  - special token: 1
+  - statement extraction: 1
+  - netizen style comment: 1
+  - fall detection: 1
+  - story headline: 1
+  - article url: 1
+  - full text review: 1
+  - holders of opinion: 1
+  - noun noun compound: 1
+  - linguistic relation: 1
+  - stereo video of people in orchard: 1
+  - classified example: 1
+  - implicit context: 1
+  - masked word prediction probe: 1
+  - novel word: 1
+  - local maps with occupancy representation: 1
+  - offensive comment: 1
+  - food and drink item: 1
+  - crowd level: 1
+  - museum exhibit photo: 1
+  - texture property: 1
+  - related table: 1
+  - tissue type classification: 1
+  - 360° fisheye panorama: 1
+  - non paraphrase: 1
+  - syntactic analysi: 1
+  - thematic role: 1
+  - parkinsonism severity rating: 1
+  - persona based conversation: 1
+  - goal oriented dialog: 1
+  - japanese english translation: 1
+  - proper noun: 1
+  - abbreviated noun: 1
+  - photographic defect: 1
+  - electronic transition wavelength: 1
+  - referring phrase: 1
+  - food photograph: 1
+  - cooking instruction: 1
+  - film trope: 1
+  - consumer review: 1
+  - privacy policy passage: 1
+  - political advertising category: 1
+  - sentences with post modifier: 1
+  - coreference resolution passage: 1
+  - genomic profile: 1
+  - controversial issue: 1
+  - pros and con: 1
+  - court judgment: 1
+  - pedestrian traffic light: 1
+  - zebra crossing: 1
+  - public health claim: 1
+  - meeting report: 1
+  - event localization: 1
+  - textual narration: 1
+  - vector drawing: 1
+  - drawing prompt: 1
+  - conversational passage: 1
+  - speaker turn boundary: 1
+  - expression distribution vector: 1
+  - landmark location: 1
+  - baseline classifier output: 1
+  - unusual action: 1
+  - ravens progressive matrice: 1
+  - end to end text recognition: 1
+  - token level rationale: 1
+  - customer service dialogue: 1
+  - intrinsic camera matrix: 1
+  - indoor space reconstruction: 1
+  - industrial smoke emission: 1
+  - multispectral imagery: 1
+  - remote sensing imagery: 1
+  - robotic surgical procedure: 1
+  - self reported depression diagnosis post: 1
+  - narrative transcript: 1
+  - narrative clause: 1
+  - stance classification benchmark: 1
+  - latent state: 1
+  - maze navigation action: 1
+  - facs coded action unit: 1
+  - sarcastic comment: 1
+  - parent comment: 1
+  - child comment: 1
+  - groundtruthed disparity: 1
+  - captioned photograph: 1
+  - navigation command: 1
+  - task based dialog: 1
+  - keyphrase type: 1
+  - relations between keyphrase: 1
+  - pdf table: 1
+  - ethical judgment: 1
+  - monocular depth: 1
+  - fine art painting: 1
+  - artistic comment: 1
+  - emotional narrative: 1
+  - urban landscape point: 1
+  - tv episode: 1
+  - cultural interaction: 1
+  - dialogue schema: 1
+  - delexicalized prompt: 1
+  - skeleton point set: 1
+  - skeletal volume: 1
+  - shop sign: 1
+  - protein angle: 1
+  - flying distractor: 1
+  - literature informed verb: 1
+  - naturalistic usage: 1
+  - segmented clothing part: 1
+  - shoe sketch: 1
+  - skills list: 1
+  - soccer game segment: 1
+  - soccer match footage: 1
+  - verbs, nouns, and adjective: 1
+  - spaceship simulation: 1
+  - line drawing: 1
+  - incorrect sql interpretation: 1
+  - asr transcript: 1
+  - foreign object: 1
+  - crime story: 1
+  - quoted span: 1
+  - sentential paraphrase: 1
+  - english letter: 1
+  - arabic numeral: 1
+  - topic guidance: 1
+  - original story: 1
+  - counterfactual event: 1
+  - revised story: 1
+  - vehicle states and action: 1
+  - pedestrian age group: 1
+  - pedestrian action attribute: 1
+  - topology optimization iteration: 1
+  - urban outdoor environment: 1
+  - traditional chinese landscape painting: 1
+  - target object attribute: 1
+  - morphological analysi: 1
+  - power line: 1
+  - short video moment: 1
+  - chat message: 1
+  - gesture recognition: 1
+  - full name: 1
+  - linguistic corpu: 1
+  - land use class: 1
+  - fake news: 1
+  - drowsiness detection: 1
+  - event story: 1
+  - spatio temporal video segment: 1
+  - sentences depicting object: 1
+  - questions about private content: 1
+  - tracking id: 1
+  - atomic edit: 1
+  - wikipedia lead section: 1
+  - commonsense reasoning problem: 1
+  - wildlife documentary: 1
+  - writing prompt: 1
+  - nonrigid object: 1
+  - english instruction: 1
+  - chinese instruction: 1
+  - political issue: 1
+  - evaluation instruction: 1
+  - h&e stained image tile: 1
+  - pairwise relation: 1
+  - task type: 1
+  - movie chat: 1
+  - movie comment: 1
+  - movie shot: 1
+  - generic utterance: 1
+  - windows executable binary: 1
+  - movie synopsis: 1
+  - uav command: 1
+  - citywide traffic density: 1
+  - crowd prediction: 1
+  - de mri: 1
+  - nexrad liquid mosaic: 1
+  - lightning mapper flash: 1
+  - metaphorical prompt: 1
+  - linguistic analysi: 1
+  - vehicle crowd interaction: 1
+  - unique pedestrian id: 1
+  - grayscale kanji character: 1
+  - person presence detection: 1
+  - dyadic interaction: 1
+  - personality profiling: 1
+  - internal state profiling: 1
+  - relationship profiling: 1
+  - procedural language: 1
+  - wooden block configuration: 1
+  - sequence of move: 1
+  - tweets about general disease: 1
+  - tweets about epidemic outbreak: 1
+  - phoneme level alignment: 1
+  - phoneme combination: 1
+  - phonetic transcription: 1
+  - audio: glass breaking: 1
+  - audio: gun shot: 1
+  - audio: scream: 1
+  - block interaction: 1
+  - crowded ships in harbor: 1
+  - speaker trait: 1
+  - player input: 1
+  - game feedback: 1
+  - layout semantic: 1
+  - tomographic reconstruction: 1
+  - segmentation variant: 1
+  - album cover: 1
+  - full sentence answer: 1
+  - written dialog: 1
+  - search result snippet: 1
+  - molecular relaxation: 1
+  - electrocatalyst structure: 1
+  - movie excerpt: 1
+  - graphic design: 1
+  - perspective camera footage: 1
+  - omnidirectional camera footage: 1
+  - script identification: 1
+  - dog activity: 1
+  - environmental context: 1
+  - plausible incorrect answer: 1
+  - head center coordinate: 1
+  - lane marking: 1
+  - hand object interaction: 1
+  - subjective assessment: 1
+  - epistemic activity: 1
+  - facial keypoint: 1
+  - occluded pedestrian: 1
+  - train station surveillance: 1
+  - tiger video shot: 1
+  - car video shot: 1
+  - eye movement record: 1
+  - family portrait: 1
+  - cyclist arm signal action: 1
+  - plot synopsi: 1
+  - first person office activity: 1
+  - shopping action: 1
+  - top view scenario: 1
+  - vehicle type and size: 1
+  - vehicle maneuver: 1
+  - road user categorization: 1
+  - mouse trace: 1
+  - conversion script: 1
+  - magazine content: 1
+  - article content embedding: 1
+  - interactive text environment: 1
+  - simulated embodied task: 1
+  - bona fide presentation: 1
+  - presentation attack: 1
+  - spoken words and phrase: 1
+  - cited passage: 1
+  - journalist reply: 1
+  - challenge detail: 1
+  - post date: 1
+  - post user: 1
+  - post url: 1
+  - ocr token: 1
+  - physical parameter: 1
+  - company logo: 1
+  - company name: 1
+  - material sample: 1
+  - detector element: 1
+  - generator particle: 1
+  - reconstructed particle: 1
+  - coordinate transform: 1
+  - game object: 1
+  - single cell rna sequencing: 1
+  - tpm value: 1
+  - vehicle tracking: 1
+  - vehicle detection: 1
+  - self reported tv consumption: 1
+  - twitter username: 1
+  - politician name: 1
+  - political party affiliation: 1
+  - metric type: 1
+  - header table: 1
+  - nonverbal vocalization: 1
+  - environmental acoustic: 1
+  - script sentiment: 1
+  - vocal interaction: 1
+  - topic prompt: 1
+  - dialogue act segment: 1
+  - dialogue act correspondence: 1
+  - java method: 1
+  - javadoc comment: 1
+  - log translation: 1
+  - county level case count: 1
+  - national level case count: 1
+  - hate speech category: 1
+  - evaluation text set: 1
+  - lexical resource: 1
+  - domain specific vocabulary: 1
+  - usenet newsgroup: 1
+  - basic level category: 1
+  - concreteness rating: 1
+  - jet feature list: 1
+  - train platform scenario: 1
+  - cine mri: 1
+  - segmented brain anatomy: 1
+  - subjective statement: 1
+  - citation purpose: 1
+  - arterial flow velocity: 1
+  - luminal area: 1
+  - cardiovascular property: 1
+  - ct pulmonary angiogram: 1
+  - stuttering event: 1
+  - annotator agreement level: 1
+  - orthographic word: 1
+  - chemical inventory: 1
+  - ml metric: 1
+  - colmap output: 1
+  - step by step solution: 1
+  - cosmological n body simulation: 1
+  - design parameter: 1
+  - poetic verse: 1
+  - poetic meter: 1
+  - historical age: 1
+  - gene disease association: 1
+  - genetic association study: 1
+  - vowel phonation: 1
+  - number counting: 1
+  - procedural box2d bipedal walker: 1
+  - procedural parkour environment: 1
+  - regulatory reference: 1
+  - highway driving scenario: 1
+  - darija english translation: 1
+  - syntactic categorization: 1
+  - spellings variation: 1
+  - verb to noun correspondence: 1
+  - masculine to feminine correspondence: 1
+  - verb conjugation: 1
+  - tweet reply: 1
+  - hardware performance metric: 1
+  - architecture specification: 1
+  - mutation profile: 1
+  - cross linguistic polysemy: 1
+  - person recognition: 1
+  - spoken dialect: 1
+  - dialect transcription: 1
+  - standard german reference: 1
+  - aligned paragraph: 1
+  - original paragraph: 1
+  - paraphrased paragraph: 1
+  - commonsense assertion: 1
+  - paragraph rationale: 1
+  - article violation: 1
+  - silver rationale: 1
+  - gold rationale: 1
+  - hotel check in record: 1
+  - masked city name: 1
+  - comic strip: 1
+  - funny skit: 1
+  - stand up routine: 1
+  - funny podcast: 1
+  - sitcom script: 1
+  - sitcom episode: 1
+  - laughter track: 1
+  - building identifier: 1
+  - floor identifier: 1
+  - wifi fingerprint: 1
+  - yaw angle: 1
+  - arxiv preprint: 1
+  - graduation thesis: 1
+  - emotional song: 1
+  - lexically matched statement: 1
+  - individuals with diverse emotion: 1
+  - individuals of various age: 1
+  - onfocus detection: 1
+  - pmhc panel: 1
+  - t cell repertoire: 1
+  - hla type: 1
+  - cmv serostatu: 1
+  - inference rule: 1
+  - webpage dom: 1
+  - underwater images with marine snow: 1
+  - zip code level broadband coverage: 1
+  - error range estimate: 1
+  - general stunt: 1
+  - internet wins fail: 1
+  - trick shot: 1
+  - event event relation: 1
+  - additional page: 1
+  - mirror reflection: 1
+  - opaque object: 1
+  - dialect variation: 1
+  - aerial footage: 1
+  - political language: 1
+  - dysarthric speech command: 1
+  - healthy speech command: 1
+  - non command: 1
+  - cherry tree structure: 1
+  - dynamic object cluster: 1
+  - government report: 1
+  - movie name: 1
+  - animal behavior: 1
+  - humanitarian category: 1
+  - soft body deformation: 1
+  - manipulator action: 1
+  - impression detail: 1
+  - handwritten letter: 1
+  - json formatted analysis result: 1
+  - etymological entry: 1
+  - pronoun translation: 1
+  - power trace: 1
+  - observation space: 1
+  - spirometer reading: 1
+  - baseline fvc: 1
+  - lexical change: 1
+  - syntactic change: 1
+  - thematic change: 1
+  - compositional change: 1
+  - slot type: 1
+  - brain benchmark: 1
+  - repetitive action sound: 1
+  - english transcript: 1
+  - witness testimonial: 1
+  - positive statement: 1
+  - negated statement: 1
+  - occupations statement: 1
+  - animals statement: 1
+  - culture statement: 1
+  - conceptnet mapped statement: 1
+  - item property: 1
+  - self reported emotion rating: 1
+  - external dimensional rating: 1
+  - oral presentation: 1
+  - electrodermal activity: 1
+  - forward optical flow: 1
+  - backward optical flow: 1
+  - labelled comment: 1
+  - follicular area: 1
+  - colloid area: 1
+  - background area: 1
+  - test response: 1
+  - manual transcription: 1
+  - structured answer: 1
+  - surrounding context: 1
+  - patent id: 1
+  - frames of human head and shoulder: 1
+  - error marking: 1
+  - post edits/correction: 1
+  - written content: 1
+  - machine readable language parse: 1
+  - makeup style: 1
+  - robot pushing object: 1
+  - practice notebook: 1
+  - oro facial gesture: 1
+  - political discourse: 1
+  - ids alarm: 1
+  - viewer choice: 1
+  - encrypted trace: 1
+  - hate tweet: 1
+  - counterspeech reply: 1
+  - trained neural network: 1
+  - holding statement: 1
+  - network centrality measurement: 1
+  - machine hardware configuration: 1
+  - resource usage statistic: 1
+  - machine count and scale: 1
+  - software metric: 1
+  - build result: 1
+  - fixed text typing: 1
+  - free text typing: 1
+  - gait walking: 1
+  - gait upstair: 1
+  - gait downstair: 1
+  - aggregate demand: 1
+  - appliance demand: 1
+  - parsed representation: 1
+  - drug name mapping: 1
+  - demographic survey response: 1
+  - credibility rating: 1
+  - gaze tracking: 1
+  - legal definition: 1
+  - player identity: 1
+  - team identity: 1
+  - game period: 1
+  - game clock: 1
+  - shot clock: 1
+  - instruction token: 1
+  - instruction vocab: 1
+  - start position: 1
+  - start rotation: 1
+  - reference path: 1
+  - geodesic distance: 1
+  - forward step: 1
+  - manual clustering: 1
+  - operating system log: 1
+  - citation network structure: 1
+  - robot platform: 1
+  - duplicate question retrieval: 1
+  - argument retrieval: 1
+  - tweet retrieval: 1
+  - biomedical ir: 1
+  - polyp class: 1
+  - cross lingual lexical concept: 1
+  - ted talk presentation: 1
+  - cartoon animal movement: 1
+  - app analysi: 1
+  - workflow trace: 1
+  - grasp quality metric: 1
+  - ble advertisement packet: 1
+  - ble beacon trace: 1
+  - radio broadcast: 1
+  - positive context: 1
+  - hard negative context: 1
+  - signal metric: 1
+  - spreading factor: 1
+  - virustotal report: 1
+  - workspace geometry: 1
+  - version control snapshot: 1
+  - timestamped global coordinate: 1
+  - navigation convention: 1
+  - development history: 1
+  - body index: 1
+  - joint angle: 1
+  - children conversation: 1
+  - source rating: 1
+  - head orientation: 1
+  - gaze direction: 1
+  - mobile robot navigation: 1
+  - geometrically diverse object: 1
+  - parallel normal voice: 1
+  - broadcasters location: 1
+  - viewers location: 1
+  - onomatopoeic word: 1
+  - environmental sound synthesi: 1
+  - connected component: 1
+  - material patch: 1
+  - workshop detail: 1
+  - message log: 1
+  - labelled ground truth: 1
+  - surface electromyographic activity: 1
+  - accident report: 1
+  - electrical current waveform: 1
+  - electrical voltage waveform: 1
+  - article link: 1
+  - economic activity volume: 1
+  - robot dynamic: 1
+  - navigation metric: 1
+  - code element: 1
+  - code metric: 1
+  - issue comment: 1
+  - postmortem analysi: 1
+  - problem categorization: 1
+  - supplemental tweet: 1
+  - email domain: 1
+  - project provenance: 1
+  - mitsuba xml file: 1
+  - speaker diarization: 1
+  - source code snippet: 1
+  - urban traffic simulation: 1
+  - autonomous driving visual: 1
+  - egocentric video snippet: 1
+  - temporal graph snapshot: 1
+  - fact check report: 1
+  - planar object tracking: 1
+  - origin to destination flow: 1
+  - geographic scale: 1
+  - automobile review: 1
+  - spoken review: 1
+  - cookie synchronization: 1
+  - device fingerprinting: 1
+  - invisible pixel based tracking: 1
+  - fmri brain response: 1
+  - roi specific brain response: 1
+  - whole brain voxel response: 1
+  - coarse visual hull reconstruction: 1
+  - volumetric stereo refinement: 1
+  - stereo audio mix: 1
+  - separated audio channel: 1
+  - third party embedding: 1
+  - think aloud transcript: 1
+  - episode transcript: 1
+  - commit author id: 1
+  - group id: 1
+  - device traffic log: 1
+  - vendor traffic pattern: 1
+  - category traffic analysi: 1
+  - reproducible container: 1
+  - crowd simulation: 1
+  - robot navigation: 1
+  - music style: 1
+  - range azimuth doppler tensor: 1
+  - room coordinate: 1
+  - navigation path: 1
+  - file fragment: 1
+  - malware executable: 1
+  - manipulation relationship: 1
+  - hcp instance: 1
+  - eye movement ground truth: 1
+  - automatic em classification algorithm: 1
+  - norm violation category: 1
+  - defect report: 1
+  - duplicate defect relationship: 1
+  - conjunction data message: 1
+  - event identification: 1
+  - spoken language subtitle: 1
+  - csv feature file: 1
+  - faulty app: 1
+  - fixed app: 1
+  - mal activity report: 1
+  - ip address: 1
+  - geo location: 1
+  - autonomous system number: 1
+  - types of mal activity: 1
+  - official report: 1
+  - multiagent game: 1
+  - process log: 1
+  - people photograph: 1
+  - morphosyntactic specification: 1
+  - morphosyntactic lexica: 1
+  - comparable text corpus: 1
+  - foreground sketch: 1
+  - background sketch: 1
+  - experiment parameter: 1
+  - reliability template: 1
+  - tissue patch: 1
+  - binary diagnosi: 1
+  - histopathologist diagnosi: 1
+  - grid view: 1
+  - math lexeme: 1
+  - audiovisual repetition counting: 1
+  - acquisition protocol: 1
+  - meter reading: 1
+  - license plate number: 1
+  - listening event: 1
+  - extraction and parsing script: 1
+  - indoor daily activity: 1
+  - scroll interaction: 1
+  - land cover category: 1
+  - spoken language transcript: 1
+  - outcome report: 1
+  - biometric measurement: 1
+  - sleep metric: 1
+  - species observation: 1
+  - land cover: 1
+  - debate transcript: 1
+  - query intent category: 1
+  - wikified entity: 1
+  - topic category: 1
+  - slide deck: 1
+  - future work: 1
+  - information extraction result: 1
+  - animation triplet: 1
+  - terahertz imaging: 1
+  - x-ray images of wheat kernel: 1
+  - retouched portrait photo: 1
+  - pairwise preference: 1
+  - manually annotated story: 1
+  - auto constructed test example: 1
+  - eye images with corrective eyewear: 1
+  - retouched photograph: 1
+  - behavioral observation app: 1
+  - competency question template: 1
+  - sparql owl query template: 1
+  - dialogue state tracking: 1
+  - hormonal therapy: 1
+  - menopausal status: 1
+  - tumor size: 1
+  - tumor grade: 1
+  - number of positive node: 1
+  - progesterone receptor: 1
+  - estrogen receptor: 1
+  - recurrence free survival time: 1
+  - censoring indicator: 1
+  - ycb object: 1
+  - contact wrench: 1
+  - reaction gif: 1
+  - gleason grade: 1
+  - temporal action instance: 1
+  - fault indicator: 1
+  - target answer: 1
+  - animal pose: 1
+  - network performance: 1
+  - meteorological variable: 1
+  - nested named entity: 1
+  - lexical normalization: 1
+  - artistic imagery: 1
+  - paraphrase adversaries from word scrambling: 1
+  - cross lingual natural language inference: 1
+  - query ad matching: 1
+  - web page ranking: 1
+  - hierarchical pixel wise ground truth: 1
+  - abstractive text summarization: 1
+  - answer aware question generation: 1
+  - conversational question answering: 1
+  - personalizing dialogue: 1
+  - device variation: 1
+  - challenging condition: 1
+  - polyphonic soundscape: 1
+  - finite element analysis result: 1
+  - information need: 1
+  - relevance assessment: 1
+  - solar radiance value: 1
+  - evaluation protocol: 1
+  - paraphrased answer: 1
+  - nested mention: 1
+  - reflectance spectrum: 1
+  - self assessment rating: 1
+  - music video extract: 1
+  - misspelled word: 1
+  - correct word: 1
+  - drug usage: 1
+  - diagnosis and treatment method: 1
+  - chest ct images for covid-19: 1
+  - ultrasound tongue imaging: 1
+  - cross lingual mapping: 1
+  - bridging utterance: 1
+  - in game goal: 1
+  - threat report: 1
+  - mouse brain mri: 1
+  - mouse cerebellar mri: 1
+  - reconstructed neuron: 1
+  - proofread cell: 1
+  - heat map visualization: 1
+  - commonsense reasoning scenario: 1
+  - knowledge domain: 1
+  - numeracy scenario: 1
+  - issue ticket: 1
+  - first person vision: 1
+  - ultrasound images of the tongue: 1
+  - reply selection: 1
+  - reply generation: 1
+  - classical chinese poetry line: 1
+  - psychological survey item: 1
+  - twitter message: 1
+  - ukiyo e painting: 1
+  - faces in painting: 1
+  - tool chain script: 1
+  - reasoning concept: 1
+  - contradictory claim: 1
+  - streamer dialogue: 1
+  - live stream footage: 1
+  - knowledge base: 1
+  - cartesian coordinate: 1
+  - target word: 1
+  - substitute word: 1
+  - error rate: 1
+  - binary fingerprint: 1
+  - min entropy estimation result: 1
+  - sql query template: 1
+  - sanskrit shloka: 1
+  - in scope intent: 1
+  - court case: 1
+  - expert explanation: 1
+  - thesis statement: 1
+  - hate speech classification: 1
+  - aggressiveness classification: 1
+  - target classification: 1
+  - rectified surface crop: 1
+  - shape index: 1
+  - equivalent rotation: 1
+  - original fact: 1
+  - mutated claim: 1
+  - gyroscope log: 1
+  - international relations network: 1
+  - task based interaction: 1
+  - propaganda technique: 1
+  - nuclear phenotype: 1
+  - security protocol: 1
+  - relational table: 1
+  - grapheme level lyric: 1
+  - syllable and phoneme level lyric: 1
+  - note and syllable timing: 1
+  - reaction class: 1
+  - standardized medical terminology: 1
+  - spatio temporal action detection: 1
+  - community structure: 1
+  - survey instrument: 1
+  - anonymized response: 1
+  - exposure history: 1
+  - disease severity indicator: 1
+  - underlying medical condition: 1
+  - risk behavior: 1
+  - financial agreement: 1
+  - relationship type: 1
+  - sports genre: 1
+  - naming convention: 1
+  - solar power output: 1
+  - day ahead forecast: 1
+  - 4-hour ahead forecast: 1
+  - em imagery: 1
+  - photographic style: 1
+  - translated event phrase: 1
+  - intents and reaction: 1
+  - naive poetry: 1
+  - masked token: 1
+  - morphosyntactic value: 1
+  - intermediate render layer: 1
+  - clause embedding predicate: 1
+  - individual person crop: 1
+  - reference certificate: 1
+  - houdini obj file: 1
+  - football highlight: 1
+  - production rate: 1
+  - lexical semantic shift: 1
+  - cardiac pulse: 1
+  - blood oxygenation: 1
+  - soccer simulation: 1
+  - biochemical marker: 1
+  - spelling error: 1
+  - individual tree id: 1
+  - color compressed film still: 1
+  - handwritten form: 1
+  - handwritten keyword: 1
+  - handwritten alphabet: 1
+  - metar string: 1
+  - emotional dialogue: 1
+  - lexical translation task: 1
+  - city layout: 1
+  - organization information sign: 1
+  - 1d trace: 1
+  - water meter reading: 1
+  - coordinates of display: 1
+  - sense identifier: 1
+  - bayesian network diagram: 1
+  - intrusion alert: 1
+  - team log: 1
+  - body measurement: 1
+  - geolocated contributor count: 1
+  - pipeline stage count: 1
+  - precipitation estimate: 1
+  - foreground object: 1
+  - rationality labeling: 1
+  - sense annotated word: 1
+  - atomic force: 1
+  - algorithm implementation: 1
+  - blood pressure: 1
+  - multitrack pianoroll: 1
+  - computer generated sketch: 1
+  - simulated human activity: 1
+  - baseline dataset: 1
+  - rule based augmentation dataset: 1
+  - test dataset: 1
+  - friction coefficient: 1
+  - distance traveled: 1
+  - surface temperature: 1
+  - sports commentary: 1
+  - em image volume: 1
+  - plaintiffs claim: 1
+  - court debate dialogue: 1
+  - graph topology: 1
+  - country name: 1
+  - local currency value: 1
+  - exchange rate: 1
+  - usd price: 1
+  - items sold: 1
+  - questions count: 1
+  - positive feedback: 1
+  - neutral feedback: 1
+  - negative feedback: 1
+  - trust ratio: 1
+  - semantically neutral script: 1
+  - weather prediction: 1
+  - self driving car vehicle motion prediction: 1
+  - instance id: 1
+  - bangla word: 1
+  - bangla paragraph: 1
+  - cwe type: 1
+  - vulnerability fixing commit: 1
+  - household activity: 1
+  - environment perception: 1
+  - full body control decision: 1
+  - optimized human 3d joint: 1
+  - editor interaction: 1
+  - cellular automata simulation: 1
+  - undecided voter proportion: 1
+  - energy value: 1
+  - partial charge: 1
+  - dipeptide structure: 1
+  - protonation state: 1
+  - leon3 beebs finegrain: 1
+  - leon3 use case finegrain: 1
+  - leon3 beebs beebs split: 1
+  - diagram logic form: 1
+  - experience tuple: 1
+  - midi chorale: 1
+  - arabic newswire: 1
+  - chinese newswire: 1
+  - chinese broadcast news: 1
+  - chinese broadcast conversation: 1
+  - english newswire: 1
+  - english broadcast news: 1
+  - english broadcast conversation: 1
+  - structured address: 1
+  - transmission succes: 1
+  - license plate identification: 1
+  - coordinate list: 1
+  - code edit: 1
+  - underwater farm object: 1
+  - article theme: 1
+  - academic publication: 1
+  - character level span: 1
+  - force torque reading: 1
+  - joint effort: 1
+  - annotator preference: 1
+  - informative noun: 1
+  - page page network: 1
+  - monthly traffic: 1
+  - color imagery: 1
+  - active fluorescence imagery: 1
+  - three dimensional structure: 1
+  - environmental measurement: 1
+  - node identifier: 1
+  - training data entity alignment: 1
+  - validation data entity alignment: 1
+  - test data entity alignment: 1
+  - training data dangling entity: 1
+  - validation data dangling entity: 1
+  - test data dangling entity: 1
+  - comparison relation: 1
+  - environmental audio sample: 1
+  - artist similarity: 1
+  - ego vehicle interaction: 1
+  - knot embedding: 1
+  - anime/manga style character illustration: 1
+  - coco compliant human keypoint: 1
+  - alternative answer: 1
+  - ordered categorical attribute: 1
+  - indicator variable: 1
+  - predicted neural response: 1
+  - shuffled neural response: 1
+  - design template: 1
+  - treatment parameter: 1
+  - physiological variable: 1
+  - channel measurement: 1
+  - distance resolution: 1
+  - beam angle: 1
+  - rigidity ratio array: 1
+  - force displacement curve: 1
+  - finite element simulation result: 1
+  - fused mesh: 1
+  - group dialogue: 1
+  - comparison discussion: 1
+  - remote sensing category: 1
+  - auditory local field potential: 1
+  - evoked multi unit activity: 1
+  - local field potential: 1
+  - identity reference: 1
+  - qualitative content analysi: 1
+  - affordance category: 1
+  - screen summarization: 1
+  - wikipedia revision: 1
+  - household tasks simulation: 1
+  - gender alternative translation: 1
+  - forum comments and reply: 1
+  - online q&a exchange: 1
+  - unknown triple: 1
+  - reasoning pattern: 1
+  - processing script: 1
+  - sports activity: 1
+  - call option quotation: 1
+  - security analysi: 1
+  - anonymized identifier: 1
+  - power line component: 1
+  - paper page: 1
+  - facial animation: 1
+  - deepfake action: 1
+  - full binary: 1
+  - code section: 1
+  - architecture json: 1
+  - mention type: 1
+  - court opinion: 1
+  - verbatim quote: 1
+  - typed phrase: 1
+  - screen size: 1
+  - typing time: 1
+  - typed position coordinate: 1
+  - isolated piano note: 1
+  - random pitch piano chord: 1
+  - usual musical piano chord: 1
+  - piano music piece: 1
+  - event flow: 1
+  - seizure video snippet: 1
+  - target variable: 1
+  - hyperparameter detail: 1
+  - training curve: 1
+  - task template: 1
+  - newspaper commentary: 1
+  - aboutness topic: 1
+  - noun and verb chunk: 1
+  - framenet frame element: 1
+  - wordnet sense tag: 1
+  - pittsburgh opinion: 1
+  - numerical reasoning process: 1
+  - ordinal scale response: 1
+  - broad discipline category: 1
+  - gender entry: 1
+  - creative habit tag: 1
+  - mailing list content: 1
+  - game environment: 1
+  - source code identifier: 1
+  - grammar pattern: 1
+  - context category: 1
+  - ct logged certificate: 1
+  - certificate log: 1
+  - contour representation: 1
+  - diffuse render: 1
+  - sketch render: 1
+  - interpretation note: 1
+  - voltage measurement: 1
+  - power density: 1
+  - resistance value: 1
+  - sodium borohydride concentration: 1
+  - catalyst loading: 1
+  - commonsense reasoning statement: 1
+  - commonsense story: 1
+  - color scale variation: 1
+  - internet meme: 1
+  - code intent: 1
+  - assembly code snippet: 1
+  - source image patch: 1
+  - target image patch: 1
+  - side effect: 1
+  - storage condition: 1
+  - hand hygiene action: 1
+  - stylistic lexical cue: 1
+  - spherical panorama: 1
+  - mathematics problem statement: 1
+  - log statement: 1
+  - code summarization: 1
+  - documentation translation: 1
+  - clone detection: 1
+  - defect detection: 1
+  - cloze test: 1
+  - code repair: 1
+  - code to code translation: 1
+  - remission value: 1
+  - student review: 1
+  - aspect rating: 1
+  - variables list: 1
+  - countries scientific relative production: 1
+  - code mixed answer: 1
+  - sewing pattern: 1
+  - fact synset: 1
+  - random background: 1
+  - flow field: 1
+  - falling snow: 1
+  - accumulated snow: 1
+  - consumer price index: 1
+  - industrial production: 1
+  - nominal gnp: 1
+  - interest rate: 1
+  - nominal wage: 1
+  - gnp deflator: 1
+  - money stock: 1
+  - gnp per capita: 1
+  - biomedical factual knowledge triple: 1
+  - class documentation: 1
+  - event knowledge base: 1
+  - neural spiking activity: 1
+  - projected 3d curve: 1
+  - quantum reaction rate constant: 1
+  - emotion cause word: 1
+  - source code function: 1
+  - episode recap: 1
+  - diagnosis confirmation detail: 1
+  - view perspective: 1
+  - network log: 1
+  - network traffic metric: 1
+  - cosmological and astrophysical parameter: 1
+  - procedurally generated weak supervision source: 1
+  - hair sketch: 1
+  - hair matte: 1
+  - dynamic systems simulation: 1
+  - control tasks simulation: 1
+  - breakthrough curve: 1
+  - study introduction: 1
+  - whpa prediction explanation: 1
+  - open domain dialogue: 1
+  - offensive language: 1
+  - dense representation: 1
+  - anomalous object: 1
+  - uncertainty estimate: 1
+  - ppt slide: 1
+  - old newspaper: 1
+  - grounded statement: 1
+  - annual report section: 1
+  - literature review: 1
+  - customer interaction: 1
+  - skill acquisition task: 1
+  - co predication acceptability judgement: 1
+  - strawberry growth stage: 1
+  - anomalous strawberry instance: 1
+  - conference name: 1
+  - knowledge graph structure: 1
+  - store name: 1
+  - collection section: 1
+  - unmanned aerial vehicle simulation: 1
+  - aspect category opinion sentiment quadruple: 1
+  - auditory evoked field: 1
+  - motor beta power: 1
+  - typelogical derivation: 1
+  - binary mask of the flooded area: 1
+  - metadata spreadsheet: 1
+  - comic page: 1
+  - comic book panel: 1
+  - knowledge tuple: 1
+  - howto guide: 1
+  - scenario animation: 1
+  - model architecture: 1
+  - training parameter: 1
+  - circuit diagram: 1
+  - flight data recorder reading: 1
+  - artistic human face: 1
+  - energy consumption value: 1
+  - electromagnetic measurement: 1
+  - segmented handwritten symbol: 1
+  - fine grained recognition: 1
+  - remote sensing: 1
+  - handwriting recognition: 1
+  - pareto front coordinate: 1
+  - benchmark challenge: 1
+  - worm classification: 1
+  - worm motion amplitude: 1
+  - academic citation: 1
+  - evidence snippet: 1
+  - animal shape: 1
+  - triangular faces list: 1
+  - articulated body shape: 1
+  - partial shape: 1
+  - generated language: 1
+  - table text content: 1
+  - complex background motion: 1
+  - skeleton based action: 1
+  - turn level goal: 1
+  - session event: 1
+  - financial transaction: 1
+  - credit card issuance: 1
+  - building footprint vector: 1
+  - project background: 1
+  - chit chat: 1
+  - accelerator design: 1
+  - continuous control task: 1
+  - reward free pre training: 1
+  - downstream task adaptation: 1
+  - background element: 1
+  - annotation guideline: 1
+  - parasitized cell: 1
+  - uninfected cell: 1
+  - red blood cell: 1
+  - ring cell: 1
+  - schizont cell: 1
+  - trophozoite cell: 1
+  - mouse grooming behavior: 1
+  - mouse movement: 1
+  - annotator disagreement: 1
+  - chemical mention: 1
+  - gene mention: 1
+  - binary relationship: 1
+  - ventilation rate: 1
+  - population number: 1
+  - event duration: 1
+  - knn index: 1
+  - neural network architecture: 1
+  - velocity component: 1
+  - temperature anomaly: 1
+  - density anomaly: 1
+  - biomedical entity: 1
+  - evaluation prompt: 1
+  - lego brick pile: 1
+  - brick identifier: 1
+  - label matrice: 1
+  - theoretical audio demonstration: 1
+  - reference string: 1
+  - tv show synopsis: 1
+  - crossword solution: 1
+  - code mixed tweet: 1
+  - timing info: 1
+  - training dataset: 1
+  - model dump: 1
+  - train test partition: 1
+  - connection metric: 1
+  - simulated garment: 1
+  - smpl body: 1
+  - conversation utterance: 1
+  - translation paraphrase: 1
+  - student learning trace: 1
+  - summary intent: 1
+  - state name: 1
+  - cqa thread: 1
+  - smpl body pose parameter: 1
+  - temporal pattern: 1
+  - change point: 1
+  - historical letter: 1
+  - demographic characteristic: 1
+  - fibrosis stage transition: 1
+  - in context learning prompt: 1
+  - people using gun: 1
+  - people using phone: 1
+  - shooting drill: 1
+  - armed robbery: 1
+  - gun review: 1
+  - simulated teacher preference: 1
+  - html structure: 1
+  - css style: 1
+  - abstract diagram: 1
+  - subjective video quality judgment: 1
+  - parallel example: 1
+  - trigger word: 1
+  - body segment: 1
+  - ancient book script: 1
+  - time varying geometry: 1
+  - benchmarking guideline: 1
+  - wiki knowledge base: 1
+  - diagnostic passage: 1
+  - codebook protocol: 1
+  - frame to frame alignment: 1
+  - debate topic: 1
+  - debate argument: 1
+  - debate rebuttal: 1
+  - debate conclusion: 1
+  - colorectal biopsy slide: 1
+  - polypectomy slide: 1
+  - diagnostic category: 1
+  - zero anaphora resolution: 1
+  - logical reconstruction: 1
+  - stochastic environment: 1
+  - power grid frequency: 1
+  - non rigid articulated object: 1
+  - stereo keyframe: 1
+  - run to failure trajectory: 1
+  - decision outcome: 1
+  - gpt-3 embedding: 1
+  - open access archive: 1
+  - legal opinion: 1
+  - oral argument: 1
+  - facial diffuse albedo patch: 1
+  - facial diffuse normals patch: 1
+  - facial specular albedo patch: 1
+  - facial specular normals patch: 1
+  - stereo colour imagery: 1
+  - everyday object motion: 1
+  - anomalous motion: 1
+  - gyroscope reading: 1
+  - repository documentation: 1
+  - naive sketch: 1
+  - stylized sketch: 1
+  - discourse segment: 1
+  - connective detection: 1
+  - discourse relation classification: 1
+  - puzzle statement: 1
+  - sensor pose: 1
+  - information status: 1
+  - discourse parse: 1
+  - eeg artifact - chewing: 1
+  - eeg artifact - electrode: 1
+  - eeg artifact - eye movement: 1
+  - eeg artifact - muscle: 1
+  - eeg artifact - shiver: 1
+  - manually annotated suctionable region: 1
+  - website url: 1
+  - lab result: 1
+  - manipulation view: 1
+  - bash syntax: 1
+  - written italian: 1
+  - spoken italian: 1
+  - network analysis result: 1
+  - mgmt promoter methylation status: 1
+  - context awarenes: 1
+  - disparities and depth: 1
+  - asl signer skeleton: 1
+  - morphological and articulatory classification: 1
+  - digital ink drawing: 1
+  - large poem: 1
+  - blackout poem: 1
+  - activity protocol: 1
+  - knowledge assessment: 1
+  - search behavior: 1
+  - interaction triplet: 1
+  - i/q time domain sample: 1
+  - fft based file: 1
+  - objects in the arab world: 1
+  - activities in the arab world: 1
+  - scenarios in the arab world: 1
+  - art from the arab world: 1
+  - unesco heritage sites in the arab world: 1
+  - data visualization: 1
+  - animated human: 1
+  - body part localisation: 1
+  - iot machine log: 1
+  - athlete movement: 1
+  - smooth landing: 1
+  - diverse scenario: 1
+  - physics explanation: 1
+  - coherence assessment: 1
+  - eye contact detection: 1
+  - neural vocoder output: 1
+  - website category: 1
+  - patent paragraph: 1
+  - bird species name: 1
+  - message attachment: 1
+  - motor movement: 1
+  - logical predicate: 1
+  - driver reasoning: 1
+  - temporal visual concept: 1
+  - wikidata entry: 1
+  - freebase entry: 1
+  - vocabulary card: 1
+  - common sense explanation: 1
+  - passerby interference: 1
+  - illumination change: 1
+  - wide camera rgb: 1
+  - ultra wide camera rgb: 1
+  - arkit camera pose: 1
+  - arkit scene reconstruction: 1
+  - study documentation: 1
+  - analysis note: 1
+  - web comment: 1
+  - software event log: 1
+  - method call hierarchy: 1
+  - floor plan drawing: 1
+  - app review: 1
+  - cross modal retrieval: 1
+  - grounded reasoning: 1
+  - grounded entailment: 1
+  - neural network model file: 1
+  - acquisition function comparison result: 1
+  - architected material optimization progres: 1
+  - abstract meaning representation: 1
+  - reference topic: 1
+  - iris images with clear contact lens: 1
+  - authentic iris images without contact lens: 1
+  - time lapse photograph: 1
+  - bioactivity metric: 1
+  - docker environment: 1
+  - data dependency: 1
+  - abstract painting: 1
+  - multilayer network structure: 1
+  - spreading process: 1
+  - binary masks of pedestrian: 1
+  - string edit operation: 1
+  - operation result: 1
+  - protein ligand complex: 1
+  - rice variety: 1
+  - grapevine leaf: 1
+  - feature explanation: 1
+  - decibel level: 1
+  - flame extinction detection: 1
+  - go term: 1
+  - localized clue: 1
+  - argumentative dialogue: 1
+  - recent post: 1
+  - matched user: 1
+  - sample info: 1
+  - metadata link: 1
+  - instance detail: 1
+  - color checker: 1
+  - 6d pose: 1
+  - community membership list: 1
+  - structured datatype: 1
+  - network statistic: 1
+  - volunteer engagement metric: 1
+  - engagement profile: 1
+  - article reference: 1
+  - experiment design: 1
+  - adaptive stopping criterion: 1
+  - misinformation statement: 1
+  - explanatory form: 1
+  - explanatory form ranking: 1
+  - participant response: 1
+  - music only: 1
+  - valence/arousal rating: 1
+  - contact date: 1
+  - contact time: 1
+  - hashed identifier: 1
+  - contact duration: 1
+  - contact distance: 1
+  - commit categorization: 1
+  - issue categorization: 1
+  - pipeline stage: 1
+  - problem category: 1
+  - problem cause: 1
+  - problem fix: 1
+  - problem symptom: 1
+  - project data for commit: 1
+  - project data for issue: 1
+  - robot control simulation: 1
+  - cluster mean: 1
+  - wind characteristic: 1
+  - other weather parameter: 1
+  - flight platform imagery: 1
+  - rotor speed: 1
+  - control input: 1
+  - touristic index: 1
+  - stock market report: 1
+  - merged room layout: 1
+  - geotagged location: 1
+  - histological image patch: 1
+  - math meme: 1
+  - sign language conversation: 1
+  - isolated sign demonstration: 1
+  - exercise demonstration: 1
+  - exercise error: 1
+  - small molecule structure: 1
+  - nucleic acid structure: 1
+  - ancient greek inscription: 1
+  - malware sample: 1
+  - benign sample: 1
+  - spoken conversation: 1
+  - speaker reflection: 1
+  - optimized node count: 1
+  - knowledge corpu: 1
+  - subreddit topic: 1
+  - fraud alert message: 1
+  - retweet link: 1
+  - hate speech class: 1
+  - apache access and error log: 1
+  - authentication log: 1
+  - dns log: 1
+  - vpn log: 1
+  - audit log: 1
+  - suricata log: 1
+  - horde log: 1
+  - exim log: 1
+  - system monitoring log: 1
+  - network traffic packet capture: 1
+  - vehicle trip record: 1
+  - protein expression level: 1
+  - phospholipid expression level: 1
+  - toxic statement: 1
+  - benign statement: 1
+  - music transcription: 1
+  - occlusion scenario: 1
+  - diverse body gesture: 1
+  - interaction experience: 1
+  - screen interaction: 1
+  - film trailer: 1
+  - radiology reading: 1
+  - car rendering: 1
+  - state changing action: 1
+  - radiology report section: 1
+  - exchange identifier: 1
+  - medication reconciliation: 1
+  - medication administration: 1
+  - discharge diagnosis: 1
+  - debiased nli sample: 1
+  - continuous variable: 1
+  - ynn answer: 1
+  - nanowire morphology: 1
+  - hd video triplet: 1
+  - histopathological confirmation: 1
+  - relative depth layer: 1
+  - age group classification: 1
+  - deep image prior: 1
+  - convolution filter: 1
+  - sensor fusion: 1
+  - story narrative: 1
+  - nighttime cityscape: 1
+  - underwater vessel sound: 1
+  - vessel detail: 1
+  - business event: 1
+  - knowledge grounded answer: 1
+  - call detail record: 1
+  - identity term: 1
+  - doodle drawing: 1
+  - issue detail: 1
+  - subject string: 1
+  - convolutional filter visualization: 1
+  - writer id: 1
+  - newswire excerpt: 1
+  - online forum excerpt: 1
+  - interview protocol: 1
+  - literary excerpt: 1
+  - critical analysi: 1
+  - urban landscape: 1
+  - city footage: 1
+  - within quotation mention: 1
+  - cartographic variable: 1
+  - binary column: 1
+  - geo localized vehicle and camera pose: 1
+  - tof measurement: 1
+  - game sound effect: 1
+  - unique word: 1
+  - specularities and reflection: 1
+  - mental workload rating: 1
+  - participant demographic: 1
+  - transaction indicator: 1
+  - template based utterance: 1
+  - channel sample: 1
+  - agent movement: 1
+  - cyclone track coordinate: 1
+  - cyclone event timeline: 1
+  - euclidean coordinate: 1
+  - simplicial complex: 1
+  - grasp rectangle: 1
+  - aerial video footage: 1
+  - vision language task: 1
+  - 6d pose of object: 1
+  - true energy value: 1
+  - energy overflow value: 1
+  - retinal fluid lesion: 1
+  - syllogistic premise: 1
+  - syllogistic conclusion: 1
+  - quadrilateral shaped instance: 1
+  - migration indicator: 1
+  - demographic indicator: 1
+  - sequence labeling: 1
+  - creative metaphor: 1
+  - warehouse 3d mapping: 1
+  - original utterance: 1
+  - corrected utterance: 1
+  - unstructured note: 1
+  - fake claim: 1
+  - lip synching: 1
+  - self sung song: 1
+  - reviewer response: 1
+  - acceptance outcome: 1
+  - food entity: 1
+  - generic event: 1
+  - animal behavior segment: 1
+  - autonomous vehicle road event: 1
+  - chinese idiom: 1
+  - korean language task: 1
+  - farmer declaration: 1
+  - gun detection: 1
+  - person detection: 1
+  - gun instance: 1
+  - domain specific intent: 1
+  - generic intent module: 1
+  - latex source: 1
+  - tokenized transcript: 1
+  - structured data entry: 1
+  - procedure labeling: 1
+  - colmap 3d reconstruction: 1
+  - claim source: 1
+  - claim type: 1
+  - participant profile: 1
+  - time taken: 1
+  - campus surveillance: 1
+  - vocal technique: 1
+  - essay prompt: 1
+  - replayed voice command: 1
+  - time window: 1
+  - occupancy grid: 1
+  - observation token: 1
+  - state index: 1
+  - political statement: 1
+  - field report: 1
+  - meteorological condition: 1
+  - detailed graph representation: 1
+  - spatial link: 1
+  - sentences with sentential negation: 1
+  - sentences with nobody or no one as subject: 1
+  - contrast sentences with somebody or someone: 1
+  - linguistic context variation: 1
+  - doppler signature: 1
+  - builder utterance: 1
+  - free text explanation: 1
+  - program detail: 1
+  - program statistic: 1
+  - semantically labeled 3d mesh: 1
+  - symbol type: 1
+  - anatomical mri: 1
+  - quality control assessment: 1
+  - wikipedia username: 1
+  - network structure: 1
+  - album detail: 1
+  - game title: 1
+  - food planning guide: 1
+  - general corpus: 1
+  - topic id: 1
+  - significant topic word: 1
+  - large scale attribute dataset: 1
+  - sensor value: 1
+  - congolese swahili translation: 1
+  - identifier name: 1
+  - counter argument: 1
+  - fallacy identification: 1
+  - inhaler actuation sound: 1
+  - job offer: 1
+  - temporal satellite observation: 1
+  - vehicle number plate: 1
+  - activity log: 1
+  - encoded dataset: 1
+  - homo lumo energy gap: 1
+  - tv and movie drama: 1
+  - sarcastic statement: 1
+  - sleep diary: 1
+  - monomer identifier: 1
+  - crime category: 1
+  - crime event detail: 1
+  - sustained vowel: 1
+  - optimization level: 1
+  - software binary: 1
+  - urban environment time lapse: 1
+  - stellar parameter: 1
+  - exoplanet parameter: 1
+  - radial velocity curve: 1
+  - photometric light curve: 1
+  - matting foreground: 1
+  - complex phrase: 1
+  - genetic parameter: 1
+  - source post: 1
+  - main therapist behaviour: 1
+  - client talk type: 1
+  - transcript id: 1
+  - mi quality: 1
+  - variable mention: 1
+  - gridworld visualization: 1
+  - play script: 1
+  - github repository: 1
+  - test suite: 1
+  - particle jet: 1
+  - machine transcription: 1
+  - p300 power: 1
+  - vep power: 1
+  - rich 3d environment: 1
+  - photo critique: 1
+  - reconstructed image domain: 1
+  - hotel sale: 1
+  - daily occupancy: 1
+  - hotel demand: 1
+  - hotel revenue: 1
+  - pull request title: 1
+  - table name: 1
+  - districting plan: 1
+  - census statistic: 1
+  - location coordinate: 1
+  - visit frequency: 1
+  - visit duration: 1
+  - world state: 1
+  - protein target: 1
+  - small molecule: 1
+  - protein ligand crystal structure: 1
+  - chemical smile: 1
+  - solubility value: 1
+  - lipophilicity value: 1
+  - small molecule inhibitor: 1
+  - solubility limit: 1
+  - solvation free energy: 1
+  - solvation enthalpy: 1
+  - aqueous solubility: 1
+  - biological endpoint: 1
+  - road anomaly: 1
+  - tls fingerprint: 1
+  - explanation method: 1
+  - persistence diagram: 1
+  - dbpedia entity: 1
+  - dbpedia type: 1
+  - music player command: 1
+  - randomly generated shape: 1
+  - strain energy change: 1
+  - technical factor: 1
+  - fundamental factor: 1
+  - story planning: 1
+  - highlighted story: 1
+  - written reflection: 1
+  - reflectance edge: 1
+  - illumination edge: 1
+  - normal edge: 1
+  - student reflection: 1
+  - coding scheme: 1
+  - coded reflection: 1
+  - instructional content: 1
+  - spatial soundscape: 1
+  - augmented soundscape stimulus: 1
+  - subjective perceptual response: 1
+  - sky video footage: 1
+  - code base: 1
+  - looking time interval: 1
+  - infantry simulation: 1
+  - defense scenario: 1
+  - defensive armored simulation: 1
+  - sequential episodic buffer: 1
+  - financial metric: 1
+  - printed table: 1
+  - game state snapshot: 1
+  - aesthetic rating: 1
+  - page segment: 1
+  - persuasive dialogue: 1
+  - pddl task: 1
+  - linguistic construct: 1
+  - handwritten bangla compound character: 1
+  - game dialogue: 1
+  - player role: 1
+  - inflected word: 1
+  - pronoun resolution: 1
+  - processed content: 1
+  - article topic: 1
+  - political bias numeric: 1
+  - crowd activity: 1
+  - driving simulation replay: 1
+  - chemical named entity: 1
+  - mesh term: 1
+  - blood pressure reading: 1
+  - dosage amount: 1
+  - parkour technique: 1
+  - information visualisation: 1
+  - phrase similarity: 1
+  - phrase retrieval: 1
+  - phrase sense disambiguation: 1
+  - external knowledge: 1
+  - overlapping image view: 1
+  - graph classification: 1
+  - graph regression: 1
+  - witness statement: 1
+  - reflective essay: 1
+  - meta referential game: 1
+  - political party: 1
+  - time elapsed: 1
+  - total mandate: 1
+  - available mandate: 1
+  - num parish: 1
+  - num parishes approved: 1
+  - blank vote: 1
+  - null vote: 1
+  - total voter: 1
+  - pre blank vote: 1
+  - pre null vote: 1
+  - pre total voter: 1
+  - valid votes percentage: 1
+  - final mandate: 1
+  - data acquisition time: 1
+  - videos with effects and distortion: 1
+  - calibration method: 1
+  - participant index: 1
+  - stimulus index: 1
+  - weaponized violence: 1
+  - tracked mesh: 1
+  - unwrapped texture: 1
+  - spatially filtered eeg: 1
+  - behavioral response: 1
+  - participant stimulus assignment: 1
+  - authorship classification: 1
+  - dialect sample: 1
+  - survey statistic: 1
+  - game board: 1
+  - production variable: 1
+  - filler word: 1
+  - non filler event: 1
+  - realistic environment: 1
+  - table tennis game: 1
+  - in game event: 1
+  - impedance pneumography: 1
+  - subject parameter: 1
+  - opinion content: 1
+  - gas furnace measurement: 1
+  - conference poster: 1
+  - gtfs data representation: 1
+  - bus stop spacing: 1
+  - transit network segment: 1
+  - bokeh effect photo: 1
+  - textual cue: 1
+  - random exposure: 1
+  - resting state functional brain imaging: 1
+  - emotional development survey: 1
+  - cognitive development assessment: 1
+  - mental health questionnaire: 1
+  - substance use survey: 1
+  - gender identity and sexual health survey: 1
+  - environmental factors assessment: 1
+  - bio specimen: 1
+  - neuropsychological assessment: 1
+  - anime character face: 1
+  - author id: 1
+  - matching criterion: 1
+  - validation status: 1
+  - keywords and hashtag: 1
+  - narrative prompt: 1
+  - response variable: 1
+  - signal timing: 1
+  - lexical semantic database: 1
+  - gymnastics routine: 1
+  - cyber threat intelligence: 1
+  - adversarial technique: 1
+  - screening result: 1
+  - json index: 1
+  - data split: 1
+  - charge density: 1
+  - transceiver location: 1
+  - general practitioner entry: 1
+  - specialists letter: 1
+  - discharge letter: 1
+  - mixed race face: 1
+  - household object: 1
+  - signal visualization: 1
+  - biological scientific abstract: 1
+  - geometric primitive: 1
+  - survey based response item: 1
+  - psychometric measure: 1
+  - trajectory detail: 1
+  - delivery log: 1
+  - interest point: 1
+  - quantum mechanical property: 1
+  - gnss coordinate: 1
+  - wifi ftm measurement: 1
+  - problem explanation: 1
+  - gold coefficient alignment: 1
+  - equation system: 1
+  - 2-hop subgraph: 1
+  - internet censorship test request: 1
+  - network interference detection: 1
+  - complex entity: 1
+  - long tail entity: 1
+  - spoken explanation: 1
+  - educational figure: 1
+  - bug introducing commit link: 1
+  - bug fixing commit link: 1
+  - macular fovea coordinate: 1
+  - urban driving scenario: 1
+  - structured citation: 1
+  - code span: 1
+  - dermatological photograph: 1
+  - anomalous pattern: 1
+  - academic field: 1
+  - demographic statistic: 1
+  - village and neighborhood location: 1
+  - impact event measurement: 1
+  - chapter category: 1
+  - monologue performance: 1
+  - spoken monologue: 1
+  - incident detail: 1
+  - wikipedia paragraph: 1
+  - vocal burst: 1
+  - mean arterial pressure: 1
+  - synthesis parameter: 1
+  - signal modulation class: 1
+  - reverse geocoding output: 1
+  - emoji usage context: 1
+  - diagnosis generation: 1
+  - satellite pixel value: 1
+  - recipe step: 1
+  - scenario illustration: 1
+  - skiers performing giant slalom: 1
+  - drug combination result: 1
+  - ppg waveform: 1
+  - ppg heart rate: 1
+  - subject reaction: 1
+  - wi fi signal strength: 1
+  - chains of thought: 1
+  - urban road and highway lane: 1
+  - spam review: 1
+  - target utterance: 1
+  - chinese grammatical error: 1
+  - inpainting result: 1
+  - out of distribution object: 1
+  - inline formulae: 1
+  - display formulae: 1
+  - footnote reference number: 1
+  - silence with noise: 1
+  - attention target: 1
+  - doi identifier: 1
+  - benchmark script: 1
+  - hebrew word: 1
+  - morphological segment: 1
+  - internet domain: 1
+  - speaker segment: 1
+  - automatic speech recognition: 1
+  - phonetic alphabet: 1
+  - character decomposition: 1
+  - system response: 1
+  - hand object relation: 1
+  - movie genre: 1
+  - genetic mutation status: 1
+  - hand washing action: 1
+  - treatment detail: 1
+  - plasma sample: 1
+  - serum sample: 1
+  - numerical value: 1
+  - lexically distinct term: 1
+  - distractor term: 1
+  - paragraph to paragraph: 1
+  - import value: 1
+  - import quantity: 1
+  - riddle answer: 1
+  - explicit demonstration: 1
+  - implicit preference: 1
+  - gaze direction class: 1
+  - official transcript: 1
+  - manually revised transcript: 1
+  - automatically filtered transcript: 1
+  - automatically verbatimized transcript: 1
+  - partially occluded object: 1
+  - ir images of laminar turbulent flow: 1
+  - iot device traffic: 1
+  - lipogrammatic literature: 1
+  - particle mass: 1
+  - decay topology: 1
+  - table column: 1
+  - co speech gesture: 1
+  - speaker presentation: 1
+  - hyperspectral image patch: 1
+  - finger flexion: 1
+  - cue word: 1
+  - electrode position: 1
+  - microscopic images of human duodenum adenocarcinoma hutu 80 cell population: 1
+  - occupancy rate: 1
+  - meter price: 1
+  - track id: 1
+  - manual correction: 1
+  - file name: 1
+  - constellation coordinate: 1
+  - explanations and flag: 1
+  - reference imagery: 1
+  - laser altimeter reading: 1
+  - procedural 3d world: 1
+  - temporal action segment: 1
+  - grounded video question answer: 1
+  - task execution: 1
+  - environment interaction: 1
+  - fractured object mesh: 1
+  - drone image chip: 1
+  - confidence level: 1
+  - time period designation: 1
+  - page property: 1
+  - intermediate table: 1
+  - mechanistic premise: 1
+  - answer grounding region: 1
+  - expert classification: 1
+  - childrens story: 1
+  - generated ema representation: 1
+  - temperature field simulation: 1
+  - temperature log: 1
+  - registration year: 1
+  - body type: 1
+  - engine size: 1
+  - gearbox type: 1
+  - fuel type: 1
+  - vehicle price: 1
+  - seat number: 1
+  - door number: 1
+  - damage type: 1
+  - repair complexity: 1
+  - repair hour: 1
+  - repair cost: 1
+  - breakdown date: 1
+  - repair date: 1
+  - syntactic relationship: 1
+  - feature request: 1
+  - xyz format: 1
+  - financial sentiment analysi: 1
+  - structure boundary detection: 1
+  - discourse error: 1
+  - reinforcement learning environment: 1
+  - database documentation: 1
+  - demonstration replay: 1
+  - experience replay: 1
+  - legal will statement: 1
+  - spatial question answering: 1
+  - spatial role labeling: 1
+  - film node: 1
+  - film connection: 1
+  - academic paper keyword: 1
+  - behavioral descriptor: 1
+  - fitness metric: 1
+  - structured personal profile: 1
+  - machine translated prompt: 1
+  - indoor panorama: 1
+  - architecture diagram: 1
+  - methodology figure: 1
+  - optitrack measurement: 1
+  - well being metric: 1
+  - charts and diagram: 1
+  - misinformation claim: 1
+  - moving background: 1
+  - multiple subject interaction: 1
+  - atypical sketch: 1
+  - georeferenced orthoimage: 1
+  - chinese novel: 1
+  - graph illustration: 1
+  - electrical load measurement: 1
+  - relationship dynamic: 1
+  - click feedback: 1
+  - event coreference chain: 1
+  - subevent relation: 1
+  - ui screen: 1
+  - code switched utterance: 1
+  - vulnerability classification: 1
+  - vulnerability scoring: 1
+  - lattice diagram: 1
+  - fm video game music: 1
+  - synchronized voice: 1
+  - string instrument performance: 1
+  - stock market closing price: 1
+  - system documentation: 1
+  - model update: 1
+  - activity level: 1
+  - midi sample: 1
+  - pixel to vertex correspondence: 1
+  - printed chinese character: 1
+  - phasor measurement unit event: 1
+  - inter frame homography matrix: 1
+  - linguistic perturbation: 1
+  - pun explanation: 1
+  - pun keyword: 1
+  - pomdp environment: 1
+  - event xml diagram: 1
+  - salient object xml diagram: 1
+  - sea turtle photograph: 1
+  - encounter timestamp: 1
+  - translated prompt: 1
+  - rendered hands and forearm: 1
+  - panorama patch: 1
+  - classroom transcript: 1
+  - rural road condition: 1
+  - rural object: 1
+  - lighting variant: 1
+  - proper noun compound: 1
+  - context word: 1
+  - rewrite version: 1
+  - commonsense triplet: 1
+  - coreferring event passage: 1
+  - destructor passage: 1
+  - comparative analysi: 1
+  - use case: 1
+  - person images with same clothe: 1
+  - person images with different clothe: 1
+  - polish nlp task: 1
+  - intra sentence relation: 1
+  - discourse connective: 1
+  - bank account fraud detection: 1
+  - t1 weighted mri: 1
+  - hate speech detection: 1
+  - routine behavior: 1
+  - cryptocurrency address: 1
+  - contract classification: 1
+  - contract addres: 1
+  - benchmark scenario: 1
+  - industrial scenario: 1
+  - logical anomaly: 1
+  - plain language adaptation: 1
+  - motor task eeg: 1
+  - imagery task eeg: 1
+  - volumetric bi atrial geometry: 1
+  - left atrial geometry: 1
+  - gradient of the laplace equation: 1
+  - accuracy value: 1
+  - presupposition correction: 1
+  - geometry definition: 1
+  - geometry task: 1
+  - geometric constraint: 1
+  - scanned mesh: 1
+  - tangram shape: 1
+  - parsed html structure: 1
+  - customer response: 1
+  - connotative role explanation: 1
+  - exchange network structure: 1
+  - data collection instruction: 1
+  - academic figure: 1
+  - frame degradation: 1
+  - global transformation: 1
+  - fact checked claim: 1
+  - tv program: 1
+  - csi feedback: 1
+  - cinematography concept: 1
+  - category mapping: 1
+  - simile triplet: 1
+  - deepfake human face: 1
+  - familiarization deepfake face: 1
+  - advice intervention deepfake face: 1
+  - meta review: 1
+  - authors rebuttal letter: 1
+  - editorial decision: 1
+  - activity transition: 1
+  - dance motion: 1
+  - flow visualization: 1
+  - modal instance: 1
+  - french text sample: 1
+  - wikipedia hyperlink: 1
+  - code token: 1
+  - static analysis result: 1
+  - game prompt: 1
+  - punchline response: 1
+  - selected punchline: 1
+  - cell identity: 1
+  - signal quality: 1
+  - carrier aggregation: 1
+  - assigned resource block: 1
+  - packet error rate: 1
+  - interactive visual environment: 1
+  - wikipedia page view: 1
+  - kinect rgbd: 1
+  - gt mesh: 1
+  - party symbol: 1
+  - stem position: 1
+  - database table: 1
+  - adversarial table perturbation: 1
+  - agent behavior: 1
+  - voltage vs. capacity curve: 1
+  - degradation path: 1
+  - full body interaction: 1
+  - entailment relation: 1
+  - road scenery: 1
+  - seasonal change: 1
+  - driving footage: 1
+  - light field scene snapshot: 1
+  - general text generation: 1
+  - fact predicate: 1
+  - fact qualifier: 1
+  - train test split: 1
+  - questionnaire item: 1
+  - chemical comment: 1
+  - dietary consumption: 1
+  - environmental exposure biomarker measurement: 1
+  - survey weight: 1
+  - aesthetic image cropping: 1
+  - full body photo: 1
+  - ego vehicle pose: 1
+  - ring camera imagery: 1
+  - chemical synthesis route: 1
+  - wireless measurement: 1
+  - quality of service (qos) metric: 1
+  - abc notation: 1
+  - aviation accident report: 1
+  - inventor mention: 1
+  - edited response: 1
+  - abstract rule composition: 1
+  - house motif: 1
+  - five node cycle: 1
+  - carboxylase table: 1
+  - enolate table: 1
+  - rubisco forms table: 1
+  - reference sequences table: 1
+  - model specification: 1
+  - guitar clean tone: 1
+  - guitar effect: 1
+  - conclusion comparison: 1
+  - warning tone: 1
+  - baseline run: 1
+  - movement related eeg: 1
+  - physiological channel: 1
+  - task cue: 1
+  - hemodynamic response: 1
+  - breathing pattern: 1
+  - arithmetic task: 1
+  - directional arrow: 1
+  - audible cue: 1
+  - lip reading: 1
+  - biomedical relation: 1
+  - road name: 1
+  - week day: 1
+  - hour of day: 1
+  - road direction: 1
+  - number of lane: 1
+  - single obstacle avoidance: 1
+  - academic study: 1
+  - chatgpt answer: 1
+  - swiss german sign language: 1
+  - species table: 1
+  - gesture motion capture: 1
+  - biodiversity table: 1
+  - openai gym environment: 1
+  - reader emotion: 1
+  - weighted correlation: 1
+  - music aspect: 1
+  - toxicity subtype: 1
+  - modeled value: 1
+  - analogy entity: 1
+  - analogy relation: 1
+  - bev picture: 1
+  - sign language alphabet: 1
+  - sounding object: 1
+  - mathematical prompt: 1
+  - audible event: 1
+  - actions that sound: 1
+  - hand motion: 1
+  - encoded manuscript: 1
+  - ocr output: 1
+  - e z field: 1
+  - e x, e y, e z field: 1
+  - case study analysi: 1
+  - stereo camera calibration parameter: 1
+  - network flow metric: 1
+  - oronasal airflow: 1
+  - oxygen saturation: 1
+  - classification prediction: 1
+  - table tennis stroke: 1
+  - game moment: 1
+  - disease diagnosi: 1
+  - compliance documentation: 1
+  - point cloud visualization: 1
+  - inertial parameter: 1
+  - material note: 1
+  - scanned cover page: 1
+  - thesis and dissertation title: 1
+  - pre trained language model output: 1
+  - power delay profile: 1
+  - x-ray projection: 1
+  - piano chord: 1
+  - piano arpeggio: 1
+  - piano scale: 1
+  - vectorized reward: 1
+  - astronomical diagram: 1
+  - problem setup: 1
+  - track instance: 1
+  - graph edge: 1
+  - classification instance: 1
+  - weather station report: 1
+  - humidity level: 1
+  - precipitation amount: 1
+  - press briefing passage: 1
+  - formal theorem statement: 1
+  - ultrasonographic finding: 1
+  - residue index: 1
+  - intent detection: 1
+  - multiple view: 1
+  - bridge answer: 1
+  - main answer: 1
+  - tour name: 1
+  - tour link: 1
+  - coreference candidate: 1
+  - coreference option: 1
+  - anaphor reference: 1
+  - homonymy type: 1
+  - perturbation type: 1
+  - cognitive assessment: 1
+  - auditory stimulus: 1
+  - malware traffic: 1
+  - benign traffic: 1
+  - fluid dynamics simulation: 1
+  - solid fluid interaction simulation: 1
+  - force feedback: 1
+  - metadata dataframe: 1
+  - device configuration: 1
+  - log entry: 1
+  - device schematic: 1
+  - molecule bioassay activity record: 1
+  - conference abstract: 1
+  - scripted paragraph: 1
+  - nonscripted response: 1
+  - umls concept: 1
+  - textual transformation: 1
+  - evaluation survey: 1
+  - motion forecasting scenario: 1
+  - yaml format: 1
+  - markdown format: 1
+  - driver anger scale questionnaire: 1
+  - microscopy images of drosophila wing: 1
+  - graspable and non graspable region: 1
+  - judicial decision: 1
+  - intrinsic component: 1
+  - nouns and noun phrase: 1
+  - basic shape: 1
+  - ruling statement: 1
+  - instrumental music: 1
+  - street imagery: 1
+  - short phrase: 1
+  - exercise action: 1
+  - full garment mesh: 1
+  - frame level attribute: 1
+  - treatment indicator: 1
+  - treatment status: 1
+  - reporting procedure: 1
+  - screening statistic: 1
+  - bike flow statistic: 1
+  - adverse weather condition: 1
+  - external disturbance: 1
+  - internal sensor failure: 1
+  - cross sensor lidar: 1
+  - stock ticker: 1
+  - normalized price: 1
+  - basic statistic: 1
+  - tracking statistic: 1
+  - advanced statistic: 1
+  - pm2.5 level: 1
+  - dyadic conversation: 1
+  - linguistic background profile: 1
+  - r notebook: 1
+  - function invocation counts and trigger: 1
+  - function execution time distribution: 1
+  - application memory allocation distribution: 1
+  - search result page: 1
+  - farmland imagery: 1
+  - field identification: 1
+  - student behavior record: 1
+  - piano song: 1
+  - robot hand performance: 1
+  - upper body clothe: 1
+  - lower body clothe: 1
+  - ancient manuscript: 1
+  - amateur drawing: 1
+  - narrative instruction: 1
+  - driving simulation: 1
+  - simulated channel effect: 1
+  - digital modulation type: 1
+  - analog modulation type: 1
+  - english token: 1
+  - structured corpus example: 1
+  - email writing: 1
+  - grammar error correction: 1
+  - calibration value: 1
+  - order detail: 1
+  - shipping cost: 1
+  - payment type: 1
+  - customer location: 1
+  - mathematics topic: 1
+  - page link: 1
+  - daily visit: 1
+  - talk page diff: 1
+  - event name: 1
+  - person name: 1
+  - organization name: 1
+  - participant diary: 1
+  - sensor data from device: 1
+  - evaluation comment: 1
+  - handwritten document transcription: 1
+  - manual evaluation: 1
+  - srgb dark: 1
+  - srgb normal: 1
+  - standard workflow: 1
+  - bim modeling guideline: 1
+  - compliance checking instruction: 1
+  - long form response: 1
+  - domain name: 1
+  - driving drive: 1
+  - bid announcement: 1
+  - financial announcement: 1
+  - credit rating report: 1
+  - solution program: 1
+  - copy detection pattern: 1
+  - documentary source: 1
+  - long range pixel trajectory: 1
+  - retrieved step: 1
+  - retrieve negative: 1
+  - ontology node: 1
+  - ontology edge: 1
+  - spoken example: 1
+  - film script: 1
+  - contextual instruction answer: 1
+  - antenna position: 1
+  - antenna gain: 1
+  - persian questions and answer: 1
+  - quran recitation: 1
+  - geographic textual similarity: 1
+  - geotagged geographic elements tagging: 1
+  - geographic composition analysi: 1
+  - geographic where what cut: 1
+  - geographic entity alignment: 1
+  - symbolic situation program: 1
+  - web search action: 1
+  - vocal sample: 1
+  - mixed audio track: 1
+  - keypoint localization: 1
+  - annotator identifier: 1
+  - structural ensemble: 1
+  - working dataset: 1
+  - lotka volterra trajectory: 1
+  - three body trajectory: 1
+  - post content: 1
+  - loan repayment rate: 1
+  - race category: 1
+  - criminal history: 1
+  - jail and prison time: 1
+  - pomacea canaliculata egg: 1
+  - substitution suggestion: 1
+  - honeycombs in concrete: 1
+  - advice characteristic: 1
+  - participant answer: 1
+  - participant background: 1
+  - gold answer: 1
+  - wine rating: 1
+  - evaluation workbook: 1
+  - answers with citation: 1
+  - retrieval corpus: 1
+  - physics problem: 1
+  - chemistry problem: 1
+  - adding to cart: 1
+  - hand drawn character pose: 1
+  - synthesized character pose: 1
+  - intent/dialogue classification: 1
+  - aspect phrase: 1
+  - opinion reason: 1
+  - target term: 1
+  - learner essay: 1
+  - literary essay: 1
+  - model generated solution: 1
+  - subgraph counting: 1
+  - force profile: 1
+  - cultural heritage building: 1
+  - meeting note: 1
+  - lexical and syntactic analysi: 1
+  - extractive trigger: 1
+  - relational understanding: 1
+  - order sensitivity: 1
+  - infection report: 1
+  - icu occupancy report: 1
+  - infection statistic: 1
+  - icu occupancy statistic: 1
+  - epistemic reasoning problem: 1
+  - thorax ct projection: 1
+  - main tweet: 1
+  - main like: 1
+  - reply like: 1
+  - phrase pronunciation: 1
+  - retrieval result: 1
+  - city name: 1
+  - solution method: 1
+  - travel request: 1
+  - vehicle position: 1
+  - punctuation mark: 1
+  - student composition: 1
+  - business financial news: 1
+  - function probability: 1
+  - tango pose: 1
+  - tango orientation: 1
+  - annotator demographic: 1
+  - background music and sound effect: 1
+  - reference reconstruction: 1
+  - scanning parameter: 1
+  - cluster title: 1
+  - fashion item: 1
+  - aggregated transcription: 1
+  - mood assessment: 1
+  - self assessment: 1
+  - external assessment: 1
+  - primitive visual analogy: 1
+  - composite visual analogy: 1
+  - vertical bar chart: 1
+  - horizontal bar chart: 1
+  - scatter plot: 1
+  - dot plot: 1
+  - vaccine stance: 1
+  - complex intent: 1
+  - specialized tool: 1
+  - puzzle solution: 1
+  - bullet screen comment: 1
+  - angular velocity: 1
+  - linear acceleration: 1
+  - magnetic field: 1
+  - body dimension: 1
+  - egocentric human object interaction: 1
+  - badminton match footage: 1
+  - trial letter: 1
+  - trial response: 1
+  - urdu font: 1
+  - arabic words and numeral: 1
+  - urdu digit: 1
+  - urdu text line: 1
+  - hurricane category: 1
+  - monthly sales revenue: 1
+  - state abbreviation: 1
+  - spending metric: 1
+  - daily new death: 1
+  - daily new case: 1
+  - cumulative count: 1
+  - environmental disclosure: 1
+  - climate change nlu task: 1
+  - sar patch: 1
+  - clothing simulation: 1
+  - assistant response: 1
+  - prompter message: 1
+  - contextual dialogue: 1
+  - unsafe subaspect: 1
+  - dof setting: 1
+  - author presentation: 1
+  - joint rotation: 1
+  - local phase: 1
+  - foot contact: 1
+  - perceptual response: 1
+  - soundscape attribute translation: 1
+  - subjective evaluation: 1
+  - horizon line: 1
+  - information list: 1
+  - driving knowledge test: 1
+  - spike encoded digit: 1
+  - digit sum: 1
+  - structured report: 1
+  - sudoku instance: 1
+  - experiment log: 1
+  - description based question answer: 1
+  - creative/generative question answer: 1
+  - robot control traffic: 1
+  - domain aware prompt: 1
+  - clothing and accessory: 1
+  - mev activity: 1
+  - transaction analysi: 1
+  - exam problem: 1
+  - technical lecture: 1
+  - lecture transcript: 1
+  - stream of consciousnes: 1
+  - differential diagnosi: 1
+  - symptom hierarchy: 1
+  - reddit entry: 1
+  - context dpr embedding: 1
+  - backorder status: 1
+  - intermediate result: 1
+  - network configuration diagram: 1
+  - packet capture: 1
+  - device list: 1
+  - iot traffic trace: 1
+  - code coverage log: 1
+  - model fit: 1
+  - program documentation: 1
+  - moral scenario: 1
+  - facial emg: 1
+  - api instruction: 1
+  - size measurement: 1
+  - segmented foreground: 1
+  - propagation source: 1
+  - article type: 1
+  - contact event: 1
+  - educational course material: 1
+  - wiki page: 1
+  - ctf writeup: 1
+  - most representative point: 1
+  - noise percentage: 1
+  - cycle time: 1
+  - slot value: 1
+  - bitemporal satellite imagery: 1
+  - academic discipline response: 1
+  - examination response: 1
+  - patent drawing: 1
+  - animal vocalization: 1
+  - subjective video content: 1
+  - single image hdr reconstruction result: 1
+  - terrain state rgbd: 1
+  - volume scooped: 1
+  - ultrasonic vocalization: 1
+  - neurochemical measurement: 1
+  - conversation session: 1
+  - accessibility scan result: 1
+  - error count: 1
+  - function calls info: 1
+  - game command: 1
+  - commit diff: 1
+  - artistic human pose: 1
+  - vehicle power demand: 1
+  - global position: 1
+  - ambient temperature: 1
+  - door opening: 1
+  - number of passenger: 1
+  - dispatch pattern: 1
+  - generation instruction: 1
+  - post edit: 1
+  - editing time: 1
+  - climate simulation: 1
+  - simulated dialogue: 1
+  - satellite images of london: 1
+  - satellite images of trenton: 1
+  - full resolution test case: 1
+  - reduced resolution test case: 1
+  - blue conversation: 1
+  - robot grasp scenario: 1
+  - configuration detail: 1
+  - drug combination: 1
+  - relative risk: 1
+  - story continuation: 1
+  - network community: 1
+  - compotype species: 1
+  - advertising poster: 1
+  - molecule diagram: 1
+  - martial arts stunt: 1
+  - bee colony activity: 1
+  - music descriptions/tag: 1
+  - questions and explanation: 1
+  - scholarly article table: 1
+  - job posting table: 1
+  - music playlist table: 1
+  - temporal video inpainting: 1
+  - graphical plot: 1
+  - synthesis action retrieval: 1
+  - insurance status: 1
+  - smpl body pose and shape parameter: 1
+  - processed audio sample: 1
+  - original audio sample: 1
+  - graph level property: 1
+  - project name: 1
+  - bug identifier: 1
+  - bug statistic: 1
+  - message header: 1
+  - gdpr transparency statement: 1
+  - artificial celebrity face: 1
+  - c program: 1
+  - prospectus example: 1
+  - ending related image set: 1
+  - glasshouse environment: 1
+  - theils u: 1
+  - emotional interaction: 1
+  - financial chart: 1
+  - comment classification: 1
+  - association type: 1
+  - directed edge: 1
+  - containerized service: 1
+  - application container: 1
+  - list of owl reasoner: 1
+  - eeg measurement: 1
+  - maintenance observation: 1
+  - eye blink response: 1
+  - environmental terms prevalence: 1
+  - web archive link: 1
+  - time stamped sensor measurement: 1
+  - company prediction: 1
+  - symbolic melody: 1
+  - annotations on harm: 1
+  - epidemic spread chart: 1
+  - healthcare resource projection: 1
+  - chart specification: 1
+  - maze property: 1
+  - maze visualization: 1
+  - industrial metal part: 1
+  - robot joint state: 1
+  - robot pose: 1
+  - environment name: 1
+  - mamujoco simulation: 1
+  - smac simulation: 1
+  - pettingzoo simulation: 1
+  - flatland simulation: 1
+  - citylearn simulation: 1
+  - speaker attribution cue: 1
+  - ventilator parameter: 1
+  - writing system: 1
+  - chemical composition: 1
+  - segmented region: 1
+  - frequency band energy: 1
+  - learning resource: 1
+  - ted and tedx talk shot: 1
+  - website link: 1
+  - load profile: 1
+  - comprehensive answer: 1
+  - pdf file hash: 1
+  - search engine ranking: 1
+  - pdf first page screenshot: 1
+  - source image prompt: 1
+  - target image prompt: 1
+  - main editing body: 1
+  - global instance tracking: 1
+  - signer keypoint: 1
+  - hand shape: 1
+  - instruction input output triplet: 1
+  - algebraic notation string: 1
+  - diffusion mri: 1
+  - music sample: 1
+  - narrative entry: 1
+  - title entry: 1
+  - rtk gps measurement: 1
+  - vibration pattern: 1
+  - plate design: 1
+  - intent type: 1
+  - network traffic record: 1
+  - benchmark evaluation: 1
+  - compositional phrase: 1
+  - vision category: 1
+  - sha hash: 1
+  - architectural rendering: 1
+  - puzzle test figure: 1
+  - functional plot: 1
+  - academic paper figure: 1
+  - multiple object tracking: 1
+  - photo acoustic activity: 1
+  - ad title: 1
+  - movie fragment: 1
+  - fixation point: 1
+  - result cardinality: 1
+  - app category: 1
+  - app name: 1
+  - app icon: 1
+  - app screenshot: 1
+  - financial statement: 1
+  - character line: 1
+  - character personality trait: 1
+  - author country of origin: 1
+  - author years of life: 1
+  - benchmark execution file: 1
+  - argumentative zone: 1
+  - propaganda content: 1
+  - cognitive appraisal: 1
+  - linguistic command: 1
+  - data generation script: 1
+  - odor descriptor: 1
+  - modulation type: 1
+  - signal to noise ratio: 1
+  - sub word tokenization: 1
+  - photographs of chest x-ray: 1
+  - synthetically perturbed chest x-ray: 1
+  - relational fact: 1
+  - reasoning text path: 1
+  - comparison category: 1
+  - implied volatility level: 1
+  - expiration period: 1
+  - trip length: 1
+  - spatiotemporal distribution shift: 1
+  - literature survey: 1
+  - power vs. temperature profile: 1
+  - plant disease symptom: 1
+  - geometrical terrain: 1
+  - development environment configuration: 1
+  - build system script: 1
+  - code prompt: 1
+  - conceptual relation: 1
+  - mathematical solution: 1
+  - coherent passage: 1
+  - crossword answer: 1
+  - prediction result: 1
+  - search query string: 1
+  - average rating: 1
+  - number of review: 1
+  - grammatical gender cue: 1
+  - urban environment: 1
+  - full body motion: 1
+  - vr application interaction: 1
+  - qoe log: 1
+  - legal task: 1
+  - legal reasoning task: 1
+  - dynamic nerf: 1
+  - spike timing: 1
+  - manifold parameter: 1
+  - historical portrait: 1
+  - translated instruction: 1
+  - benchmark passage: 1
+  - electricity price: 1
+  - building block representation: 1
+  - transcribed narration: 1
+  - grid world: 1
+  - address string: 1
+  - translated topic: 1
+  - cross lingual relevance judgment: 1
+  - body movement: 1
+  - license agreement: 1
+  - 2d/3d human skeleton: 1
+  - stakeholder opinion: 1
+  - value judgment: 1
+  - roadway segment: 1
+  - protein identifier: 1
+  - intent utterance: 1
+  - spoken intent utterance: 1
+  - recording condition: 1
+  - marmoset vocalization: 1
+  - kg structure: 1
+  - math reasoning instruction: 1
+  - fomc post meeting statement: 1
+  - press conference: 1
+  - deepfake audio visual content: 1
+  - industrial human action: 1
+  - fire extent estimation: 1
+  - empiar id: 1
+  - alpha matte for background removal: 1
+  - urls from node.js snapshot: 1
+  - urls from linux system: 1
+  - wikipedia article url: 1
+  - test urls from url shortener: 1
+  - test urls from phishing sites detector: 1
+  - top visited websites url: 1
+  - obstacle detection: 1
+  - machine learning task: 1
+  - datasets utilized: 1
+  - methods implemented: 1
+  - gmm parameter value: 1
+  - simulated x-ray images of baggage: 1
+  - architecture configuration: 1
+  - corpus section: 1
+  - brain response: 1
+  - basketball highlight: 1
+  - basketball action shot: 1
+  - predicate argument structure: 1
+  - ambisonic room impulse response: 1
+  - lexical category: 1
+  - artistic image style: 1
+  - imaging sensor style: 1
+  - application style: 1
+  - eye movement event: 1
+  - study result: 1
+  - environment lighting: 1
+  - poster layout: 1
+  - non empty canva: 1
+  - keypoint position: 1
+  - galaxy clas: 1
+  - daily price change percentage: 1
+  - target clas: 1
+  - reservoir level: 1
+  - function signature: 1
+  - purpose statement: 1
+  - functional example: 1
+  - channel parameter: 1
+  - body level text prompt: 1
+  - finger level text prompt: 1
+  - notice instruction: 1
+  - span interaction: 1
+  - interaction explanation: 1
+  - hd5f data array: 1
+  - canonical smile: 1
+  - chain of thought (cot) prompting: 1
+  - smartphone photography: 1
+  - authentic image distortion: 1
+  - professional writing prompt: 1
+  - binary comparison: 1
+  - quoted triple: 1
+  - machine comprehension: 1
+  - tv series transcript: 1
+  - dynamic video task: 1
+  - lexical ambiguity: 1
+  - neurological function assessment: 1
+  - discourse entity: 1
+  - bridging anaphor: 1
+  - programming problem template: 1
+  - test oracle: 1
+  - theory of mind evaluation task: 1
+  - reality checking task: 1
+  - mathematical instruction: 1
+  - matrix shape: 1
+  - email manipulation: 1
+  - phone number manipulation: 1
+  - unit conversion: 1
+  - freetext manipulation: 1
+  - travel guide: 1
+  - literary work: 1
+  - query paraphrasing: 1
+  - veridicality judgment: 1
+  - neg raising inference: 1
+  - subordinate clause structure: 1
+  - matrix subject: 1
+  - slider based judgment: 1
+  - nonfinite subordinate clause structure: 1
+  - cycling route: 1
+  - generation model reason: 1
+  - review title: 1
+  - anonymized reviewer id: 1
+  - anonymized product id: 1
+  - benchmarking test: 1
+  - full text pdf: 1
+  - unpublished manuscript: 1
+  - e-print: 1
+  - programming language context: 1
+  - political discussion: 1
+  - free text argument: 1
+  - newspaper editorial: 1
+  - online democracy platform: 1
+  - query type: 1
+  - translation performance: 1
+  - thesis abstract: 1
+  - translated terminology: 1
+  - translation unit: 1
+  - factual statement: 1
+  - inconsistency detection task: 1
+  - algorithmic solution: 1
+  - spoken prompt: 1
+  - spoken continuation: 1
+  - spoken story: 1
+  - model name: 1
+  - shakespearean line: 1
+  - solar radiation measurement: 1
+  - hate speech example: 1
+  - conceptual similarity judgment: 1
+  - conceptual property judgment: 1
+  - conceptualization in context: 1
+  - emoji emoji co occurrence: 1
+  - domain specific database: 1
+  - simulation script: 1
+  - simulation figure: 1
+  - mbti dimension instruction: 1
+  - knowledge editing task: 1
+  - preprocessed dataset: 1
+  - network packet file: 1
+  - network attack simulation: 1
+  - attack detail: 1
+  - sensor location: 1
+  - harmful string: 1
+  - harmful behavior: 1
+  - gnss / imu reading: 1
+  - calibration matrice: 1
+  - relation linking: 1
+  - wordplay puzzle: 1
+  - performance midi: 1
+  - weather parameter: 1
+  - triaxial accelerometer: 1
+  - triaxial gyroscope: 1
+  - triaxial magnetometer: 1
+  - historical color photo: 1
+  - sudden camera movement: 1
+  - loop closure: 1
+  - pixel level category: 1
+  - similarity condition: 1
+  - related link: 1
+  - temporal coverage: 1
+  - spatial coverage: 1
+  - oceanographic measurement: 1
+  - oceanographic parameter: 1
+  - meteorological indicator: 1
+  - microwave imagery: 1
+  - crop parameter: 1
+  - cleaned html: 1
+  - element candidate: 1
+  - publication title: 1
+  - volume number: 1
+  - issue number: 1
+  - page number: 1
+  - editor name: 1
+  - publisher name: 1
+  - actor identifier: 1
+  - email attachment: 1
+  - expert commentary: 1
+  - design sample: 1
+  - catchment area: 1
+  - brainweb simulation: 1
+  - participant preference: 1
+  - response date: 1
+  - event context: 1
+  - election configuration: 1
+  - descriptive statistic: 1
+  - voter preference: 1
+  - elicitation method: 1
+  - cobb angle result: 1
+  - electronic band gap: 1
+  - magnetic moment: 1
+  - assembly scenario: 1
+  - supply chain network: 1
+  - underwater debris: 1
+  - client statistic: 1
+  - discriminative utterance: 1
+  - cardiologist report: 1
+  - electronic component pinout: 1
+  - hebrew text with nikud: 1
+  - simplified medical abstract: 1
+  - empathetic dialogue: 1
+  - operating condition: 1
+  - fault type: 1
+  - instruction output: 1
+  - financial tweet: 1
+  - behavioral report: 1
+  - portable executable: 1
+  - task specific prompt: 1
+  - interactive dialogue: 1
+  - privacy related scenario: 1
+  - correlation heatmap: 1
+  - keypoint coordinate: 1
+  - joint state configuration: 1
+  - positive answer: 1
+  - negative answer: 1
+  - tool invocation proces: 1
+  - tool type: 1
+  - meeting agendum: 1
+  - spear phishing email: 1
+  - conversational interaction: 1
+  - web navigation pattern: 1
+  - website element: 1
+  - bart model weight: 1
+  - model configuration: 1
+  - reward dynamic: 1
+  - decentralization metric: 1
+  - nanomaterial structure: 1
+  - open question answering: 1
+  - consultation dialogue: 1
+  - aircraft velocity: 1
+  - sensor position: 1
+  - sensor radiu: 1
+  - sensor precision: 1
+  - aircraft path: 1
+  - scalp eeg: 1
+  - behind the ear eeg: 1
+  - syntactic structure: 1
+  - symbolic reasoning: 1
+  - coding reasoning: 1
+  - algorithmic reasoning: 1
+  - report content: 1
+  - meta feedback: 1
+  - trait entity: 1
+  - program of thought (pot) solution: 1
+  - pose and shape parameter: 1
+  - attack scenario: 1
+  - defense strategy: 1
+  - student activity log: 1
+  - event count: 1
+  - learner count: 1
+  - tactile reading: 1
+  - timeseries variable: 1
+  - view count: 1
+  - comment count: 1
+  - control statement: 1
+  - character narrative: 1
+  - genre composition: 1
+  - indoor flying event: 1
+  - outdoor day event: 1
+  - characterization metric: 1
+  - histological section: 1
+  - power consumption trace: 1
+  - climate observation: 1
+  - dynamic ad: 1
+  - ontology term: 1
+  - function implementation: 1
+  - llvm ir: 1
+  - fetal abdomen ultrasound: 1
+  - fetal brain ultrasound: 1
+  - fetal femur ultrasound: 1
+  - fetal thorax ultrasound: 1
+  - maternal cervix ultrasound: 1
+  - general ultrasound: 1
+  - session interaction: 1
+  - powerpoint slide: 1
+  - political speech transcription: 1
+  - power conversion efficiency: 1
+  - fill factor: 1
+  - open circuit voltage: 1
+  - short circuit current: 1
+  - manipulation task: 1
+  - environmental perturbation: 1
+  - background patch: 1
+  - pose variation: 1
+  - shape variation: 1
+  - texture variation: 1
+  - context variation: 1
+  - abandoned object detection scenario: 1
+  - contact point: 1
+  - reaction force: 1
+  - digit pronunciation spectrogram: 1
+  - color change: 1
+  - texture change: 1
+  - adversarial change: 1
+  - evidence string: 1
+  - earnings call: 1
+  - asr performance analysi: 1
+  - co purchasing network: 1
+  - worker profile: 1
+  - legal justification: 1
+  - offensive language classification: 1
+  - offensiveness level: 1
+  - hate speech target: 1
+  - success rating: 1
+  - safety issue: 1
+  - prompting method: 1
+  - proverb ending: 1
+  - proverb translation: 1
+  - hate speech ending: 1
+  - history of science qa: 1
+  - knowledge grounded dialogue: 1
+  - mathematical world problem: 1
+  - safety prompt: 1
+  - safety reply: 1
+  - instruction attack: 1
+  - eeg sample: 1
+  - plant distribution: 1
+  - taxonomic reference: 1
+  - adversarial safety prompt: 1
+  - responsibility prompt: 1
+  - expert approved answer: 1
+  - answer source: 1
+  - algorithmic block completion: 1
+  - control flow expression completion: 1
+  - api function call completion: 1
+  - ancient chinese passage: 1
+  - non rigid quadruped shape: 1
+  - throughput measurement: 1
+  - measurement site: 1
+  - privacy mechanism detail: 1
+  - eye tracking visual: 1
+  - relation conversation: 1
+  - tracking baseline: 1
+  - neighbor fact: 1
+  - curated cfd simulation: 1
+  - mosquito wing beat: 1
+  - manually designed object: 1
+  - full body gesture: 1
+  - facial movement: 1
+  - global body movement: 1
+  - person id: 1
+  - fact checking statement: 1
+  - road user type: 1
+  - causal answer: 1
+  - temporal answer: 1
+  - negotiation transcript: 1
+  - image: general: 1
+  - text: passage: 1
+  - operation log: 1
+  - ultrasonic flow measurement: 1
+  - ultrasonic pressure measurement: 1
+  - bird observation record: 1
+  - food recall title: 1
+  - hazard classification: 1
+  - role play instruction: 1
+  - response naturalnes: 1
+  - dynamic content: 1
+  - mathematical rationale: 1
+  - submission title: 1
+  - submission content: 1
+  - grant abstract: 1
+  - data dictionary: 1
+  - summary comparison: 1
+  - commonsense arithmetic reasoning: 1
+  - domain specific arithmetic reasoning: 1
+  - commonsense quantitative comparison: 1
+  - screen name: 1
+  - in game chat: 1
+  - height field: 1
+  - network mechanism: 1
+  - code mixed dialogue: 1
+  - molecular depiction: 1
+  - stereocenter type object detection: 1
+  - audiovisual action event: 1
+  - aerial images of airport: 1
+  - transaction detail: 1
+  - annotator rationale: 1
+  - support phrase: 1
+  - map tile: 1
+  - analytical insight: 1
+  - epigenetic profile: 1
+  - factual knowledge: 1
+  - relational knowledge: 1
+  - aesthetic perception criterion: 1
+  - gt fact: 1
+  - llm output: 1
+  - prompt template: 1
+  - cultural and geographic scenario: 1
+  - in context learning attack: 1
+  - verbal cue: 1
+  - verbal praise: 1
+  - partial physical prompt: 1
+  - full physical prompt: 1
+  - attack prompt: 1
+  - defense prompt: 1
+  - eeg signal plot: 1
+  - profile identifier: 1
+  - profile url: 1
+  - activity date: 1
+  - data collection timestamp: 1
+  - contextual inconsistency: 1
+  - normalized transcription: 1
+  - ai system performance: 1
+  - neuro symbolic approach: 1
+  - prompt win lose trio: 1
+  - underground utility: 1
+  - v2x message: 1
+  - funding goal: 1
+  - funding status: 1
+  - amount pledged: 1
+  - backer count: 1
+  - days to deadline: 1
+  - maze layout: 1
+  - agent position: 1
+  - email subject: 1
+  - directional binaural delay: 1
+  - python solution: 1
+  - programming diagram: 1
+  - pddl domain file: 1
+  - pddl problem file: 1
+  - json specification: 1
+  - plan json: 1
+  - calcium imaging: 1
+  - episode history: 1
+  - cloud mask result: 1
+  - surface water occurrence: 1
+  - land cover class: 1
+  - system message: 1
+  - evolution strategy: 1
+  - analytical solutions documentation: 1
+  - benchmark finding: 1
+  - paper reference: 1
+  - intelligent agent: 1
+  - evaluation guideline: 1
+  - mathematical diagram: 1
+  - generation prompt: 1
+  - abusive language instance: 1
+  - task observation: 1
+  - trajectory actions visual: 1
+  - execution log: 1
+  - selection criterion: 1
+  - artistic swimming: 1
+  - equation solution: 1
+  - course syllabi: 1
+  - detailed workplace activity: 1
+  - skill profile: 1
+  - temporal trend: 1
+  - salary difference: 1
+  - drug keyword: 1
+  - x-ray images of lumbar region: 1
+  - x-ray images of hip: 1
+  - label count: 1
+  - narrative problem: 1
+  - neutral problem: 1
+  - daily activity: 1
+  - ms/ms spectrum: 1
+  - 1d/2d nmr spectrum: 1
+  - reasoning explanation: 1
+  - condition name: 1
+  - risk category: 1
+  - boolean array: 1
+  - bengali review: 1
+  - behavior domain definition language: 1
+  - hateful level: 1
+  - challenging instance: 1
+  - uav footage: 1
+  - relative depth estimation: 1
+  - forensics detection: 1
+  - stock volatility: 1
+  - cartoon keyframe: 1
+  - content taxonomy: 1
+  - crowd noise: 1
+  - emotion dependent tweet: 1
+  - distance prediction: 1
+  - texture classification: 1
+  - satellite image classification: 1
+  - flower classification: 1
+  - digit classification: 1
+  - ejection fraction estimate: 1
+  - ventricle tracing: 1
+  - ultra high quality image prompt: 1
+  - intersection marking: 1
+  - condition assessment: 1
+  - section name: 1
+  - citation presence: 1
+  - legal and ethical discussion: 1
+  - recognition task response: 1
+  - benchmark parameter: 1
+  - must have statement: 1
+  - nice to have statement: 1
+  - experiment documentation: 1
+  - vegetation point: 1
+  - building point: 1
+  - noise point: 1
+  - transmission wire point: 1
+  - distribution wire point: 1
+  - pole point: 1
+  - fence point: 1
+  - vehicle point: 1
+  - unassigned point: 1
+  - midi segment: 1
+  - badminton action: 1
+  - eye tracking: 1
+  - foot pressure: 1
+  - service offering: 1
+  - business growth narrative: 1
+  - stock compounds list: 1
+  - curated reaction: 1
+  - pathology report: 1
+  - issue tracker: 1
+  - benchmark detail: 1
+  - android emulator: 1
+  - psychological topic: 1
+  - counseling school: 1
+  - animal action: 1
+  - cartoon action: 1
+  - platform documentation: 1
+  - optimization instruction: 1
+  - environment layout: 1
+  - evacuation simulation: 1
+  - transaction amount: 1
+  - free form response: 1
+  - normal traffic packet: 1
+  - attack traffic packet: 1
+  - hypergraph structure: 1
+  - short form story: 1
+  - beneficiary detail: 1
+  - bathymetry raster: 1
+  - dsm raster: 1
+  - seabed annotation raster: 1
+  - informational content: 1
+  - battery metric: 1
+  - meerkat vocalization: 1
+  - architectural structure: 1
+  - fruit depiction: 1
+  - art style: 1
+  - context piece: 1
+  - complex table: 1
+  - stone deterioration pattern: 1
+  - stone anomaly: 1
+  - aerial disaster imagery: 1
+  - soil sample: 1
+  - chess game move: 1
+  - judicial verdict: 1
+  - robotics simulation: 1
+  - aircraft simulation: 1
+  - industrial pipeline simulation: 1
+  - nuclear fusion simulation: 1
+  - healthcare simulation: 1
+  - offline rl algorithm: 1
+  - control method: 1
+  - panoramic x-ray: 1
+  - loading characteristic: 1
+  - composite layup: 1
+  - damage criterion: 1
+  - simulation loading characteristic: 1
+  - chess game record: 1
+  - chess move analysi: 1
+  - api definition: 1
+  - linguistic problem: 1
+  - graph reasoning task: 1
+  - graph generation pipeline: 1
+  - interpolated csv: 1
+  - spatial reasoning task: 1
+  - epigenetic modification: 1
+  - dynamic environment: 1
+  - api response: 1
+  - api simulator: 1
+  - concurrent task: 1
+  - replay attack: 1
+  - analyses and review: 1
+  - forum comment: 1
+  - non speech event: 1
+  - surface hardnes: 1
+  - surface texture: 1
+  - solution step: 1
+  - math solution: 1
+  - vehicle driving scenario: 1
+  - embodied navigation scenario: 1
+  - virtual scenario: 1
+  - weather anomaly heatmap: 1
+  - academic guideline: 1
+  - cultural context: 1
+  - meal detail: 1
+  - special occasion: 1
+  - ingredients and recipe: 1
+  - physical scenario prompt: 1
+  - problem diagram: 1
+  - license and citation: 1
+  - dynamic text attribute: 1
+  - textual relation generation: 1
+  - node category: 1
+  - future link prediction: 1
+  - destination node retrieval: 1
+  - specimen size: 1
+  - barcode index number: 1
+  - private message: 1
+  - temporal distribution: 1
+  - content coverage: 1
+  - artificial subtitle: 1
+  - static segment: 1
+  - common object: 1
+  - challenging landmark: 1
+  - logical reasoning: 1
+  - design prompt: 1
+  - compositional skill tag: 1
+  - handwritten signature: 1
+  - handwritten component: 1
+  - signature author id: 1
+  - auto driving: 1
+  - uav imagery: 1
+  - textual instruction: 1
+  - email recipient: 1
+  - task assignment: 1
+  - educational multimedia: 1
+  - cognitive load questionnaire: 1
+  - prompts and class: 1
+  - references and license: 1
+  - protection scenario: 1
+  - floodwater depth value: 1
+  - code repository: 1
+  - cross language code translation: 1
+  - chinese command: 1
+  - gripper width: 1
+  - elastic estimate: 1
+  - hertz estimate: 1
+  - programming instruction: 1
+  - unittest script: 1
+  - translated code snippet: 1
+  - articulated object: 1
+  - micro doppler signature: 1
+  - physical property: 1
+  - biological property: 1
+  - ligand target binding: 1
+  - microphotographs of pulmonary vessel: 1
+  - expert measurement: 1
+  - resource level metric: 1
+  - service level metric: 1
+  - fault injection log: 1
+  - emotional intelligence response: 1
+  - persuasiveness task: 1
+  - self reported perception: 1
+  - render script: 1
+  - thermodynamic parameter: 1
+  - kinetic rate constant: 1
+  - pbr material: 1
+  - evaluation finding: 1
+  - annotation proces: 1
+  - evaluation report: 1
+  - dseal script: 1
+  - robot motion parameter: 1
+  - code segment: 1
+  - safe response: 1
+  - harmful response: 1
+  - graph gen algorithm: 1
+  - sorting type: 1
+  - academic lecture: 1
+  - facial and body movement: 1
+  - slide presentation: 1
+  - spoken words transcription: 1
+  - transliterated english name: 1
+  - textual number: 1
+  - state variable: 1
+  - collision prediction: 1
+  - physical contact action: 1
+  - recommendation explanation: 1
+  - dialogue interaction: 1
+  - perceptual quality rating: 1
+  - popularity indicator: 1
+  - attribute value: 1
+  - positive triple: 1
+  - economic scenario: 1
+  - credibility history: 1
+  - project page: 1
+  - temple vibration pickup: 1
+  - forehead vibration sensor: 1
+  - in ear comply foam microphone: 1
+  - in ear rigid earpiece microphone: 1
+  - headset microphone: 1
+  - persian passage: 1
+  - persian poetry: 1
+  - dynamic analysis report: 1
+  - file change: 1
+  - method change: 1
+  - breast level assessment: 1
+  - romanian language corpu: 1
+  - paired end read: 1
+  - youtube video id: 1
+  - upload date: 1
+  - range and bearing measurement: 1
+  - accuracy report: 1
+  - antibody structure: 1
+  - antigen structure: 1
+  - antibody antigen complex: 1
+  - short film: 1
+  - academic title: 1
+  - co authorship network: 1
+  - disease name: 1
+  - graphic layout: 1
+  - building height: 1
+  - urban canopy parameter: 1
+  - author node: 1
+  - paper node: 1
+  - domain node: 1
+  - typeset formula: 1
+  - feed generator output: 1
+  - building structure: 1
+  - transformation matrice: 1
+  - processed speech snippet: 1
+  - transaction log: 1
+  - smart contract: 1
+  - intrusion detection metric: 1
+  - link type: 1
+  - dos attack pattern: 1
+  - system usage metric: 1
+  - network usage metric: 1
+  - optimization metric: 1
+  - parliamentary proceedings: 1
+  - papers table: 1
+  - authors table: 1
+  - citations table: 1
+  - writings table: 1
+  - flight status: 1
+  - quantity tagged equation: 1
+  - methodology diagram: 1
+  - bass guitar note: 1
+  - playing technique: 1
+  - expression technique: 1
+  - vocal transcription: 1
+  - dance music: 1
+  - cultural prompt: 1
+  - hazard category: 1
+  - algorithmic action: 1
+  - demographic detail: 1
+  - session log: 1
+  - assessment result: 1
+  - deepfake footage: 1
+  - garment design: 1
+  - garment category: 1
+  - textile material: 1
+  - xytime visualization: 1
+  - pedestrian movement: 1
+  - synchronized event: 1
+  - pdf layout: 1
+  - story point: 1
+  - kids abstract: 1
+  - adapted abstracts for child: 1
+  - reading level: 1
+  - r package: 1
+  - athlete action: 1
+  - drone imagery: 1
+  - simple shape: 1
+  - concept definition: 1
+  - automation script: 1
+  - classic novel: 1
+  - optical aberration: 1
+  - neonatal mri: 1
+  - telemetry value: 1
+  - underwater images without marine animal: 1
+  - augmented weather effect: 1
+  - event argument: 1
+  - domain geometry: 1
+  - scenario prompt: 1
+  - knowledge instruction: 1
+  - funding detail: 1
+  - poker hand history: 1
+  - televised poker hand: 1
+  - historical poker hand: 1
+  - ai poker hand: 1
+  - badugi hand: 1
+  - chat utterance: 1
+  - translation evaluation: 1
+  - midi music file: 1
+  - colon markup: 1
+  - colorectal cancer marking: 1
+  - plastic object: 1
+  - plush object: 1
+  - 9-axis imu measurement: 1
+  - pixel wise mask file: 1
+  - urban region: 1
+  - crossroad navigation: 1
+  - urban object: 1
+  - fitted smpl(-x) body mesh: 1
+  - canonical template mesh: 1
+  - fake song: 1
+  - antenna tracking: 1
+  - speaker tracking: 1
+  - microphone position: 1
+  - mocap system tracking: 1
+  - design choice comment: 1
+  - attack success rate: 1
+  - elastic wave simulation: 1
+  - stellarator configuration: 1
+  - information report: 1
+  - robot camera view: 1
+  - neo4j database: 1
+  - emotional speech segment: 1
+  - animal presence: 1
+  - reddit thread: 1
+  - weather measurement: 1
+  - ontology name: 1
+  - textured 3d surface mesh: 1
+  - part mobility parameter: 1
+  - environment pointcloud: 1
+  - graph query language: 1
+  - inference reasoning: 1
+  - code structure schema: 1
+  - graph database clas: 1
+  - query result: 1
+  - mechanical diagram: 1
+  - technical specification: 1
+  - musical tempo: 1
+  - jazz music: 1
+  - graph to text generation: 1
+  - handwritten text line: 1
+  - orchestral music: 1
+  - lego ldr file: 1
+  - assembly action: 1
+  - country report: 1
+  - case number: 1
+  - death statistic: 1
+  - all atom system: 1
+  - temperature variation: 1
+  - industrial objects on white background: 1
+  - industrial objects in stationary setup: 1
+  - industrial objects handheld: 1
+  - industrial objects with cluttered background: 1
+  - molecular dynamics trajectory: 1
+  - simulation screenshot: 1
+  - mouse fixation: 1
+  - phoneme to audio alignment: 1
+  - agricultural tray: 1
+  - diffusion weighted mri: 1
+  - functional mri: 1
+  - psychometric variable: 1
+  - functional neuroimaging: 1
+  - movie watching: 1
+  - skin conductance: 1
+  - stimulation paradigm documentation: 1
+  - cardiac and respiratory trace: 1
+  - protocol stack log: 1
+  - key performance measurement: 1
+  - mac layer metric: 1
+  - guitar playing technique: 1
+  - coding screenshot: 1
+  - programming language: 1
+  - rhetorical relation: 1
+  - standard operating procedure: 1
+  - diffusion imaging: 1
+  - asl imaging: 1
+  - heart mri: 1
+  - full body mri: 1
+  - 6 dof device trajectory: 1
+  - hyperparameter value: 1
+  - space station environment: 1
+  - robotic manipulator: 1
+  - commonsense premise: 1
+  - cultural topic: 1
+  - trip identifier: 1
+  - trip category: 1
+  - day type: 1
+  - origin identifier: 1
+  - source reference: 1
+  - bengali comment: 1
+  - json format action: 1
+  - propositional logic response: 1
+  - soundness evaluation: 1
+  - logical puzzle: 1
+  - character statement: 1
+  - data protection regulation: 1
+  - expert curated response: 1
+  - machine learning model output: 1
+  - triangulations of surface: 1
+  - triangulations of manifold: 1
+  - pronoun form: 1
+  - test result: 1
+  - nft ownership trace: 1
+  - flagged nft: 1
+  - ethereum nft collection: 1
+
+potential_errors:
+----------------------------------------
+
+1-9 frequency range:
+  - wrecks/ruin: 1
+  - figures/chart: 1
+  - jargon/term: 1
+
+simple_types:
+----------------------------------------
+
+100-499 frequency range:
+  - answer: 225
+  - tweet: 133
+
+50-99 frequency range:
+  - documentation: 75
+  - passage: 57
+
+10-49 frequency range:
+  - instruction: 40
+  - abstract: 39
+  - comment: 34
+  - music: 29
+  - paragraph: 28
+  - translation: 28
+  - claim: 23
+  - prompt: 23
+  - token: 20
+  - relation: 19
+  - explanation: 18
+  - keyword: 17
+  - story: 16
+  - title: 15
+  - citation: 14
+  - response: 14
+  - headline: 13
+  - paraphrase: 13
+  - category: 11
+  - sketch: 11
+  - edge: 11
+  - table: 11
+  - url: 10
+  - evidence: 10
+  - topic: 10
+
+1-9 frequency range:
+  - keyphrase: 9
+  - review: 9
+  - corpu: 9
+  - premise: 8
+  - argument: 8
+  - context: 8
+  - node: 8
+  - rating: 8
+  - summarization: 8
+  - target: 8
+  - hashtag: 8
+  - book: 7
+  - event: 6
+  - reply: 6
+  - demographic: 6
+  - date: 6
+  - phrase: 5
+  - narrative: 5
+  - illustration: 5
+  - figure: 5
+  - meme: 5
+  - definition: 5
+  - essay: 5
+  - perturbation: 5
+  - rationale: 4
+  - cartoon: 4
+  - concept: 4
+  - eeg: 4
+  - proof: 4
+  - diagram: 4
+  - command: 4
+  - mention: 4
+  - occlusion: 4
+  - electrocardiogram: 4
+  - scenario: 4
+  - plot: 3
+  - activity: 3
+  - joke: 3
+  - respiration: 3
+  - lemma: 3
+  - guideline: 3
+  - name: 3
+  - lyric: 3
+  - term: 3
+  - syntax: 3
+  - pronoun: 3
+  - acronym: 3
+  - statement: 3
+  - fiction: 3
+  - poetry: 3
+  - message: 3
+  - artwork: 3
+  - intent: 3
+  - conclusion: 3
+  - energy: 3
+  - neuroimaging: 3
+  - opinion: 3
+  - manuscript: 3
+  - price: 3
+  - tutorial: 3
+  - chart: 3
+  - feedback: 3
+  - ontology: 3
+  - sport: 2
+  - medication: 2
+  - alternative: 2
+  - radiograph: 2
+  - report: 2
+  - song: 2
+  - task: 2
+  - acceleration: 2
+  - gp: 2
+  - narration: 2
+  - idiom: 2
+  - survey: 2
+  - gif: 2
+  - thesi: 2
+  - icon: 2
+  - keystroke: 2
+  - movie: 2
+  - discussion: 2
+  - genre: 2
+  - geotag: 2
+  - logo: 2
+  - fact: 2
+  - gyroscope: 2
+  - orientation: 2
+  - poem: 2
+  - blog: 2
+  - gender: 2
+  - sticker: 2
+  - aspect: 2
+  - trope: 2
+  - drawing: 2
+  - relationship: 2
+  - screenplay: 2
+  - occupation: 2
+  - choice: 2
+  - doi: 2
+  - location: 2
+  - noise: 2
+  - parameter: 2
+  - submission: 2
+  - cityscape: 2
+  - age: 2
+  - outcome: 2
+  - force: 2
+  - orthophoto: 2
+  - noun: 2
+  - toy: 2
+  - silhouette: 2
+  - paraphrasing: 2
+  - snippet: 2
+  - condition: 2
+  - temperature: 2
+  - treebank: 2
+  - heightmap: 2
+  - username: 2
+  - view: 2
+  - classification: 2
+  - delay: 2
+  - polygon: 2
+  - quotation: 2
+  - vehicle: 2
+  - lexicon: 2
+  - abbreviation: 2
+  - post: 2
+  - email: 2
+  - vote: 2
+  - pdf: 2
+  - keyframe: 2
+  - specification: 2
+  - art: 2
+  - author: 2
+  - source: 2
+  - covariate: 2
+  - identifier: 2
+  - ecg: 2
+  - state: 2
+  - cycle: 2
+  - equation: 2
+  - platform: 2
+  - rendering: 2
+  - mesh: 2
+  - texture: 2
+  - vocabulary: 2
+  - anomaly: 2
+  - captioning: 1
+  - inference: 1
+  - landmark: 1
+  - infobox: 1
+  - synset: 1
+  - eog: 1
+  - emg: 1
+  - hypnogram: 1
+  - discourse: 1
+  - chorale: 1
+  - disassembly: 1
+  - bytecode: 1
+  - statistic: 1
+  - webtext: 1
+  - stem: 1
+  - transportation: 1
+  - section: 1
+  - fixation: 1
+  - skeleton: 1
+  - dictionary: 1
+  - rule: 1
+  - orthography: 1
+  - phonology: 1
+  - morphology: 1
+  - soundscape: 1
+  - car: 1
+  - child: 1
+  - clas: 1
+  - domain: 1
+  - rulebase: 1
+  - observation: 1
+  - awarenes: 1
+  - pictogram: 1
+  - ideogram: 1
+  - fish: 1
+  - reef: 1
+  - robot: 1
+  - playlist: 1
+  - outfit: 1
+  - melody: 1
+  - electroencephalography: 1
+  - verbalization: 1
+  - viewpoint: 1
+  - gaze: 1
+  - hand: 1
+  - body: 1
+  - garment: 1
+  - signature: 1
+  - prediction: 1
+  - lightcurve: 1
+  - medley: 1
+  - microblog: 1
+  - link: 1
+  - group: 1
+  - interaction: 1
+  - newswire: 1
+  - variant: 1
+  - anecdote: 1
+  - vocalisation: 1
+  - analysi: 1
+  - assertion: 1
+  - modification: 1
+  - deletion: 1
+  - restoration: 1
+  - hyperbole: 1
+  - predicate: 1
+  - morpheme: 1
+  - template: 1
+  - building: 1
+  - outline: 1
+  - textgrid: 1
+  - dwi: 1
+  - pseudocode: 1
+  - weblog: 1
+  - broadcast: 1
+  - decomposition: 1
+  - pressure: 1
+  - pronunciation: 1
+  - database: 1
+  - landscape: 1
+  - thingtalk: 1
+  - policy: 1
+  - cant: 1
+  - commit: 1
+  - issue: 1
+  - pmc: 1
+  - pmid: 1
+  - isbn: 1
+  - swipe: 1
+  - dockerfile: 1
+  - goal: 1
+  - infographic: 1
+  - mixture: 1
+  - position: 1
+  - monologue: 1
+  - audition: 1
+  - patch: 1
+  - integer: 1
+  - cookie: 1
+  - phash: 1
+  - altitude: 1
+  - chapter: 1
+  - topography: 1
+  - cell: 1
+  - methodology: 1
+  - trimap: 1
+  - dbh: 1
+  - symbol: 1
+  - collage: 1
+  - cause: 1
+  - effect: 1
+  - docstring: 1
+  - portrait: 1
+  - animal: 1
+  - transparent: 1
+  - plant: 1
+  - furniture: 1
+  - fruit: 1
+  - foreground: 1
+  - po: 1
+  - propbank: 1
+  - timebank: 1
+  - certificate: 1
+  - terminology: 1
+  - velocity: 1
+  - method: 1
+  - step: 1
+  - line: 1
+  - riddle: 1
+  - flowchart: 1
+  - faq: 1
+  - picture: 1
+  - quadruple: 1
+  - character: 1
+  - grayscale: 1
+  - leukocyte: 1
+  - gametocyte: 1
+  - contract: 1
+  - warrant: 1
+  - manufacturer: 1
+  - emoji: 1
+  - triangle: 1
+  - literature: 1
+  - busines: 1
+  - entertainment: 1
+  - fall: 1
+  - markdown: 1
+  - humidity: 1
+  - light: 1
+  - voltage: 1
+  - syslog: 1
+  - hairstyle: 1
+  - rebuttal: 1
+  - boundary: 1
+  - scribble: 1
+  - codebook: 1
+  - voiceprint: 1
+  - pedestrian: 1
+  - volumetric: 1
+  - seismogram: 1
+  - prank: 1
+  - fail: 1
+  - romance: 1
+  - comedy: 1
+  - recipe: 1
+  - demand: 1
+  - rosbag: 1
+  - venue: 1
+  - imitator: 1
+  - interlocutor: 1
+  - hypergraph: 1
+  - slot: 1
+  - datasheet: 1
+  - calibration: 1
+  - audiogram: 1
+  - mandate: 1
+  - percentage: 1
+  - hondt: 1
+  - timex: 1
+  - retweet: 1
+  - lecture: 1
+  - heading: 1
+  - histogram: 1
+  - header: 1
+  - footnote: 1
+  - list: 1
+  - groundtruth: 1
+  - probe: 1
+  - checkpoint: 1
+  - mileage: 1
+  - law: 1
+  - literal: 1
+  - storytelling: 1
+  - metric: 1
+  - throughput: 1
+  - proposition: 1
+  - mammography: 1
+  - transliteration: 1
+  - spreadsheet: 1
+  - biomarker: 1
+  - place: 1
+  - episode: 1
+  - hdmap: 1
+  - dress: 1
+  - quantity: 1
+  - trailer: 1
+  - soundtrack: 1
+  - recognition: 1
+  - regression: 1
+  - theme: 1
+  - option: 1
+  - publication: 1
+  - clicking: 1
+  - following: 1
+  - purchasing: 1
+  - metaphor: 1
+  - gsr: 1
+  - population: 1
+  - embedding: 1
+  - hairdo: 1
+  - readme: 1
+  - pointcloud: 1
+  - odometry: 1
+  - pause: 1
+  - tagline: 1
+  - molfile: 1
+  - subcategory: 1
+  - storybook: 1
+  - mammogram: 1
+  - index: 1
+  - alias: 1
+  - minute: 1
+  - background: 1
+  - eda: 1
+  - bvp: 1
+  - hr: 1
+  - temp: 1
+  - proverb: 1
+  - antecedent: 1
+  - blurb: 1
+  - bitext: 1
+  - reflection: 1
+  - detail: 1
+  - instrument: 1
+  - operation: 1
+  - hardnes: 1
+  - bibtex: 1
+  - comparison: 1
+  - refinement: 1
+  - normal: 1
+  - scale: 1
+  - material: 1
+  - sentiment: 1
+  - modeling: 1
+  - ssvep: 1
+  - erp: 1
+  - alignment: 1
+  - safety: 1
+  - hyperedge: 1
+  - hint: 1
+  - counting: 1
+  - limerick: 1
+  - app: 1
+  - walkthrough: 1
+  - webgraph: 1
+  - test: 1
+  - csi: 1
+  - rssi: 1
+  - quantifier: 1
+  - justification: 1
+  - subject: 1
+  - laryngophone: 1
+  - quote: 1
+  - repost: 1
+  - rotation: 1
+  - flicker: 1
+  - vibration: 1
+  - movement: 1
+  - span: 1
+  - deviantart: 1
+  - graffiti: 1
+  - embroidery: 1
+  - graphic: 1
+  - origami: 1
+  - pattern: 1
+  - sculpture: 1
+  - tattoo: 1
+  - font: 1
+  - grounding: 1
+  - interview: 1
+  - ultrasound: 1

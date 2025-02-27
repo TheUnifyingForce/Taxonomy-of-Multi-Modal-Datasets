@@ -1,0 +1,227 @@
+{
+  "prefix_patterns": {
+    "modality": {
+      "visual": [
+        "image",
+        "visual",
+        "rgb",
+        "depth",
+        "scene",
+        "face",
+        "video",
+        "camera"
+      ],
+      "audio": [
+        "speech",
+        "audio",
+        "sound",
+        "voice",
+        "acoustic"
+      ],
+      "text": [
+        "text",
+        "sentence",
+        "word",
+        "document",
+        "language"
+      ],
+      "sensor": [
+        "rgb",
+        "lidar",
+        "radar",
+        "thermal",
+        "imu",
+        "gps"
+      ]
+    },
+    "attributes": {
+      "dimensional": [
+        "2d",
+        "3d",
+        "4d",
+        "multi"
+      ],
+      "quality": [
+        "high",
+        "low",
+        "raw",
+        "clean",
+        "noisy"
+      ],
+      "processing": [
+        "annotated",
+        "synthetic",
+        "labeled"
+      ]
+    },
+    "domain": {
+      "medical": [
+        "medical",
+        "clinical",
+        "patient",
+        "health"
+      ],
+      "scientific": [
+        "scientific",
+        "research",
+        "experimental"
+      ],
+      "social": [
+        "social",
+        "user",
+        "human",
+        "personal"
+      ]
+    }
+  },
+  "suffix_patterns": {
+    "content": {
+      "visual": [
+        "image",
+        "video",
+        "photo",
+        "frame",
+        "scene"
+      ],
+      "text": [
+        "description",
+        "text",
+        "sentence",
+        "document",
+        "article"
+      ],
+      "audio": [
+        "audio",
+        "speech",
+        "sound",
+        "recording"
+      ]
+    },
+    "annotation": {
+      "label": [
+        "annotation",
+        "label",
+        "tag"
+      ],
+      "description": [
+        "description",
+        "caption",
+        "summary"
+      ],
+      "metadata": [
+        "metadata",
+        "information",
+        "attribute"
+      ]
+    },
+    "data_structure": {
+      "sequence": [
+        "sequence",
+        "series",
+        "stream",
+        "trajectory"
+      ],
+      "collection": [
+        "set",
+        "matrix",
+        "vector"
+      ],
+      "graph": [
+        "graph",
+        "network",
+        "tree"
+      ]
+    },
+    "data_format": {
+      "file": [
+        "file",
+        "record",
+        "document"
+      ],
+      "signal": [
+        "signal",
+        "data",
+        "feature"
+      ],
+      "mask": [
+        "mask",
+        "segmentation",
+        "map"
+      ]
+    }
+  },
+  "high_frequency_patterns": {
+    "prefixes": {
+      "dataset": 664,
+      "object": 411,
+      "3d": 403,
+      "human": 250,
+      "news": 242,
+      "rgb": 217,
+      "user": 208,
+      "face": 179,
+      "video": 176,
+      "scene": 170,
+      "synthetic": 152,
+      "depth": 151,
+      "semantic": 148,
+      "annotated": 142,
+      "scientific": 135,
+      "speech": 133,
+      "question": 124,
+      "social": 123,
+      "multi": 123,
+      "medical": 122,
+      "image": 118,
+      "product": 117,
+      "ground": 115,
+      "natural": 114,
+      "action": 112,
+      "entity": 108,
+      "traffic": 106,
+      "bounding": 105,
+      "multilingual": 104,
+      "real": 100
+    },
+    "suffixes": {
+      "image": 3986,
+      "description": 1362,
+      "annotation": 1056,
+      "video": 836,
+      "data": 815,
+      "label": 598,
+      "text": 476,
+      "scene": 315,
+      "article": 277,
+      "information": 272,
+      "sentence": 263,
+      "pair": 259,
+      "sequence": 249,
+      "recording": 238,
+      "question": 238,
+      "metadata": 188,
+      "mask": 163,
+      "map": 161,
+      "model": 157,
+      "graph": 150,
+      "signal": 142,
+      "frame": 138,
+      "code": 131,
+      "scan": 130,
+      "document": 130,
+      "caption": 129,
+      "clip": 129,
+      "feature": 129,
+      "speech": 126,
+      "paper": 114,
+      "cloud": 113,
+      "audio": 108,
+      "query": 106,
+      "segmentation": 105,
+      "box": 104,
+      "expression": 103,
+      "summary": 101,
+      "score": 100
+    }
+  }
+}

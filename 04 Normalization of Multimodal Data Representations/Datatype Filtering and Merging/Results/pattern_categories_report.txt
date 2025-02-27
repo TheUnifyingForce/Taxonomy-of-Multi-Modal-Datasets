@@ -1,0 +1,235 @@
+Data Type Pattern Analysis Report
+==================================================
+
+
+1. High-Frequency Pattern Analysis (frequency >= 100)
+------------------------------
+
+High-frequency prefixes:
+  - dataset: 664
+  - object: 411
+  - 3d: 403
+  - human: 250
+  - news: 242
+  - rgb: 217
+  - user: 208
+  - face: 179
+  - video: 176
+  - scene: 170
+  - synthetic: 152
+  - depth: 151
+  - semantic: 148
+  - annotated: 142
+  - scientific: 135
+  - speech: 133
+  - question: 124
+  - social: 123
+  - multi: 123
+  - medical: 122
+  - image: 118
+  - product: 117
+  - ground: 115
+  - natural: 114
+  - action: 112
+  - entity: 108
+  - traffic: 106
+  - bounding: 105
+  - multilingual: 104
+  - real: 100
+
+High-frequency suffixes:
+  - image: 3986
+  - description: 1362
+  - annotation: 1056
+  - video: 836
+  - data: 815
+  - label: 598
+  - text: 476
+  - scene: 315
+  - article: 277
+  - information: 272
+  - sentence: 263
+  - pair: 259
+  - sequence: 249
+  - recording: 238
+  - question: 238
+  - metadata: 188
+  - mask: 163
+  - map: 161
+  - model: 157
+  - graph: 150
+  - signal: 142
+  - frame: 138
+  - code: 131
+  - scan: 130
+  - document: 130
+  - caption: 129
+  - clip: 129
+  - feature: 129
+  - speech: 126
+  - paper: 114
+  - cloud: 113
+  - audio: 108
+  - query: 106
+  - segmentation: 105
+  - box: 104
+  - expression: 103
+  - summary: 101
+  - score: 100
+
+
+2. Categorized Pattern Analysis
+------------------------------
+
+PREFIXES Analysis
+--------------------
+
+modality:
+
+  visual:
+    - rgb: 217
+    - face: 179
+    - video: 176
+    - scene: 170
+    - depth: 151
+    - image: 118
+    - visual: 84
+    - camera: 80
+
+  audio:
+    - speech: 133
+    - audio: 44
+    - sound: 35
+    - voice: 18
+    - acoustic: 17
+
+  text:
+    - sentence: 95
+    - text: 73
+    - word: 70
+    - document: 68
+    - language: 56
+
+  sensor:
+    - rgb: 217
+    - thermal: 56
+    - lidar: 53
+    - imu: 49
+    - gps: 28
+    - radar: 21
+
+attributes:
+
+  dimensional:
+    - 3d: 403
+    - multi: 123
+    - 2d: 81
+    - 4d: 12
+
+  quality:
+    - high: 56
+    - low: 46
+    - raw: 32
+    - noisy: 22
+    - clean: 16
+
+  processing:
+    - synthetic: 152
+    - annotated: 142
+    - labeled: 22
+
+domain:
+
+  medical:
+    - medical: 122
+    - clinical: 58
+    - patient: 39
+    - health: 10
+
+  scientific:
+    - scientific: 135
+    - research: 97
+    - experimental: 17
+
+  social:
+    - human: 250
+    - user: 208
+    - social: 123
+    - personal: 10
+
+SUFFIXES Analysis
+--------------------
+
+content:
+
+  visual:
+    - image: 3986
+    - video: 836
+    - scene: 315
+    - frame: 138
+    - photo: 38
+
+  text:
+    - description: 1362
+    - text: 476
+    - article: 277
+    - sentence: 263
+    - document: 130
+
+  audio:
+    - recording: 238
+    - speech: 126
+    - audio: 108
+    - sound: 99
+
+annotation:
+
+  label:
+    - annotation: 1056
+    - label: 598
+    - tag: 46
+
+  description:
+    - description: 1362
+    - caption: 129
+    - summary: 101
+
+  metadata:
+    - information: 272
+    - metadata: 188
+    - attribute: 76
+
+data_structure:
+
+  sequence:
+    - sequence: 249
+    - trajectory: 69
+    - series: 35
+    - stream: 16
+
+  collection:
+    - set: 24
+    - vector: 21
+    - matrix: 12
+
+  graph:
+    - graph: 150
+    - network: 61
+    - tree: 12
+
+data_format:
+
+  file:
+    - document: 130
+    - file: 80
+    - record: 45
+
+  signal:
+    - data: 815
+    - signal: 142
+    - feature: 129
+
+  mask:
+    - mask: 163
+    - map: 161
+    - segmentation: 105

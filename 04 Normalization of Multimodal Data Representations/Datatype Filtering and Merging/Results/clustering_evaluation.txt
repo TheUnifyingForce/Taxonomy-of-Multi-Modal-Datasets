@@ -1,0 +1,39 @@
+Data Type Clustering Effectiveness Evaluation Report
+================================================
+Generated on: 2025-02-26 20:45:46
+
+Input Statistics:
+Total original data types: 14,652
+Total original frequency: 27,168
+Total clusters formed: 436
+
+Effectiveness Metrics:
+-------------------
+Compression Ratio: 97.02%
+Frequency Coverage: 72.11%
+Type Retention: 64.24%
+
+Matching Method Distribution:
+-------------------------
+Prefix Exact: 0.06%
+Prefix Category: 18.93%
+Suffix Exact: 76.95%
+Suffix Category: 4.06%
+
+Key Findings:
+1. Successfully reduced 14,652 data types to 436 clusters
+2. Maintained 72.1% of the original frequency coverage
+3. Most common matching method: Suffix Exact
+
+Cluster Quality Metrics:
+----------------------
+Average Intra-cluster Similarity: 83.47%
+Average Inter-cluster Distance: 72.77%
+Estimated Silhouette Score: 77.28%
+
+Cluster Size Statistics:
+Mean Size: 21.6
+Median Size: 2.0
+Standard Deviation: 110.3
+Size Range: 2 - 1920
+4. Average intra-cluster similarity of 83.5% indicates strong coherence within clusters

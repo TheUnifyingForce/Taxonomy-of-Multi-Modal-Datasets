@@ -1,0 +1,206 @@
+Data Type Similarity Analysis Report
+==================================================
+
+
+Overall Statistics
+------------------------------
+Total Groups: 436
+Total Types: 9413
+Total Frequency: 19590
+
+Matching Statistics
+------------------------------
+
+Prefix Exact Matches:
+  question: 697
+  speech: 544
+  3d: 429
+  entity: 74
+  product: 47
+  ground: 47
+  natural: 43
+  semantic: 37
+  traffic: 35
+  real: 28
+
+Prefix Category Matches:
+
+attributes_quality:
+  Groups: 1
+  Types: 25
+  Total Frequency: 25
+  Matched Patterns: high
+  Unmatched Patterns: clean, low, noisy, raw
+
+domain_medical:
+  Groups: 1
+  Types: 75
+  Total Frequency: 135
+  Matched Patterns: medical
+  Unmatched Patterns: clinical, health, patient
+
+domain_social:
+  Groups: 1
+  Types: 239
+  Total Frequency: 476
+  Matched Patterns: social
+  Unmatched Patterns: human, personal, user
+
+modality_sensor:
+  Groups: 1
+  Types: 593
+  Total Frequency: 927
+  Matched Patterns: imu
+  Unmatched Patterns: gps, lidar, radar, rgb, thermal
+
+modality_text:
+  Groups: 1
+  Types: 345
+  Total Frequency: 836
+  Matched Patterns: sentence
+  Unmatched Patterns: document, language, text, word
+
+modality_visual:
+  Groups: 1
+  Types: 340
+  Total Frequency: 645
+  Matched Patterns: depth
+  Unmatched Patterns: camera, face, image, rgb, scene, video, visual
+
+Suffix Exact Matches:
+  image: 4125
+  description: 1424
+  annotation: 1273
+  video: 688
+  label: 590
+  text: 463
+  article: 378
+  scene: 301
+  metadata: 295
+  information: 252
+  paper: 237
+  sequence: 215
+  caption: 201
+  frame: 166
+  signal: 151
+  code: 151
+  summary: 148
+  graph: 140
+  scan: 118
+  query: 117
+  feature: 113
+  document: 112
+  box: 109
+  pair: 103
+  model: 96
+  score: 96
+  expression: 92
+  clip: 86
+  audio: 82
+  segmentation: 29
+  speech: 23
+
+Suffix Category Matches:
+
+annotation_label:
+  Groups: 1
+  Types: 22
+  Total Frequency: 37
+  Matched Patterns: tag
+  Unmatched Patterns: annotation, label
+
+annotation_metadata:
+  Groups: 1
+  Types: 38
+  Total Frequency: 51
+  Matched Patterns: attribute
+  Unmatched Patterns: information, metadata
+
+content_audio:
+  Groups: 6
+  Types: 59
+  Total Frequency: 84
+  Matched Patterns: sound
+  Unmatched Patterns: audio, recording, speech
+
+content_visual:
+  Groups: 1
+  Types: 18
+  Total Frequency: 26
+  Matched Patterns: photo
+  Unmatched Patterns: frame, image, scene, video
+
+data_format_file:
+  Groups: 3
+  Types: 57
+  Total Frequency: 84
+  Matched Patterns: file, record
+  Unmatched Patterns: document
+
+data_format_mask:
+  Groups: 1
+  Types: 94
+  Total Frequency: 202
+  Matched Patterns: mask
+  Unmatched Patterns: map, segmentation
+
+data_structure_collection:
+  Groups: 4
+  Types: 25
+  Total Frequency: 36
+  Matched Patterns: matrix, set, vector
+
+data_structure_graph:
+  Groups: 5
+  Types: 38
+  Total Frequency: 55
+  Matched Patterns: network, tree
+  Unmatched Patterns: graph
+
+data_structure_sequence:
+  Groups: 8
+  Types: 65
+  Total Frequency: 78
+  Matched Patterns: series, stream, trajectory
+  Unmatched Patterns: sequence
+
+Similarity Matches:
+  Groups: 359
+  Types: 767
+  Total Frequency: 1538
+
+Matching Type Distribution
+------------------------------
+
+Prefix Exact Matches: 1981 (10.11%)
+Prefix Category Matches: 3044 (15.54%)
+Suffix Exact Matches: 12374 (63.16%)
+Suffix Category Matches: 653 (3.33%)
+Similarity Matches: 1538 (7.85%)
+
+High Frequency Pattern Statistics
+------------------------------
+
+Most Common Prefix Match Patterns:
+  question: 697
+  speech: 544
+  3d: 429
+  entity: 74
+  product: 47
+  ground: 47
+  natural: 43
+  semantic: 37
+  traffic: 35
+  real: 28
+
+Most Common Suffix Match Patterns:
+  image: 4125
+  description: 1424
+  annotation: 1273
+  video: 688
+  label: 590
+  text: 463
+  article: 378
+  scene: 301
+  metadata: 295
+  information: 252
