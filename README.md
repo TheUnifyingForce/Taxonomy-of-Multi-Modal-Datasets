@@ -13,19 +13,25 @@ The goal of this Master project is to develope a systematic framework to extract
 - 📜 **README.md** – Project documentation  
 
 ## Usage
-1. For applying to your own data, just run relevant notebooks or scripts in each folder as needed.  
-2. For exploring our Knowledge Graph, please look at below examples.
+1. To apply this to your own data, simply run the relevant notebooks or scripts in each folder as needed.
+2. To explore our Knowledge Graph, refer to the examples below.
 
 ## Knowledge Graph
 1. Name space
+
+```
 prefix mp: <http://masterproject.org/> 
 prefix ns1: <https://www.wikidata.org/wiki/> 
 prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
 prefix wd: <http://www.wikidata.org/entity/> 
 prefix xsd: <http://www.w3.org/2001/XMLSchema#> 
+```
 
 2. Example 1
-"""Select datasets which has Modality 'text' and Datatype 'sentence pair'"""
+
+**Select datasets which has Modality 'text' and Datatype 'sentence pair'
+
+```
 SELECT distinct ?Datasetlabel ?DatasetDesc WHERE {
         ?Dataset rdfs:label ?Datasetlabel .
     	?Dataset mp:dataset_description ?DatasetDesc .
@@ -35,9 +41,13 @@ SELECT distinct ?Datasetlabel ?DatasetDesc WHERE {
     	?datatype rdfs:label "sentence pair"     
         }
 limit 5
+```
 
 3. Example 2
-"""Select Datatype which has same relationship with 'image' as 'logo image' and Datasets contain Modality 'image' and the new Datatype"""
+
+**Select Datatype which has same relationship with 'image' as 'logo image' and Datasets contain Modality 'image' and the new Datatype
+
+```
 SELECT ?Datatypelabel ?Datasetlabel
 WHERE {
     	?Dataset mp:dataset_description ?DatasetDesc .
@@ -57,3 +67,4 @@ SELECT distinct ?Datatype ?Datatypelabel ?MDimage WHERE {
 limit 1
 }
 }limit 5
+```
