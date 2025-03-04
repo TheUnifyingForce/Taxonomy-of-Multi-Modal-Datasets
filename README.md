@@ -16,8 +16,8 @@ The goal of this Master project is to develope a systematic framework to extract
 1. To apply this to your own data, simply run the relevant notebooks or scripts in each folder as needed.
 2. To explore our Knowledge Graph, refer to the examples below.
 
-## Knowledge Graph
-1. Name space
+## Knowledge Graph Application
+1. Name Space
 
 ```
 prefix mp: <http://masterproject.org/> 
@@ -29,7 +29,7 @@ prefix xsd: <http://www.w3.org/2001/XMLSchema#>
 
 2. Example 1
 
-**Select datasets which has Modality 'text' and Datatype 'sentence pair'
+Select datasets which has Modality 'text' and Datatype 'sentence pair'
 
 ```
 SELECT distinct ?Datasetlabel ?DatasetDesc WHERE {
@@ -45,7 +45,7 @@ limit 5
 
 3. Example 2
 
-**Select Datatype which has same relationship with 'image' as 'logo image' and Datasets contain Modality 'image' and the new Datatype
+Select Datatype which has same relationship with 'image' as 'logo image' and Datasets contain Modality 'image' and the new Datatype
 
 ```
 SELECT ?Datatypelabel ?Datasetlabel
